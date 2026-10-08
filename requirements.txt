@@ -1,0 +1,40 @@
+# =============================================================================
+# Noisy-VLM-Benchmark: Dependencies
+# Benchmarking Vision-Language Models for Detailed Localized Captioning
+# Under Image Corruptions and Spatial Prompt Perturbations
+# =============================================================================
+
+# --- Core Deep Learning & Numerical Computing ---
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.4,<2.0.0
+
+# --- Vision-Language Models & Hugging Face Ecosystem ---
+transformers>=4.36.0
+accelerate>=0.25.0
+huggingface_hub>=0.20.0
+datasets>=2.16.0
+
+# --- Benchmark Corruptions & Image Processing ---
+imagecorruptions>=1.1.2
+scikit-image>=0.21.0
+opencv-python-headless>=4.8.0
+Pillow>=9.5.0
+
+# --- Benchmark Evaluation & LLM Judge Metrics ---
+pycocotools>=2.0.7
+pycocoevalcap>=0.0.9
+openai>=1.12.0
+sentence-transformers>=2.2.0
+nltk>=3.8.0
+
+# --- Data Handling & Plotting ---
+pandas>=2.0.0
+matplotlib>=3.7.0
+tqdm>=4.65.0
+requests>=2.31.0
+
+# --- Model-Specific Requirements (Optional / Model Dependent) ---
+# Note: GPT4RoI inference requires OpenMMLab packages:
+# mmengine>=0.10.0
+# mmcv==2.1.0
