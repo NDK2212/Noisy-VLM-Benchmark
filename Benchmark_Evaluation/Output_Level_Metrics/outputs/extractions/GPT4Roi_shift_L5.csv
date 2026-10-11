@@ -1,0 +1,1501 @@
+ann_id,category,pred_detailed,object,attributes
+1748313,label of trash_can,the trash can is green,trash can,green
+1711973,eyelet of shoe,the leg of the person wearing the jeans,leg,jeans
+1737793,lid of kettle,the top of a pepper grinder,pepper grinder,top
+1769918,side of guitar,a black guitar,guitar,black
+1731127,step of stool,the leg of a bed,bed leg,
+1707884,string of guitar,a microphone,microphone,
+1752349,inner_body of handbag,a hand holding a purse,purse,handheld; [none]
+1723070,zip of handbag,a black purse,purse,black
+1688719,top of bottle,the man has a tattoo,tattoo,
+1696629,toe_box of slipper_(footwear),the shoe is grey in color,shoe,grey
+1736242,bottom of basket,the table is wooden,table,wooden
+1709857,inner_side of helmet,the handle is black,handle,black
+1764451,throat of shoe,the sole of a shoe,shoe sole,
+1708384,rim of handbag,the bag is black in color,bag,black
+1766445,handle of wrench,the shadow of the toothbrush,toothbrush,shadow
+1745830,bottom of mug,the water is clear,water,clear
+1733066,lug of drum_(musical_instrument),the bottom of a drum set,drum set,bottom
+1753459,lower_bristles of broom,the wall is white in color,wall,white
+1721776,inner_body of jar,the lid is white in color,lid,white
+1699619,text of jar,a bottle of peanut butter,bottle,
+1739972,base of cup,part of a cream,cream,
+1691784,bottom of handbag,the bag is black in color,bag,black
+1746577,ring of bottle,the bowl is white,bowl,white
+1751774,border of towel,the wall is white in color,wall,white
+1704543,window of watch,the right side of the photo,[none],
+1743868,roll of tape_(sticky_cloth_or_paper),the left leg of the figurine,leg,left
+1691646,canopy of fan,the light is off,light,off
+1728597,toe_box of shoe,the shoe is black,shoe,black
+1725988,base of bottle,the bottle is clear,bottle,clear
+1733705,lid of carton,a red tomato,tomato,red
+1746554,logo of laptop_computer,the apple logo,apple logo,
+1762373,inner_body of wallet,the table is wooden,table,wooden
+1728200,pickguard of guitar,the guitar is black,guitar,black
+1751591,decoration of clock,the clock on the right,clock,
+1737727,button of television_set,the wall is white in color,wall,white
+1704757,rim of jar,the jar is made of glass,jar,glass
+1763109,base of bucket,the word love on the vase,vase,visible text
+1720631,tip of spoon,part of a table,table,
+1749849,clip of pen,a black pen,pen,black
+1763930,grip of hammer,a small white ball,ball,small; white
+1760447,handle of cup,the cup is black,cup,black
+1750168,light of fan,a white wall,wall,white
+1717793,strap of helmet,the seat is black,seat,black
+1729116,skirt of chair,green leaves on a tree,leaves,green
+1701237,outsole of slipper_(footwear),the shoes are pink,shoes,pink
+1701393,rim of table,a green vegetable,vegetable,green
+1713407,inner_body of blender,a hand holding a tomato,tomato,[none]
+1704416,stretcher of table,the table is wooden,table,wooden
+1693330,hole of trash_can,a white trash bag,trash bag,white
+1737265,flap of wallet,a black wallet,wallet,black
+1768886,lid of pan_(for_cooking),a pot on the stove,pot,
+1702759,terry_bar of towel,the mirror is on the wall,mirror,
+1704988,shade_cap of lamp,the wall is green,wall,green
+1747092,time_display of microwave_oven,the clock is on,clock,on
+1710298,stem of bicycle,the handle is black,handle,black
+1736528,back of guitar,a pink umbrella,umbrella,pink
+1764141,neck of spoon,the handle of the spoon,spoon handle,
+1767538,pediment of clock,a window with a view,window,view
+1765513,base of clock,the ceiling is white,ceiling,white
+1710828,face_shield of helmet,the wall is white in color,wall,white
+1721993,rim of trash_can,the chair is wooden,chair,wooden
+1728132,stretcher of chair,the seat is white,seat,white
+1692884,pom_pom of hat,the hat is green,hat,green
+1691124,nozzle of pipe,the top of the tank,tank,top
+1736884,text of mug,the table is wooden,table,wooden
+1709151,jaw of pliers,the blurry knife,knife,blurry
+1751536,finial of clock,the pole is white,pole,white
+1697904,splashboard of car_(automobile),the bottom of the truck is black,truck,black
+1731448,screw of scissors,the light is on,light,on
+1768043,headstock of guitar,the strings are white,strings,white
+1771725,eye of dog,a dog lying on a couch,dog,lying; []
+1709924,inner_body of can,the lid is black,lid,black
+1743572,base of handbag,the wall is white in color,wall,white
+1753213,seat of car_(automobile),the seat the man is sitting on,seat,
+1768946,inner_side of carton,the yellow flowers,flower,yellow
+1727836,lace of shoe,the shadow of the person,shadow,none
+1711634,switch of blender,the blender is white,blender,white
+1690266,lid of can,a can of drink,can,drink
+1715264,headlight of car_(automobile),the lights are on,lights,on
+1749819,headband of earphone,a black headphone,headphone,black
+1731429,cover of bucket,a large plastic container,container,large; plastic
+1724777,handle of pan_(for_cooking),the bottom half of the pizza,pizza,bottom half
+1715600,base of chair,the floor is tiled,floor,tiled
+1761679,drawer of table,the table is wooden,table,wooden
+1689592,dial of watch,the reflection of the person taking the picture,reflection,none
+1696658,pedestal_column of fan,the hand of a woman,hand,woman's
+1746797,handle of pliers,the floor is blue,floor,blue
+1754514,turntable of microwave_oven,the grill is metallic,grill,metallic
+1694140,steeringwheel of car_(automobile),the car the man is driving,car,
+1768799,cup of blender,the table is wooden,table,wooden
+1770453,ear_pads of earphone,the laptop has a black keyboard,keyboard,black
+1737091,lid of crate,the corner of a white bed,bed corner,white
+1769528,base of basket,the basket is brown in color,basket,brown
+1693325,body of pencil,a black ruler,ruler,black
+1747153,cable of laptop_computer,a black keyboard,keyboard,black
+1742014,head_tube of bicycle,the seat of a bicycle,bicycle seat,
+1755355,wiper of car_(automobile),white line on the road,line,white
+1686826,rim of glass_(drink_container),a glass of juice,glass,juice
+1762751,housing of earphone,the man has a beard,beard,
+1728157,mirror of car_(automobile),the side mirror of a car,side mirror,
+1724122,base of bowl,the bowl is white,bowl,white
+1705658,drawing of mug,skull and crossbones,skull and crossbones,
+1704563,spindle of chair,a white chair with a book on it,chair,white
+1728568,nozzle_stem of pipe,a black pipe,pipe,black
+1742043,barrel of pen,the pen is red,pen,red
+1760633,bottom of glass_(drink_container),a glass of orange juice,glass,orange juice
+1704791,taillight of car_(automobile),the car is black,car,black
+1742806,visor of hat,the hat is brown,hat,brown
+1728968,cover of basket,a sandwich on a plate,sandwich,[none]
+1746510,shelf of table,the legs of the table,table legs,
+1696001,handle of plastic_bag,the arm of a person holding a plastic bag,arm,plastic
+1769053,visor of helmet,the brim of the hat,brim,
+1756958,fringes of scarf,the green scarf,scarf,green
+1731180,gear of bicycle,the bike is blue,bike,blue
+1718692,rim of bucket,a white bucket,bucket,white
+1733015,bulb of lamp,the light is on,light,on
+1754234,stretcher of bench,the bench the skater is on,bench,
+1687652,pedal of bicycle,the tire is black,tire,black
+1688693,back_cover of telephone,a white cord,cord,white
+1695907,strap of belt,the shirt is blue,shirt,blue
+1770417,seat_stay of bicycle,a blue bike,bike,blue
+1688959,vapour_cover of blender,the handle is yellow,handle,yellow
+1694826,table_top of bench,the table is round,table,round
+1735071,vamp of shoe,the leg is hairy,leg,hairy
+1743450,rim of can,a silver bowl,bowl,silver
+1716308,screen of telephone,the screen is off,screen,off
+1764656,inner_side of hat,the hair is long,hair,long
+1720484,spout of blender,a white counter top,counter top,white
+1716334,case of watch,the shirt is green,shirt,green
+1747562,outsole of shoe,part of a trouser,trouser,
+1712666,vamp of slipper_(footwear),the socks are black,socks,black
+1731057,down_tube of bicycle,the bottle is red,bottle,red
+1753591,base of tray,the red table the plate is sitting on,table,red
+1706000,key of calculator,the buttons are black,button,black
+1691620,cap of bottle,the bottle cap is white,bottle cap,white
+1717842,seal_ring of blender,the top of the blender,blender lid,
+1728120,button of telephone,black cord on phone,cord,black
+1688414,cover of blender,the blender is white,blender,white
+1721924,door_handle of microwave_oven,the door is closed,door,closed
+1746858,body of calculator,the table the stuff is on,table,
+1746822,inner_side of microwave_oven,the light is on,light,on
+1687354,rim of cup,the table is black,table,black
+1697293,seat_tube of bicycle,the handle is black,handle,black
+1727691,pipe of lamp,a tall lamp,lamp,tall
+1769513,right_button of mouse_(computer_equipment),the mouse is gray,mouse,gray
+1769340,body of kettle,a silver tea kettle,tea kettle,silver
+1751926,shade_inner_side of lamp,a vase on a table,vase,[none]
+1718949,apron of chair,the seat is red,seat,red
+1729708,bottom of pan_(for_cooking),the pizza is round,pizza,round
+1751411,stile of chair,the bench is wooden,bench,wooden
+1737050,fork of bicycle,the tire is black,tire,black
+1725198,colied_tube of pipe,a blue hose,hose,blue
+1768733,left_button of mouse_(computer_equipment),the mouse is black,mouse,black
+1737292,side of carton,a red apple,apple,red
+1712535,handle of basket,the right hand rail,hand rail,
+1733176,base of pan_(for_cooking),the knife is sharp,knife,sharp
+1760639,sticker of jar,a white mouse,mouse,white
+1755585,hem of sweater,the arm of a woman,arm,woman's
+1689896,step of ladder,a ladder on the wall,ladder,
+1771396,rim of car_(automobile),the tire is black,tire,black
+1737330,hand of clock,the clock has a minute hand,clock,[none]
+1724549,grille of car_(automobile),the grill of a truck,grill,
+1720249,inner_body of trash_can,a silver bucket with ice in it,bucket,silver; with ice
+1720420,handle of vase,the vase is white,vase,white
+1706108,base of plate,the table is wooden,table,wooden
+1751213,windowpane of car_(automobile),the roof of the car,roof,
+1764367,top_tube of bicycle,the seat is black,seat,black
+1696514,body of soap,the head of a cat,cat head,
+1760873,nose of dog,the nose of a dog,dog nose,
+1719718,bottom of bowl,the orange that is cut,orange,cut
+1688141,text of can,a can of soda,can,soda
+1763301,inner_body of plastic_bag,the beans in the right hand picture,beans,
+1702117,base of television_set,the tv stand is black,tv stand,black
+1707036,saddle of bicycle,the bike has a black seat,bike seat,black
+1757862,neck of bottle,white label on bottle,label,white
+1740842,rim of mug,the rim of the bowl that is barely visible,bowl rim,barely visible
+1727234,handle of blender,the handle is white,handle,white
+1756289,body of guitar,a guitar behind a cat,guitar,
+1692861,inner_body of bucket,the bowl is white,bowl,white
+1744195,seat of stool,the sink is white,sink,white
+1693517,lid of jar,the lid is white,lid,white
+1746502,basket of bicycle,the bag is black in color,bag,black
+1724856,blade of fan,ceiling fan with lights,ceiling fan,with lights
+1710624,inner_side of crate,a white color bowl with some vegetables,bowl,white; with vegetables
+1726995,rim of hat,the baseball glove is black,baseball glove,black
+1718129,top of microwave_oven,the microwave is white,microwave,white
+1699934,body of plate,the meat is brown,meat,brown
+1703002,handle of handbag,a black handbag,handbag,black
+1769517,side of pan_(for_cooking),a silver pan,pan,silver
+1687706,leg of stool,a chair in the background,chair,
+1703297,base of lamp,a clear vase,vase,clear
+1689108,handlebar of bicycle,a black bicycle,bicycle,black
+1745097,rail of chair,the shadow of the man,shadow,
+1759246,handle of mug,the cup is white in color,cup,white
+1770514,back of remote_control,the wall is white,wall,white
+1687572,rail of ladder,the word fire on the side of the truck,truck,visible text
+1695247,text of plastic_bag,a white plastic lid,lid,white; plastic
+1734735,cuff of sweater,the shirt is pink,shirt,pink
+1742319,trunk of car_(automobile),the car is white,car,white
+1757320,bezel of telephone,a black telephone,telephone,black
+1731962,rim of pan_(for_cooking),the bottom right quarter of the pizza,pizza,bottom right quarter
+1709657,bottom of box,a box with a pizza,box,with pizza
+1716028,arm of bench,the bottom of the bench,bench,bottom
+1726354,leg of chair,the chair is wooden,chair,wooden
+1688481,outer_side of tray,a plate of food,plate,food
+1764604,handle of spoon,the soup is visible,soup,
+1756523,base of glass_(drink_container),the glass is clear,glass,clear
+1714619,mouth of vase,the floor is brown,floor,brown
+1756069,neckband of sweater,the black sweater the man is wearing,sweater,black
+1734557,base of blender,the white handle of the blender,handle,white
+1719258,wheel of car_(automobile),the ground is grey,ground,grey
+1760095,inner_side of pan_(for_cooking),the right side of the table,table,
+1758921,inner_body of mug,the top of the cup,cup,top
+1760830,control_panel of microwave_oven,the door handle is silver,door handle,silver
+1718681,food_cup of blender,the bottle is made of glass,bottle,glass
+1691609,leg of table,the wall is white,wall,white
+1751020,side of microwave_oven,the corner of the white screen,screen,white
+1711555,lid of trash_can,a black cord,cord,black
+1693013,apron of table,the table is made of metal,table,metal
+1765367,shoulder of sweater,the woman is holding a rope,rope,
+1732937,shoulder of bottle,the bottle is made of glass,bottle,glass
+1730737,inner_side of basket,a bowl of fruit,bowl,[none]
+1693361,inner_body of cup,a spoon in a cup of coffee,spoon,metal; long
+1733911,hood of car_(automobile),the corner of a white car,car corner,white
+1756259,tail of dog,the tail of the dog,tail,
+1761862,roof of car_(automobile),the car is white,car,white
+1695916,foot of vase,the bottom of the vase,vase,bottom
+1740434,window of car_(automobile),windows on the bus,window,
+1731250,arm of chair,the table the man is sitting at,table,
+1701972,handle of scissors,the scissors have a black handle,scissors,black handle
+1706987,top of television_set,the cats paws are on the tv,cat paw,
+1762289,button of cellular_telephone,the phone is silver,phone,silver
+1720116,text of newspaper,the green pepper on the left,pepper,green
+1754571,body of can,a can of beans,can,beans
+1758846,inner_body of glass_(drink_container),the liquid is yellow,liquid,yellow
+1750822,bumper of car_(automobile),the bus has a black bumper,bumper,black
+1734517,page of book,the sky is clear,sky,clear
+1759075,foot of dog,the hand of a person,hand,
+1747215,blade of scissors,the blade of the scissors,blade,
+1756190,rim of basket,a wicker chair,chair,wicker
+1737885,embroidery of pillow,a pink pillow,pillow,pink
+1761094,fender of car_(automobile),the car is parked,car,
+1691724,touchpad of laptop_computer,the touch pad on the laptop,touch pad,
+1730167,body of jar,the word chocolate on the jar,jar,visible text
+1701260,bowl of spoon,the spoon is silver,spoon,silver
+1729713,body of bucket,a white bucket,bucket,white
+1714333,finger_hole of scissors,the handle is black,handle,black
+1698421,label of bottle,a bottle of vodka,bottle,vodka
+1687627,windshield of car_(automobile),the car is white,car,white
+1740154,frame of mirror,a mirror on the wall,mirror,
+1689930,button of remote_control,the arm of a teddy bear,teddy bear arm,
+1733495,bezel of cellular_telephone,a cellphone with a lot of buttons,cellphone,a lot of buttons
+1735929,inner_side of box,the top of a bottle of beer,bottle cap,
+1759861,screen of cellular_telephone,the phone is white,phone,white
+1696334,back_cover of cellular_telephone,a cell phone,cell phone,
+1711727,side of crate,the arm of a man,arm,human; muscular
+1732563,body of mouse_(computer_equipment),the mouse is black,mouse,black
+1714041,handle of knife,a knife on the plate,knife,metal; sharp
+1747084,leg of bench,the shadow of the bench,bench,shadow
+1764221,body of mug,a white cup with coffee in it,cup,white; filled with coffee
+1692422,bottom of television_set,the tv is off,tv,off
+1745564,bottom of tray,the bowl with the noodles in it,bowl,[none]
+1737400,neck of vase,the glass is blue in color,glass,blue
+1710787,side of television_set,a black tv,tv,black
+1718755,shade of lamp,a picture on the wall,picture,
+1689358,blade of knife,the dough is white,dough,white
+1724865,rim of tray,a fork is on the table,fork,[none]
+1735018,neck of dog,the dog is wearing a collar,collar,
+1695103,seat of chair,the chair is blue,chair,blue
+1755315,lid of box,a pizza box,pizza box,
+1751815,inner_side of tray,the top of the aluminum foil,aluminum foil,top
+1731453,case of clock,the left side of a clock,clock,left side
+1697653,body of scarf,a wicker basket,basket,wicker
+1701391,body of towel,the shadow of the umbrella,umbrella,shadow
+1730052,ear of dog,the eyes are open,eyes,open
+1747504,body of trash_can,a shadow on the ground,shadow,on the ground
+1711682,yoke of sweater,the shirt is striped,shirt,striped
+1738857,body of bottle,a bottle of water,bottle,transparent
+1734448,back of laptop_computer,the corner of a white laptop,laptop corner,white
+1718115,rim of bowl,a bowl of food on a table,bowl,[none]
+1694714,body of sweater,the arm of a person,arm,
+1687368,side of basket,a wicker basket,basket,wicker
+1711262,body of handbag,the bag is brown,bag,brown
+1747877,leg of dog,the front legs of the dog,dog legs,
+1749253,sleeve of sweater,the arm of a woman,arm,woman's
+1741616,body of bowl,a white plastic fork,fork,white; plastic
+1752558,keyboard of laptop_computer,black keys on keyboard,keys,black
+1721466,rim of plate,a white plate with food on it,plate,white; [food]
+1712540,inner_body of bowl,a bowl of flour,bowl,flour
+1728628,seat of bench,the word on the side of the truck,truck,side; word
+1699747,bottom of plate,a white cup on a saucer,cup,white
+1755679,base_panel of laptop_computer,the keyboard of the laptop on the right,keyboard,
+1745496,cover of book,the book has a picture of a face on the cover,book cover,picture of a face
+1729376,head of dog,the head of a dog,dog head,
+1704317,back of bench,the back of the bench,bench,back
+1727536,wheel of bicycle,the front wheel of a bicycle,front wheel,
+1740817,body of dog,the hind quarters of a dog,dog hind quarters,
+1687108,side of box,a book under a box,book,[none]
+1754915,screen of laptop_computer,the monitor of a laptop,monitor,
+1717076,body of plastic_bag,blue bag with white writing,bag,blue; white writing
+1709337,back of chair,the chair is black in color,chair,black
+1759835,top of table,a plate of food,plate,food
+1744911,inner_wall of plate,a white plate,plate,white
+1757110,body of glass_(drink_container),the glass is clear,glass,clear
+1698998,body of vase,the vase is green,vase,green
+1698273,stretcher of table,the leg of a table,table leg,
+1736017,hole of trash_can,the trash can is black,trash can,black
+1730515,flap of wallet,a cell phone,cell phone,
+1751811,lid of pan_(for_cooking),a knife on the counter,knife,
+1715575,shade_cap of lamp,the light is on,light,on
+1692410,time_display of microwave_oven,the handle is white,handle,white
+1697145,stem of bicycle,the handlebars are black,handlebars,black
+1769791,back of guitar,the chair is wooden,chair,wooden
+1700248,neck of spoon,the handle is white in color,handle,white
+1740373,pediment of clock,the wall is white,wall,white
+1711933,base of clock,the bottom of the clock,clock,bottom
+1746465,face_shield of helmet,the helmet is white in color,helmet,white
+1693617,rim of trash_can,the silver part of the object,part,silver
+1693370,stretcher of chair,the top of the head of a person,head,
+1721913,pom_pom of hat,a sign on the building,sign,
+1738743,text of mug,black lettering on white background,lettering,black; white
+1753687,finial of clock,the top of the pole,pole,top
+1747225,splashboard of car_(automobile),the tire is black,tire,black
+1711482,eye of dog,the eyes are open,eyes,open
+1742753,base of handbag,a black and white bag,bag,black and white
+1718595,seat of car_(automobile),the side mirror of a car,side mirror,
+1699018,inner_side of carton,the hand of a man,hand,[none]
+1719715,lid of can,the lid is white,lid,white
+1747830,headlight of car_(automobile),the car is black,car,black
+1690200,headband of earphone,a black and silver cell phone,cell phone,black; silver
+1742253,cover of bucket,the lid is red,lid,red
+1753041,handle of pan_(for_cooking),the pizza on the left,pizza,
+1770248,base of chair,the chair is black,chair,black
+1694935,drawer of table,the lower right corner of the counter top,counter top,
+1716969,pedestal_column of fan,the arm of a man,arm,human; muscular
+1766818,handle of pliers,the bag is black,bag,black
+1739951,turntable of microwave_oven,the toaster is black,toaster,black
+1753812,cup of blender,the seat is black,seat,black
+1703767,ear_pads of earphone,the wire is black,wire,black
+1732317,lid of crate,a green plastic crate,crate,green; plastic
+1703882,base of basket,the shelf is white,shelf,white
+1713488,body of pencil,the table is wooden,table,wooden
+1725564,cable of laptop_computer,a white cord,cord,white
+1759208,head_tube of bicycle,a bike seat,bike seat,
+1744419,wiper of car_(automobile),the car has a black handle,handle,black
+1769459,rim of glass_(drink_container),the glass is clear,glass,clear
+1767256,housing of earphone,a black computer speaker,computer speaker,black
+1769853,mirror of car_(automobile),the car is black,car,black
+1702818,base of bowl,the bowl is white,bowl,white
+1703025,drawing of mug,a white cup with a handle,cup,white; with handle
+1723742,spindle of chair,the chair is wooden,chair,wooden
+1747733,nozzle_stem of pipe,the wall is tiled,wall,tiled
+1743034,barrel of pen,a white band on the table,band,white
+1708665,bottom of glass_(drink_container),the glass is clear,glass,clear
+1686458,taillight of car_(automobile),the car is brown in color,car,brown
+1759244,visor of hat,a woman wearing a pink hat,hat,pink
+1689194,cover of basket,a small brown box,box,small; brown
+1706964,shelf of table,the stand is wooden,stand,wooden
+1704630,handle of plastic_bag,a red and white shopping bag,shopping bag,red; white
+1733719,visor of helmet,the handle is black,handle,black
+1717241,fringes of scarf,a red and black scarf,scarf,red; black
+1759860,gear of bicycle,the bike is black,bike,black
+1700173,rim of bucket,the lid is white,lid,white
+1765359,bulb of lamp,a lamp shade,lamp shade,
+1691449,stretcher of bench,the bottom of the bench,bench,bottom
+1764343,back_cover of telephone,the phone is black in color,phone,black
+1768569,strap of belt,the belt is black,belt,black
+1727872,seat_stay of bicycle,the bike is silver,bike,silver
+1748460,vapour_cover of blender,the lid is white in color,lid,white
+1711747,table_top of bench,the table is wooden,table,wooden
+1691171,rim of can,a can of soda,can,soda
+1742739,screen of telephone,the screen of the phone,screen,
+1754410,inner_side of hat,the lady is light skinned,lady,light skinned
+1771559,spout of blender,the counter is brown,counter,brown
+1762529,case of watch,the watch is black in color,watch,black
+1695529,outsole of shoe,the shoe is black in color,shoe,black
+1765007,vamp of slipper_(footwear),a white plastic bag,bag,white; plastic
+1752532,down_tube of bicycle,the pole is white,pole,white
+1734925,base of tray,the red table,table,red
+1703749,cap of bottle,the bottle is white,bottle,white
+1717997,seal_ring of blender,the blender is white in color,blender,white
+1736215,button of telephone,the remote is black,remote,black
+1712115,cover of blender,the handle is black,handle,black
+1715631,door_handle of microwave_oven,the bottom of the microwave,microwave,bottom
+1765657,body of calculator,a black calculator,calculator,black
+1705956,inner_side of microwave_oven,the microwave is white,microwave,white
+1718835,rim of cup,the cup is white,cup,white
+1698798,seat_tube of bicycle,a tree trunk,tree trunk,
+1766216,pipe of lamp,the arm of a person,arm,
+1770880,right_button of mouse_(computer_equipment),the mouse is shiny,mouse,shiny
+1713745,body of kettle,the table is wooden,table,wooden
+1725912,shade_inner_side of lamp,the light is on,light,on
+1759699,apron of chair,the chair on the bottom right,chair,
+1751247,bottom of pan_(for_cooking),the fork on the plate,fork,[none]
+1695425,stile of chair,a chair with a woman sitting in it,chair,[none]
+1719322,fork of bicycle,the bike is silver,bike,silver
+1732213,colied_tube of pipe,the floor is black,floor,black
+1698735,left_button of mouse_(computer_equipment),the keyboard is black,keyboard,black
+1717293,side of carton,a bottle of water,bottle,transparent
+1758983,handle of basket,the top of the basket,basket,top
+1696931,base of pan_(for_cooking),the frisbee is blue,frisbee,blue
+1716163,sticker of jar,the word fresh on the label,label,visible text
+1692849,hem of sweater,the pants are white,pants,white
+1696774,step of ladder,the word police on the side of the truck,truck,visible text
+1745951,rim of car_(automobile),the front end of a car,car front end,
+1728774,hand of clock,the hands are black,hands,black
+1730556,grille of car_(automobile),the headlights of a truck,headlights,
+1722470,inner_body of trash_can,the trash can is green,trash can,green
+1736470,handle of vase,the top of the vase,vase,top
+1750875,base of plate,the cake is brown,cake,brown
+1721437,windowpane of car_(automobile),the car has a sunroof,car,sunroof
+1688619,top_tube of bicycle,the bike is yellow,bike,yellow
+1686181,body of soap,a silver sink faucet,sink faucet,silver
+1736511,nose of dog,the nose of a dog,dog nose,
+1687564,bottom of bowl,the bowl is white,bowl,white
+1730864,text of can,a clear bottle,bottle,clear
+1731472,inner_body of plastic_bag,the bag is black,bag,black
+1724085,base of television_set,the base of the tv,tv base,
+1691591,saddle of bicycle,the seat of a bicycle,bicycle seat,
+1765627,neck of bottle,the bottle is made of plastic,bottle,plastic
+1763701,rim of mug,the cup is shiny,cup,shiny
+1754050,handle of blender,the blurred out part of the image,blurred part,
+1749525,body of guitar,a guitar behind a chair,guitar,
+1712569,inner_body of bucket,the bowl is white,bowl,white
+1746103,seat of stool,the table is white,table,white
+1712949,lid of jar,the jelly is on the plate,jelly,[none]
+1717758,basket of bicycle,the handlebars of the bicycle,handlebars,
+1695977,blade of fan,the ceiling is white,ceiling,white
+1708458,inner_side of crate,the bottom two rows of the bottom row,row,bottom; two
+1751080,rim of hat,the man has brown hair,man,brown hair
+1719091,top of microwave_oven,the counter top is white,counter top,white
+1764142,body of plate,a silver knife,knife,silver
+1750956,handle of handbag,the woman is light skinned,woman,light skinned
+1692499,side of pan_(for_cooking),a black pan,pan,black
+1708545,leg of stool,the chair is red,chair,red
+1710947,base of lamp,a metal object with a handle,object,metal; with handle
+1753184,handlebar of bicycle,the handlebars of the bike,handlebars,
+1709871,rail of chair,a person sitting in a chair,chair,
+1766703,handle of mug,the cup is black,cup,black
+1755251,back of remote_control,a remote control,remote control,
+1691493,rail of ladder,the top of the car is white,car,white
+1733949,text of plastic_bag,the plastic is clear,plastic,clear
+1730714,cuff of sweater,the hand of a woman,hand,woman's
+1709826,trunk of car_(automobile),the car is black,car,black
+1737249,bezel of telephone,a black cord,cord,black
+1745939,rim of pan_(for_cooking),the middle of the three objects,object,
+1765587,bottom of box,the bottom left box,box,bottom left
+1705280,arm of bench,the hand of a woman,hand,woman's
+1713463,leg of chair,the floor is brown,floor,brown
+1755934,outer_side of tray,the plate is white,plate,white
+1691678,handle of spoon,the spoon is silver,spoon,silver
+1697007,base of glass_(drink_container),the shadow of the bottle,bottle,shadow
+1695537,mouth of vase,a glass vase,vase,glass
+1717797,neckband of sweater,the mouth of a teddy bear,teddy bear mouth,
+1753093,base of blender,the blender is silver,blender,silver
+1692253,wheel of car_(automobile),the bottom of the car is black,car,black
+1720636,inner_side of pan_(for_cooking),the silver tray,tray,silver
+1725228,inner_body of mug,the handle of the cup,handle,
+1722341,control_panel of microwave_oven,the switch is white,switch,white
+1752969,food_cup of blender,a blender,blender,
+1687690,leg of table,the table the stuff is on,table,
+1691104,side of microwave_oven,a sink,sink,
+1769017,lid of trash_can,the toilet seat is down,toilet seat,down
+1731190,apron of table,the table is wooden,table,wooden
+1701822,shoulder of sweater,the shirt is blue,shirt,blue
+1692174,shoulder of bottle,the glass is clear,glass,clear
+1727961,inner_side of basket,the oranges are in a bowl,bowl,[none]
+1758709,inner_body of cup,the cup is metallic,cup,metallic
+1721647,hood of car_(automobile),the car is black,car,black
+1696798,tail of dog,the dogs butt,dog,[none]
+1715662,roof of car_(automobile),the car has a windshield wiper,windshield wiper,
+1712431,foot of vase,the vase is clear,vase,clear
+1769711,window of car_(automobile),a man eating a donut,donut,
+1709224,arm of chair,the chair the man is sitting on,chair,
+1760528,handle of scissors,the handle is black,handle,black
+1728534,top of television_set,a television set,television set,
+1764554,button of cellular_telephone,the buttons are white,button,white
+1721338,text of newspaper,the floor is tiled,floor,tiled
+1771854,body of can,a picture of a bridge,bridge,
+1696190,inner_body of glass_(drink_container),a glass of dark liquid,glass,dark liquid
+1753477,bumper of car_(automobile),the car is black,car,black
+1725300,page of book,the book says earth,book,visible text
+1737441,foot of dog,the hand of a teddy bear,teddy bear hand,
+1759092,blade of scissors,the scissors are silver,scissors,silver
+1764695,rim of basket,the orange in the basket on the right,orange,[none]
+1728183,embroidery of pillow,the hand of a man,hand,[none]
+1743669,fender of car_(automobile),the van has a black stripe,van,black stripe
+1755963,touchpad of laptop_computer,the laptop is white,laptop,white
+1693979,body of jar,the cup is made of glass,cup,glass
+1723231,bowl of spoon,the spoon is silver,spoon,silver
+1716864,body of bucket,a silver pot,pot,silver
+1714725,finger_hole of scissors,scissors handle is orange,scissors handle,orange
+1757095,label of bottle,a bottle of wine,bottle,wine
+1765514,windshield of car_(automobile),the car driving by,car,
+1762852,frame of mirror,a mirror on the wall,mirror,
+1771014,button of remote_control,a remote control,remote control,
+1725593,bezel of cellular_telephone,the screen of the phone,screen,
+1707686,inner_side of box,the crust of the pizza,pizza crust,
+1711985,screen of cellular_telephone,the screen of the phone,screen,
+1744506,back_cover of cellular_telephone,a cartoon character on the phone,cartoon character,on the phone
+1716729,side of crate,the box is brown,box,brown
+1768060,body of mouse_(computer_equipment),the mouse is white,mouse,white
+1716614,handle of knife,the knife is sharp,knife,sharp
+1700344,leg of bench,the bench is wooden,bench,wooden
+1733183,body of mug,the handle of the cup,handle,
+1766100,bottom of television_set,the tv is black,tv,black
+1765723,bottom of tray,the blurry plate in the background,plate,blurry
+1742851,neck of vase,the vase is black,vase,black
+1770677,side of television_set,a tv,tv,
+1760002,shade of lamp,the light is on,light,on
+1688117,blade of knife,a strawberry on a piece of cake,strawberry,[none]
+1760865,rim of tray,the bottom of the plate,plate,bottom
+1697326,neck of dog,the neck of a man,neck,
+1762333,seat of chair,the couch is striped,couch,striped
+1765852,lid of box,a red ribbon,ribbon,red
+1694415,inner_side of tray,a plate of food,plate,food
+1753054,case of clock,the clock is white,clock,white
+1752891,body of scarf,a red scarf,scarf,red
+1703335,body of towel,a hanging towel,towel,hanging; [none]
+1711135,ear of dog,the ear of a dog,ear,
+1739037,body of trash_can,the blue chair the man is sitting on,chair,blue
+1725590,yoke of sweater,the shirt is black,shirt,black
+1728508,body of bottle,a glass of juice,glass,juice
+1691083,back of laptop_computer,the box is white,box,white
+1721526,rim of bowl,a bowl of soup,bowl,soup
+1722389,body of sweater,the shirt is striped,shirt,striped
+1704052,side of basket,the basket is brown,basket,brown
+1694110,body of handbag,a white paper on the table,paper,white
+1711231,leg of dog,the legs of a dog,dog legs,
+1768416,sleeve of sweater,the arm of a woman,arm,woman's
+1742426,body of bowl,the bowl is black,bowl,black
+1718109,keyboard of laptop_computer,the laptop is grey,laptop,grey
+1749869,rim of plate,a bowl of food,bowl,food
+1728383,inner_body of bowl,the oranges are visible,orange,
+1749385,seat of bench,the cat is sitting on the bench,bench,
+1712441,bottom of plate,the white plate on the top left,plate,white
+1702986,base_panel of laptop_computer,the keyboard is black,keyboard,black
+1763274,cover of book,a cat,cat,
+1741537,head of dog,the wall is white,wall,white
+1740276,back of bench,the bench behind the person in the white shirt,bench,
+1756353,wheel of bicycle,the front wheel of the bicycle,wheel,front
+1714910,body of dog,the dog is black,dog,black
+1759489,side of box,a green apple,apple,green
+1759000,screen of laptop_computer,the screen of the laptop,screen,
+1728916,body of plastic_bag,a white plastic bag with red writing,plastic bag,white; red writing
+1708508,back of chair,a blue chair with a white cushion,chair,blue; white cushion
+1748206,top of table,the pot is green,pot,green
+1751028,inner_wall of plate,the white part of the table under the eggs,table,white
+1769574,body of glass_(drink_container),a glass of water,glass,clear; filled
+1695857,body of vase,a vase,vase,
+1698525,headband of earphone,the hair is black in color,hair,black
+1755400,base of chair,the stand is black,stand,black
+1730460,pedestal_column of fan,a white rug on the floor,rug,white
+1701100,turntable of microwave_oven,the plate is white,plate,white
+1689253,cup of blender,the top of the blender,blender lid,
+1740066,lid of crate,a bowl of apples,bowl,[none]
+1734987,base of basket,the table is wooden,table,wooden
+1731519,cable of laptop_computer,the keyboard is black,keyboard,black
+1760771,wiper of car_(automobile),the car behind the one in focus,car,
+1769293,rim of glass_(drink_container),the reflection of the person taking the picture,reflection,none
+1715343,housing of earphone,white cord on the bed,cord,white
+1710654,mirror of car_(automobile),a side mirror of a car,side mirror,
+1733818,base of bowl,the bowl is white,bowl,white
+1737576,nozzle_stem of pipe,a pipe in the wall,pipe,in the wall
+1705560,barrel of pen,the edge of a piece of meat,piece of meat,edge
+1733404,bottom of glass_(drink_container),the table is wooden,table,wooden
+1702121,visor of hat,a black and white shoe,shoe,black and white
+1742599,cover of basket,the hand of a woman,hand,woman's
+1700627,shelf of table,the table is brown,table,brown
+1770014,handle of plastic_bag,a yellow cup with a spoon in it,cup,yellow
+1705141,fringes of scarf,a blue and white scarf,scarf,blue and white
+1700977,rim of bucket,the finger of a person,finger,
+1770379,bulb of lamp,a black cord,cord,black
+1751278,stretcher of bench,the bench is made of wood,bench,wood
+1709710,back_cover of telephone,the ear of a cat,ear,
+1734646,strap of belt,the shorts are blue,shorts,blue
+1694748,vapour_cover of blender,the handle of the blender,handle,
+1768826,table_top of bench,a wooden table,table,wooden
+1727602,inner_side of hat,a blue and yellow hat,hat,blue; yellow
+1730866,outsole of shoe,the shoe is black,shoe,black
+1747791,base of tray,a white table with a plate on it,plate,white
+1768336,cap of bottle,edge of a cake,cake edge,
+1709703,door_handle of microwave_oven,the microwave is white,microwave,white
+1723750,inner_side of microwave_oven,the bowl is white,bowl,white
+1764037,rim of cup,the top of the cup,cup,top
+1709043,pipe of lamp,a long black pole,pole,long; black
+1753155,right_button of mouse_(computer_equipment),the mouse is black,mouse,black
+1747535,body of kettle,a black and white coffee pot,coffee pot,black and white
+1741690,shade_inner_side of lamp,the man is light skinned,man,light skinned
+1686151,apron of chair,the chair is wooden,chair,wooden
+1735312,bottom of pan_(for_cooking),the bottom right quarter of the pizza,pizza,bottom right quarter
+1771188,stile of chair,the leg of a chair,chair leg,
+1757419,fork of bicycle,the back wheel of a bicycle,back wheel,
+1725573,colied_tube of pipe,a man in a blue shirt,man,blue shirt
+1742450,left_button of mouse_(computer_equipment),the light is on,light,on
+1736429,side of carton,a bottle of wine,bottle,wine
+1719706,handle of basket,the handle of the basket,basket handle,
+1728076,base of pan_(for_cooking),a stove with a pan on it,stove,[none]
+1724853,sticker of jar,the foil is silver,foil,silver
+1706943,hem of sweater,the shirt is blue,shirt,blue
+1687465,step of ladder,the ladder is metallic,ladder,metallic
+1686463,rim of car_(automobile),the tires are black,tire,black
+1687093,hand of clock,the clock hands are black,clock hands,black
+1717551,grille of car_(automobile),the handle is silver,handle,silver
+1753842,inner_body of trash_can,the toilet seat is down,toilet seat,down
+1730582,handle of vase,the leftmost vase,vase,
+1696507,base of plate,a bowl,bowl,
+1771435,windowpane of car_(automobile),the windshield of the car,windshield,
+1718125,top_tube of bicycle,the ear of a dog,ear,
+1711360,body of soap,a bottle of lotion,bottle,lotion
+1711838,nose of dog,the nose is black,nose,black
+1709026,bottom of bowl,a brown bowl,bowl,brown
+1724792,text of can,a glass of water,glass,clear; filled
+1697314,inner_body of plastic_bag,a yellow object in a plastic bag,object,yellow; plastic
+1741677,base of television_set,the tv is on,tv,on
+1717038,saddle of bicycle,the man is wearing blue jeans,jeans,blue
+1709095,neck of bottle,the hand of a woman,hand,woman's
+1764072,rim of mug,a plant,plant,
+1713194,body of guitar,the guitar the man is holding,guitar,
+1711675,inner_body of bucket,the bowl is white,bowl,white
+1740205,seat of stool,the table is wooden,table,wooden
+1691172,lid of jar,the cup is made of glass,cup,glass
+1726426,basket of bicycle,basket on the bike,basket,
+1726103,blade of fan,the ceiling is white,ceiling,white
+1724343,inner_side of crate,the box is wooden,box,wooden
+1720935,rim of hat,the white part of the object,object part,white
+1714812,top of microwave_oven,the laptop is white,laptop,white
+1711843,body of plate,the plate is white,plate,white
+1769533,handle of handbag,a hand with a ring on it,hand,ring
+1722860,side of pan_(for_cooking),a pizza with cheese and tomato sauce,pizza,cheese; tomato sauce
+1687579,leg of stool,a chair with a pillow on it,chair,pillow
+1770425,base of lamp,a pink vase,vase,pink
+1726902,handlebar of bicycle,the man is wearing a black belt,belt,black
+1756151,rail of chair,the chair is wooden,chair,wooden
+1699421,handle of mug,the cup is black,cup,black
+1753165,back of remote_control,the remote is black,remote,black
+1760602,rail of ladder,a tall metal ladder,ladder,tall; metal
+1710607,text of plastic_bag,the word is white,word,white
+1699498,cuff of sweater,a green sweater,sweater,green
+1768503,trunk of car_(automobile),license plate on the car,license plate,
+1743606,bezel of telephone,a black telephone,telephone,black
+1743579,rim of pan_(for_cooking),a pizza with mushrooms and peppers,pizza,mushrooms; peppers
+1717520,bottom of box,the crust of the pizza,pizza crust,
+1724404,arm of bench,the bench is black,bench,black
+1729331,leg of chair,the chair the girl is sitting on,chair,
+1709033,outer_side of tray,the table is blue,table,blue
+1756926,handle of spoon,a white wall,wall,white
+1755978,base of glass_(drink_container),a silver spoon,spoon,silver
+1694544,mouth of vase,the top of the vase,vase,top
+1709664,neckband of sweater,a man wearing a blue shirt,shirt,blue
+1718269,base of blender,the book is white,book,white
+1744293,wheel of car_(automobile),the car is black,car,black
+1714803,inner_side of pan_(for_cooking),a pizza with a heart on it,pizza,heart shape
+1715764,inner_body of mug,the coffee is brown,coffee,brown
+1744465,control_panel of microwave_oven,the knob is black,knob,black
+1712678,food_cup of blender,the wall is green in color,wall,green
+1705061,leg of table,the leg of a cat,cat leg,
+1731751,side of microwave_oven,a white microwave,microwave,white
+1761403,lid of trash_can,the floor is tiled,floor,tiled
+1742640,apron of table,the plate is white,plate,white
+1734048,shoulder of sweater,a green sweater,sweater,green
+1724223,shoulder of bottle,the word chocolate on the label,label,visible text
+1687393,inner_side of basket,the basket is wicker,basket,wicker
+1716671,inner_body of cup,a white cup with coffee in it,cup,white; filled with coffee
+1729182,hood of car_(automobile),the car is blue,car,blue
+1698198,tail of dog,the tail of the dog,tail,
+1689317,roof of car_(automobile),the top of the van is white,van,white
+1688486,foot of vase,the bottom of the vase,vase,bottom
+1707936,window of car_(automobile),the window is open,window,open
+1771477,arm of chair,the chair the bear is sitting on,chair,
+1716906,handle of scissors,the scissors are silver,scissors,silver
+1687440,top of television_set,the ceiling is white,ceiling,white
+1768897,button of cellular_telephone,the phone is black,phone,black
+1717876,text of newspaper,a newspaper being read by a man,newspaper,[none]
+1760435,body of can,the jar is black in color,jar,black
+1760040,inner_body of glass_(drink_container),the glass is clear,glass,clear
+1722043,bumper of car_(automobile),the car is black,car,black
+1719095,page of book,the book is open,book,open
+1764681,foot of dog,the leg of a dog,dog leg,
+1762037,blade of scissors,the scissors are silver,scissors,silver
+1766690,rim of basket,the blueberry container that is closest to the camera,blueberry container,closest
+1729992,embroidery of pillow,the white blanket under the woman,blanket,white
+1714576,fender of car_(automobile),the car is silver,car,silver
+1719157,touchpad of laptop_computer,the lower left portion of the photo,[none],
+1705631,body of jar,the bottle is clear,bottle,clear
+1706863,bowl of spoon,the plate is white,plate,white
+1711840,body of bucket,a clear plastic container,container,clear; plastic
+1713386,finger_hole of scissors,the shadow of the scissors,scissors,shadow
+1751523,label of bottle,the bottle is made of plastic,bottle,plastic
+1696807,windshield of car_(automobile),the car is white,car,white
+1763918,frame of mirror,the wall is white,wall,white
+1705575,button of remote_control,the remote in the middle,remote,
+1716976,bezel of cellular_telephone,the phone is black,phone,black
+1691856,inner_side of box,a white table with a pizza on it,pizza,white
+1769378,screen of cellular_telephone,the phone is black,phone,black
+1748015,back_cover of cellular_telephone,the phone is black,phone,black
+1746417,side of crate,a box of tissues,box,tissues
+1747074,body of mouse_(computer_equipment),a blue mouse,mouse,blue
+1730468,handle of knife,the bottom of a sandwich,sandwich,bottom
+1705931,leg of bench,the bench is made of stone,bench,stone
+1718725,body of mug,a cup of coffee with cream,cup,coffee; cream
+1745340,bottom of television_set,a cat watching tv,cat,watching
+1692518,bottom of tray,the donut on the bottom,donut,bottom
+1768983,neck of vase,the vase is white,vase,white
+1691247,side of television_set,the tv is off,tv,off
+1726149,shade of lamp,a wooden wall,wall,wooden
+1719332,blade of knife,a slice of cake,cake slice,
+1733845,rim of tray,a pizza,pizza,
+1704611,neck of dog,the dog is black,dog,black
+1725612,seat of chair,a white cat,cat,white
+1758873,lid of box,a bottle of wine,bottle,wine
+1722280,inner_side of tray,the table behind the food,table,
+1690648,case of clock,a clock,clock,
+1715856,body of scarf,a green scarf,scarf,green
+1711143,body of towel,a white robe hanging on a door,robe,white
+1700581,ear of dog,the ear of a dog,ear,
+1702367,body of trash_can,the floor is black,floor,black
+1731985,yoke of sweater,the shirt is white,shirt,white
+1715634,body of bottle,the corner of a wooden table,table corner,wooden
+1704022,back of laptop_computer,the man is wearing a white shirt,shirt,white
+1731524,rim of bowl,the bowl the food is in,bowl,
+1731605,body of sweater,the arm of a man,arm,human; muscular
+1698179,side of basket,a black hanging plant,plant,black; hanging
+1742171,body of handbag,the bag is blue,bag,blue
+1698188,leg of dog,the legs of a dog,dog legs,
+1748342,sleeve of sweater,a man with a black shirt,man,black shirt
+1743168,body of bowl,the broccoli in the right hand picture,broccoli,
+1749275,keyboard of laptop_computer,the screen is on,screen,on
+1726932,rim of plate,the plate is white,plate,white
+1731740,inner_body of bowl,the plate is white,plate,white
+1757592,seat of bench,a woman,woman,
+1691625,bottom of plate,a cup of coffee,cup,coffee
+1766043,base_panel of laptop_computer,the keyboard is black,keyboard,black
+1723607,cover of book,"the book titled : "" 100 most important women of the 20th century """,book,titled; 100 most important women of the 20th century
+1718774,head of dog,the ear of a dog,ear,
+1740359,back of bench,a woman laying on a bench,bench,
+1732697,wheel of bicycle,the front tire of the bike on the left,tire,front; bike
+1754944,body of dog,a black and white cat,cat,black and white
+1723265,side of box,the black table the food is sitting on,table,black
+1763280,screen of laptop_computer,the screen of the laptop,screen,
+1699599,body of plastic_bag,a white plastic bag,bag,white; plastic
+1728612,back of chair,a cat sitting on the drivers seat of a car,cat,sitting
+1718345,top of table,a wooden table,table,wooden
+1756420,inner_wall of plate,the white table,table,white
+1688470,body of glass_(drink_container),a clear glass,glass,clear
+1733561,body of vase,the flower is white,flower,white
+1742433,wiper of car_(automobile),the handle is silver,handle,silver
+1712427,rim of glass_(drink_container),the top of the bottle,bottle,top
+1744339,mirror of car_(automobile),the car is black,car,black
+1711689,base of bowl,banana in the bunch,banana,in the bunch
+1762130,barrel of pen,a blue pen,pen,blue
+1745263,visor of hat,the hat is black in color,hat,black
+1731108,cover of basket,a green plant,plant,green
+1735170,shelf of table,a black tv stand,tv stand,black
+1769177,handle of plastic_bag,the wall is white in color,wall,white
+1760918,fringes of scarf,the hand of a person,hand,
+1705440,bulb of lamp,a light in the ceiling,light,ceiling
+1731552,stretcher of bench,the bench is wooden,bench,wooden
+1718812,strap of belt,the shirt is white,shirt,white
+1756595,table_top of bench,the bench behind the man,bench,
+1746525,inner_side of hat,the woman is wearing a hat,hat,
+1756434,base of tray,the table the food is on,table,
+1694024,cap of bottle,a bottle of ketchup,bottle,
+1756160,door_handle of microwave_oven,the wall is white,wall,white
+1718805,rim of cup,the top of the cup,cup,top
+1748903,pipe of lamp,a computer monitor with a white background,computer monitor,white background
+1736932,right_button of mouse_(computer_equipment),the mouse is black,mouse,black
+1701777,body of kettle,the top of a salt shaker,salt shaker,top
+1686813,shade_inner_side of lamp,the shade is white,shade,white
+1686845,apron of chair,the floor is grey,floor,grey
+1745808,bottom of pan_(for_cooking),the rim of the bowl,bowl rim,
+1689140,stile of chair,the chair that is furthest away from the table,chair,
+1713030,colied_tube of pipe,the shower head,shower head,
+1745625,left_button of mouse_(computer_equipment),the phone is black in color,phone,black
+1714387,side of carton,a bottle of water,bottle,transparent
+1725870,handle of basket,the handle of a knife,knife handle,
+1762217,base of pan_(for_cooking),the table the food is on,table,
+1718746,hem of sweater,the shirt is striped,shirt,striped
+1760654,step of ladder,the top bunk of a bunk bed,bunk bed,top; []
+1697616,rim of car_(automobile),the sidewalk is grey,sidewalk,grey
+1722158,hand of clock,the clock is visible,clock,
+1694673,grille of car_(automobile),the headlight of a car,headlight,
+1764064,inner_body of trash_can,the bowl is white,bowl,white
+1731235,handle of vase,the vase is white,vase,white
+1704264,base of plate,the plate is white,plate,white
+1724805,windowpane of car_(automobile),the window is closed,window,closed
+1718998,top_tube of bicycle,the bike is red,bike,red
+1732263,body of soap,the wall is white in color,wall,white
+1709255,nose of dog,the nose of a dog,dog nose,
+1768691,bottom of bowl,the cup is white,cup,white
+1704012,text of can,a can of soda,can,soda
+1756342,inner_body of plastic_bag,a white tile floor,tile floor,white
+1716489,base of television_set,the car is on the road,car,
+1748165,saddle of bicycle,the seat is black,seat,black
+1757277,neck of bottle,part of a wall,wall,
+1767124,rim of mug,the cup is clear,cup,clear
+1752621,body of guitar,the guitar is black,guitar,black
+1764521,inner_body of bucket,the floor is tiled,floor,tiled
+1706577,seat of stool,the floor is wooden,floor,wooden
+1751901,lid of jar,the container is white,container,white
+1721209,basket of bicycle,a black car parked behind a green mailbox,car,black
+1764768,blade of fan,pictures on the wall,picture,
+1756549,rim of hat,the man is wearing a hat,hat,
+1754631,top of microwave_oven,a white counter top,counter top,white
+1733729,body of plate,the plate is white,plate,white
+1750447,handle of handbag,a black strap,strap,black
+1705745,side of pan_(for_cooking),a spoon in the hand,spoon,metal; small
+1711627,leg of stool,the stool is blue,stool,blue
+1687906,base of lamp,the wall is white in color,wall,white
+1715550,handlebar of bicycle,a basket on the front of a bicycle,basket,
+1710985,rail of chair,the chair that is closest to the window,chair,
+1771232,handle of mug,the cup is white,cup,white
+1714670,back of remote_control,the finger of a person,finger,
+1766895,rail of ladder,a crane in the background,crane,
+1691579,text of plastic_bag,a bag of chips,bag,chips
+1701268,cuff of sweater,the hand of a woman,hand,woman's
+1705255,trunk of car_(automobile),a white surfboard,surfboard,white
+1713263,bezel of telephone,the window is open,window,open
+1743026,rim of pan_(for_cooking),the food is green and yellow,food,green; yellow
+1763019,bottom of box,the donuts are visible,donuts,
+1757843,arm of bench,the back of the bench,bench,back
+1765437,leg of chair,the floor is wooden,floor,wooden
+1688765,outer_side of tray,the tray is silver,tray,silver
+1690602,handle of spoon,the shadow of the spoon,spoon,shadow
+1747644,base of glass_(drink_container),a red bucket,bucket,red
+1759250,mouth of vase,the top of the vase,vase,top
+1697026,neckband of sweater,the man is light skinned,man,light skinned
+1741771,base of blender,a black bicycle,bicycle,black
+1702396,wheel of car_(automobile),the truck is parked,truck,
+1751409,inner_side of pan_(for_cooking),a pizza in an oven,pizza,[none]
+1691053,inner_body of mug,the table is wooden,table,wooden
+1715651,control_panel of microwave_oven,the microwave is white,microwave,white
+1723040,food_cup of blender,the wall is white in color,wall,white
+1715532,leg of table,the leg of a man,leg,human; male
+1761867,side of microwave_oven,a white microwave,microwave,white
+1703952,lid of trash_can,the top of a black garbage can,garbage can,black
+1747022,apron of table,bananas on a table,banana,
+1705029,shoulder of sweater,the shirt is black,shirt,black
+1722586,shoulder of bottle,a bottle of vodka,bottle,vodka
+1715323,inner_side of basket,the apple that is closest to the red apple,apple,closest
+1770459,inner_body of cup,a cup of coffee,cup,coffee
+1687967,hood of car_(automobile),the road is tarmacked,road,tarmacked
+1760384,tail of dog,the dogs fur is brown,dog fur,brown
+1766776,roof of car_(automobile),the white car,car,white
+1721099,foot of vase,the shadow of the tree,tree shadow,
+1691201,window of car_(automobile),the driver of the car,driver,
+1744076,arm of chair,the chair is wooden,chair,wooden
+1769954,handle of scissors,the scissors are silver,scissors,silver
+1701774,top of television_set,clouds in the sky,clouds,in the sky
+1754833,button of cellular_telephone,part of a handle,handle,
+1762765,text of newspaper,the wall is white in color,wall,white
+1719757,body of can,a glass of water,glass,clear; filled
+1721597,inner_body of glass_(drink_container),the glass is clear,glass,clear
+1744349,bumper of car_(automobile),the tire is black,tire,black
+1760236,page of book,the book is white,book,white
+1702441,foot of dog,the dog is sitting on the ground,dog,
+1764859,blade of scissors,the scissors that are on the right side of the group of scissors,scissors,
+1706988,rim of basket,the basket is brown,basket,brown
+1743618,embroidery of pillow,the couch is brown,couch,brown
+1725069,fender of car_(automobile),a black car driving past,car,black
+1706950,touchpad of laptop_computer,the finger of a person,finger,
+1716455,body of jar,part of a table,table,
+1765862,bowl of spoon,the handle is wooden,handle,wooden
+1766209,body of bucket,a bottle of wine,bottle,wine
+1751616,finger_hole of scissors,the scissors are silver,scissors,silver
+1754018,label of bottle,a white paper on the table,paper,white
+1690803,windshield of car_(automobile),the car is black,car,black
+1711789,frame of mirror,a reflection of a bus,bus,reflection
+1699898,button of remote_control,the remote is black,remote,black
+1762742,bezel of cellular_telephone,the screen is on,screen,on
+1767214,inner_side of box,the bowl is white,bowl,white
+1757748,screen of cellular_telephone,the screen is on,screen,on
+1743601,back_cover of cellular_telephone,the phone is pink,phone,pink
+1736982,side of crate,a box of fruit,box,fruit
+1769456,body of mouse_(computer_equipment),the table is wooden,table,wooden
+1757258,handle of knife,the handle of the knife,knife handle,
+1728371,leg of bench,the bottom of the bench,bench,bottom
+1716306,body of mug,a silver ball,ball,silver
+1707729,bottom of television_set,the tv is black,tv,black
+1739648,bottom of tray,the top shelf,shelf,
+1766866,neck of vase,the background is blurry,[background],blurry
+1716584,side of television_set,a television set,television set,
+1735690,shade of lamp,a tv on the wall,tv,
+1702452,blade of knife,the spoon in the right hand picture,spoon,
+1686550,rim of tray,the top of the counter,counter,top
+1747382,neck of dog,the ear of a dog,ear,
+1697348,seat of chair,the chair is brown,chair,brown
+1692385,lid of box,a box of chocolate,box,chocolate
+1687053,inner_side of tray,the plate is white,plate,white
+1705068,case of clock,a clock with roman numerals,clock,roman numerals
+1687324,body of scarf,the shirt is green,shirt,green
+1737530,body of towel,a towel hanging on the wall,towel,hanging; [none]
+1738059,ear of dog,the ear of a dog,ear,
+1695954,body of trash_can,a woman,woman,
+1717829,yoke of sweater,the black part of the photo,part,black
+1754196,body of bottle,a bottle of wine,bottle,wine
+1765572,back of laptop_computer,the laptop is white,laptop,white
+1700038,rim of bowl,a spoon in a bowl,spoon,[none]
+1695806,body of sweater,the shirt is white,shirt,white
+1715055,side of basket,a brown wicker basket,basket,brown; wicker
+1725880,body of handbag,a black leather handbag,handbag,black; leather
+1721255,leg of dog,the dog is black and white,dog,black and white
+1690641,sleeve of sweater,a white and brown cat,cat,white; brown
+1706934,body of bowl,the orange in the front,orange,front
+1755269,keyboard of laptop_computer,the keyboard is black,keyboard,black
+1769980,rim of plate,the cake on the right,cake,
+1733734,inner_body of bowl,a green bowl,bowl,green
+1725333,seat of bench,the bench the women are sitting on,bench,
+1733995,bottom of plate,the plate is white,plate,white
+1721983,base_panel of laptop_computer,a black keyboard,keyboard,black
+1704977,cover of book,a white sheet,sheet,white
+1699679,head of dog,a white and black dog,dog,white; black
+1722337,back of bench,the seat of the bench,bench seat,
+1702164,wheel of bicycle,the bike is black,bike,black
+1743626,body of dog,the dog is brown,dog,brown
+1692334,side of box,a blue box of tissue,box,blue
+1715426,screen of laptop_computer,the monitor is on,monitor,on
+1694182,body of plastic_bag,the white line on the left,line,white
+1751955,back of chair,a chair that is being used by a woman,chair,used; [none]
+1693004,top of table,the hand of a woman,hand,woman's
+1687998,inner_wall of plate,the table under the plate,table,
+1761004,body of glass_(drink_container),a glass of wine,glass,clear; filled
+1688603,body of vase,the vase is white,vase,white
+1740193,fringes of scarf,the woman is wearing a skirt,skirt,
+1759305,bulb of lamp,a hanging light,light,hanging; [none]
+1762855,stretcher of bench,the seat of the bench,bench seat,
+1691530,table_top of bench,the woman is wearing a blue jeans,jeans,blue
+1727255,base of tray,the table is wooden,table,wooden
+1729881,door_handle of microwave_oven,the letter is white,letter,white
+1753158,rim of cup,the word oral on the toothbrush,toothbrush,visible text
+1767157,pipe of lamp,a white vase,vase,white
+1699742,right_button of mouse_(computer_equipment),the mouse is black in color,mouse,black
+1753856,body of kettle,the stove is white,stove,white
+1728034,shade_inner_side of lamp,light bulb in lamp,light bulb,
+1700464,apron of chair,the table is wooden,table,wooden
+1708713,bottom of pan_(for_cooking),the pancake is brown,pancake,brown
+1708638,stile of chair,a chair being stood upon by a woman,chair,
+1693101,colied_tube of pipe,the wall is white in color,wall,white
+1768741,left_button of mouse_(computer_equipment),the mouse is white,mouse,white
+1761397,handle of basket,the floor is tiled,floor,tiled
+1766075,base of pan_(for_cooking),a silver spoon,spoon,silver
+1761610,hem of sweater,a white string,string,white
+1703668,step of ladder,the leg of a teddy bear,teddy bear leg,
+1746085,hand of clock,the word is written in black,word,black
+1699217,inner_body of trash_can,the curb is black,curb,black
+1753816,handle of vase,the vase is clear,vase,clear
+1768658,base of plate,edge of a dish,dish,edge
+1730747,body of soap,a bottle of hand soap,bottle,hand soap
+1710718,nose of dog,the nose of a dog,dog nose,
+1729071,bottom of bowl,the bowl is white,bowl,white
+1723951,text of can,a bottle of soda,bottle,soda
+1699449,inner_body of plastic_bag,the oranges in the bag,orange,[none]
+1751799,base of television_set,a table,table,
+1703416,saddle of bicycle,the seat is black,seat,black
+1705552,neck of bottle,the bottle is made of glass,bottle,glass
+1756570,rim of mug,the soup is creamy,soup,creamy
+1707949,body of guitar,the guitar is black,guitar,black
+1759197,inner_body of bucket,the bucket is white,bucket,white
+1726741,seat of stool,the chair is black,chair,black
+1701131,lid of jar,the bowl is white,bowl,white
+1744072,basket of bicycle,a wooden bench,bench,wooden
+1747978,blade of fan,the fan is white in color,fan,white
+1701249,rim of hat,the hat is white,hat,white
+1769898,top of microwave_oven,the counter top behind the stove,counter top,
+1761920,body of plate,the plate is white,plate,white
+1770388,handle of handbag,the arm of a person,arm,
+1733005,side of pan_(for_cooking),the bottom half of the pizza,pizza,bottom half
+1703729,leg of stool,the woman is wearing black shoes,shoes,black
+1707839,base of lamp,a tall thin lamp,lamp,tall; thin
+1705963,rail of chair,a wooden bench,bench,wooden
+1712502,handle of mug,the cup is white in color,cup,white
+1700029,back of remote_control,the phone is black,phone,black
+1716601,rail of ladder,the building is red,building,red
+1724543,text of plastic_bag,blue letters on white background,letters,blue; white
+1726201,cuff of sweater,the hand of a woman,hand,woman's
+1714989,trunk of car_(automobile),the car is black,car,black
+1712792,bezel of telephone,black corded telephone,telephone,black; corded
+1756705,rim of pan_(for_cooking),a woman holding a piece of bread,piece of bread,
+1757828,bottom of box,the box is brown,box,brown
+1703564,arm of bench,the back of the bench,bench,back
+1694951,leg of chair,the hand of a woman,hand,woman's
+1721835,outer_side of tray,the table is white,table,white
+1758381,handle of spoon,a knife with a black handle,knife,black handle
+1714628,base of glass_(drink_container),the shadow of the hotdog,hotdog,shadow
+1710485,mouth of vase,the top of the head,head,top
+1716994,neckband of sweater,the shirt is white,shirt,white
+1700225,base of blender,a silver metal scale,scale,silver metal
+1767385,wheel of car_(automobile),the car is black,car,black
+1752870,inner_side of pan_(for_cooking),a black microwave,microwave,black
+1693347,inner_body of mug,the cup is white in color,cup,white
+1723832,control_panel of microwave_oven,the handle is white,handle,white
+1737017,food_cup of blender,the blender is made of glass,blender,glass
+1763812,leg of table,a small table,table,small
+1744253,side of microwave_oven,the light is on,light,on
+1759551,lid of trash_can,the wall is white,wall,white
+1697278,apron of table,the table is glass,table,glass
+1769875,shoulder of sweater,the man is wearing a necklace,necklace,
+1761569,shoulder of bottle,the bottle is made of plastic,bottle,plastic
+1688573,inner_side of basket,the handle of the basket,basket handle,
+1748253,inner_body of cup,the cup is white,cup,white
+1726679,hood of car_(automobile),the car is white in color,car,white
+1689766,tail of dog,the bench is wooden,bench,wooden
+1729829,roof of car_(automobile),the road is tarmacked,road,tarmacked
+1719342,foot of vase,the stand is black,stand,black
+1688495,window of car_(automobile),the car is black,car,black
+1755092,arm of chair,the floor is tiled,floor,tiled
+1708429,handle of scissors,the scissors are silver,scissors,silver
+1747996,top of television_set,the tv is on,tv,on
+1743738,button of cellular_telephone,the keypad of a cell phone,keypad,
+1770868,text of newspaper,the paper is white,paper,white
+1762484,body of can,the table is wooden,table,wooden
+1724366,inner_body of glass_(drink_container),the glass is shinny,glass,shinny
+1699172,bumper of car_(automobile),the front tire of the bus,tire,front
+1724910,page of book,the pages of an open book,book pages,
+1769599,foot of dog,the edge of the bed,bed edge,
+1747685,blade of scissors,the scissors are silver,scissors,silver
+1761044,rim of basket,a bunch of carrots,carrots,bunch
+1721528,embroidery of pillow,a pillow on a bed,pillow,[none]
+1693854,fender of car_(automobile),a white car,car,white
+1747309,touchpad of laptop_computer,the keyboard is black,keyboard,black
+1717282,body of jar,the carrots are visible,carrots,
+1742486,bowl of spoon,the spoon is shiny,spoon,shiny
+1741744,body of bucket,the handle of the container,handle,container
+1751828,finger_hole of scissors,the handle is green,handle,green
+1724134,label of bottle,the bottle is made of glass,bottle,glass
+1764194,windshield of car_(automobile),a tree in a distance,tree,distant
+1748518,frame of mirror,the cat is sitting,cat,
+1711865,button of remote_control,the remote is black,remote,black
+1705058,bezel of cellular_telephone,a man in a picture,man,
+1733075,inner_side of box,a white box with a logo on it,box,white; logo
+1752707,screen of cellular_telephone,the phone is black,phone,black
+1695825,back_cover of cellular_telephone,a white ipod,ipod,white
+1745607,side of crate,a basket on the front of a bicycle,basket,
+1724886,body of mouse_(computer_equipment),a black mouse,mouse,black
+1751054,handle of knife,the spoon on the right,spoon,
+1748264,leg of bench,a wooden bench,bench,wooden
+1703161,body of mug,a slice of lemon,lemon slice,
+1758766,bottom of television_set,the tv is on,tv,on
+1718194,bottom of tray,a hot dog in a bun,hot dog,in a bun
+1702221,neck of vase,the window on the left,window,
+1709313,side of television_set,the monitor on the left,monitor,
+1727831,shade of lamp,the lamp shade is white,lamp shade,white
+1765957,blade of knife,a knife on the table,knife,[none]
+1728296,rim of tray,a bowl of food,bowl,food
+1688428,neck of dog,the mouth of a dog,dog mouth,
+1699404,seat of chair,the chair is wooden,chair,wooden
+1728947,lid of box,a bottle of wine,bottle,wine
+1772139,inner_side of tray,the container is blue,container,blue
+1735075,case of clock,a clock with a sun on it,clock,with sun
+1718296,body of scarf,a person wearing a black jacket and blue jeans,person,black; blue
+1753452,body of towel,the sink is green,sink,green
+1737799,ear of dog,the hand of a woman,hand,woman's
+1727947,body of trash_can,the trash can is black,trash can,black
+1770368,yoke of sweater,the woman is wearing a black shirt,shirt,black
+1705042,body of bottle,a bottle of olive oil,bottle,olive oil
+1694793,back of laptop_computer,the cat is black and white,cat,black and white
+1724481,rim of bowl,a bowl of food,bowl,food
+1756485,body of sweater,the pants are black,pants,black
+1687862,side of basket,a woven basket,basket,woven
+1755944,body of handbag,a black handbag,handbag,black
+1711813,leg of dog,the front legs of the dog,dog legs,
+1760743,sleeve of sweater,the shirt is white,shirt,white
+1742834,body of bowl,a small white bowl,bowl,small; white
+1719770,keyboard of laptop_computer,the keyboard the person is using,keyboard,
+1752276,rim of plate,the table the plate is sitting on,table,
+1745400,inner_body of bowl,the hand of a woman,hand,woman's
+1743064,seat of bench,the bench the people are sitting on,bench,
+1698174,bottom of plate,a blue place mat,place mat,blue
+1731538,base_panel of laptop_computer,the keyboard is black,keyboard,black
+1732736,cover of book,a painting of a man and woman,painting,man and woman
+1731264,head of dog,the dog is black,dog,black
+1724502,back of bench,a white bench,bench,white
+1723417,wheel of bicycle,the floor is shiny,floor,shiny
+1739924,body of dog,the dog is brown,dog,brown
+1732202,side of box,a toilet with the lid down,toilet,lid down
+1750317,screen of laptop_computer,the screen is on,screen,on
+1762927,body of plastic_bag,a bag of chips,bag,chips
+1749296,back of chair,the back of a black chair,chair,black
+1720615,top of table,a woman standing behind a wine glass,wine glass,
+1735179,inner_wall of plate,a white plate,plate,white
+1718123,body of glass_(drink_container),the cup is made of glass,cup,glass
+1706891,body of vase,the vase is clear,vase,clear
+1748576,pipe of lamp,a black lamp post,lamp post,black
+1699714,body of kettle,a silver tea kettle,tea kettle,silver
+1748990,shade_inner_side of lamp,white clouds in blue sky,clouds,white; fluffy
+1708798,stile of chair,the chair is wooden,chair,wooden
+1726261,colied_tube of pipe,white wall behind the toilet,toilet,white
+1703006,handle of basket,a white paper bag,paper bag,white
+1758911,base of pan_(for_cooking),a silver tray,tray,silver
+1764082,hem of sweater,the shirt is white,shirt,white
+1765616,step of ladder,the wall is white in color,wall,white
+1694679,hand of clock,the minute hand of the clock,minute hand,
+1768307,inner_body of trash_can,the wall is white in color,wall,white
+1743792,handle of vase,the chair is wooden,chair,wooden
+1745728,base of plate,the hand of a man,hand,[none]
+1743042,body of soap,the cat is black,cat,black
+1687676,nose of dog,the nose of a dog,dog nose,
+1700170,bottom of bowl,the bowl the fruit is in,bowl,
+1745309,inner_body of plastic_bag,a white plastic bag,bag,white; plastic
+1744203,base of television_set,a black speaker,speaker,black
+1759746,saddle of bicycle,a green helmet,helmet,green
+1767188,neck of bottle,a green bottle,bottle,green
+1730709,rim of mug,the cup is white in color,cup,white
+1720333,body of guitar,the hand of a man,hand,[none]
+1761353,inner_body of bucket,the bucket is blue,bucket,blue
+1702640,seat of stool,the chair is black,chair,black
+1745801,basket of bicycle,a bicycle behind a table,bicycle,
+1767931,blade of fan,a ceiling fan,ceiling fan,
+1751900,rim of hat,a man wearing a hat,hat,
+1760176,top of microwave_oven,the light is on,light,on
+1763370,body of plate,the white table under the bowl,table,white
+1704747,handle of handbag,the handle of the bag,handle,bag
+1732424,side of pan_(for_cooking),a silver pot,pot,silver
+1737395,leg of stool,the leg of a table,table leg,
+1740768,base of lamp,a small wooden cabinet,cabinet,small; wooden
+1767335,rail of chair,the shirt is blue,shirt,blue
+1741009,handle of mug,the handle of the cup,handle,
+1751830,back of remote_control,the remote is black,remote,black
+1755103,rail of ladder,a tall ladder,ladder,tall
+1695995,text of plastic_bag,a bunch of bananas,bunch of bananas,
+1719490,cuff of sweater,the hand of a woman,hand,woman's
+1736910,trunk of car_(automobile),white line on the road,line,white
+1723065,bezel of telephone,a white telephone,telephone,white
+1755422,rim of pan_(for_cooking),the car behind the man,car,
+1721987,bottom of box,the black object in the right hand picture,object,black
+1727516,arm of bench,the bench is wooden,bench,wooden
+1714632,leg of chair,the chair on the left,chair,
+1746590,outer_side of tray,the top of the cake,cake,top
+1708423,handle of spoon,the fork is plastic,fork,plastic
+1731269,base of glass_(drink_container),the shadow of the glass,glass,shadow
+1695213,mouth of vase,the sky is clear,sky,clear
+1694890,neckband of sweater,the shirt is gray,shirt,gray
+1771153,base of blender,a blender,blender,
+1721111,inner_side of pan_(for_cooking),the middle cup,cup,
+1763861,inner_body of mug,the handle is black,handle,black
+1691515,control_panel of microwave_oven,the microwave is black,microwave,black
+1742843,food_cup of blender,a blender,blender,
+1747282,leg of table,the table is wooden,table,wooden
+1753253,side of microwave_oven,a window in the wall,window,
+1756573,lid of trash_can,the lid is closed,lid,closed
+1749338,apron of table,the table is white,table,white
+1741653,shoulder of sweater,the shirt is black,shirt,black
+1711336,shoulder of bottle,the word arizona,word,arizona
+1724511,inner_side of basket,a white wicker basket,basket,white; wicker
+1714338,inner_body of cup,the hand of a baby,hand,baby
+1756099,hood of car_(automobile),the windshield of the car,windshield,
+1741814,tail of dog,the dogs tail,tail,
+1731346,roof of car_(automobile),the car is silver,car,silver
+1747179,foot of vase,the rocks are visible,rocks,
+1758382,window of car_(automobile),the car is white in color,car,white
+1772106,arm of chair,the reflection of the couch in the glass table,couch,
+1762368,handle of scissors,the handle is brown,handle,brown
+1702224,top of television_set,the top of the screen,screen,
+1756225,button of cellular_telephone,the phone is white,phone,white
+1705416,text of newspaper,a magazine cover,magazine cover,
+1726052,body of can,a can of soda,can,soda
+1712804,inner_body of glass_(drink_container),the word champagne,word,[none]
+1754104,bumper of car_(automobile),the car is white,car,white
+1694999,page of book,a white laptop computer,laptop computer,white
+1749247,foot of dog,the dog is looking at the camera,dog,
+1707251,blade of scissors,the scissors are visible,scissors,
+1739105,rim of basket,the apple with a visible stem,apple,visible stem
+1687390,embroidery of pillow,the pillow is white,pillow,white
+1689800,fender of car_(automobile),the truck is white,truck,white
+1747592,touchpad of laptop_computer,the laptop is white,laptop,white
+1698358,body of jar,the plate is white,plate,white
+1762865,bowl of spoon,the reflection of the photographer,photographer,reflection
+1705598,body of bucket,a white blender,blender,white
+1748669,finger_hole of scissors,the eyes are open,eyes,open
+1709712,label of bottle,the word johns on the bottle,bottle,visible text
+1750194,windshield of car_(automobile),a man in a gray shirt,man,gray shirt
+1749569,frame of mirror,a mirror,mirror,
+1697992,button of remote_control,a remote control,remote control,
+1740870,bezel of cellular_telephone,the phone is black,phone,black
+1717332,inner_side of box,a slice of pizza in a white box,pizza slice,white box; [none]
+1763868,screen of cellular_telephone,a woman in a white shirt,woman,white shirt
+1712044,back_cover of cellular_telephone,the phone is black,phone,black
+1721501,side of crate,the box is brown,box,brown
+1730496,body of mouse_(computer_equipment),the mouse is white,mouse,white
+1752712,handle of knife,the shadow of the spoon,spoon,shadow
+1754150,leg of bench,the patch of dirt the bench is sitting on,patch of dirt,
+1756618,body of mug,a book,book,
+1702538,bottom of television_set,the tv screen,tv screen,
+1707202,bottom of tray,the bottom layer of the cake,cake,bottom layer
+1772102,neck of vase,the handle is brown,handle,brown
+1696845,side of television_set,a television,television,
+1747908,shade of lamp,a blue chair,chair,blue
+1736881,blade of knife,a knife cutting vegetables,knife,sharp; metal
+1694147,rim of tray,the white part of the plate,plate,white
+1714567,neck of dog,the dog is white,dog,white
+1749327,seat of chair,the chair is black,chair,black
+1762705,lid of box,the inside of the box is white,box,white
+1742578,inner_side of tray,a white table with a bunch of stuff on it,table,white; [none]
+1765355,case of clock,a clock with the number 15 on it,clock,number 15
+1709158,body of scarf,the woman is wearing a scarf,scarf,
+1711926,body of towel,the table is white,table,white
+1737588,ear of dog,the dog has long hair,dog,long hair
+1722288,body of trash_can,the back wheel of the motorcycle,wheel,back
+1744314,yoke of sweater,the man is wearing a black shirt,shirt,black
+1708355,body of bottle,the white part of the bottle,bottle,white
+1704361,back of laptop_computer,the laptop is black,laptop,black
+1768553,rim of bowl,a bowl of soup,bowl,soup
+1725925,body of sweater,a woman,woman,
+1742060,side of basket,a black bag in a basket,bag,black
+1690624,body of handbag,a black handbag,handbag,black
+1707349,leg of dog,the dog is brown,dog,brown
+1747375,sleeve of sweater,a woman wearing a brown jacket,jacket,brown
+1715024,body of bowl,the banana is yellow,banana,yellow
+1735945,keyboard of laptop_computer,the keyboard is black,keyboard,black
+1765257,rim of plate,the plate is white,plate,white
+1754036,inner_body of bowl,a bowl of food,bowl,food
+1728744,seat of bench,the bench is empty,bench,empty
+1759254,bottom of plate,the napkin is white,napkin,white
+1689039,base_panel of laptop_computer,the keyboard that the cat is sitting on,keyboard,
+1770925,cover of book,the word freedom on the book,book,visible text
+1715751,head of dog,the chair is wooden,chair,wooden
+1694895,back of bench,the sign is black,sign,black
+1689714,wheel of bicycle,the front wheel of a bicycle,front wheel,
+1761039,body of dog,the hand of a woman,hand,woman's
+1764327,side of box,the box is red,box,red
+1708258,screen of laptop_computer,the laptop is black in color,laptop,black
+1722335,body of plastic_bag,a bowl of oranges,bowl,none
+1688112,back of chair,the black object behind the woman,object,black
+1743883,top of table,a table with two chairs,table,[none]
+1727829,inner_wall of plate,a blueberry on a white plate,blueberry,white
+1726397,body of glass_(drink_container),the plate is white,plate,white
+1759847,body of vase,the vase is clear,vase,clear
+1764540,body of kettle,a white wall outlet,wall outlet,white
+1696825,colied_tube of pipe,a long pole,pole,long
+1746467,step of ladder,a motorcycle,motorcycle,
+1742580,hand of clock,the clock is white,clock,white
+1770238,inner_body of trash_can,the bowl is white,bowl,white
+1692800,handle of vase,the vase is white,vase,white
+1705842,base of plate,a white napkin,napkin,white
+1756009,body of soap,a white sink,sink,white
+1699718,bottom of bowl,the bowl is silver,bowl,silver
+1698676,inner_body of plastic_bag,black shoes on the floor,shoes,black
+1743271,base of television_set,a black remote control,remote control,black
+1747122,neck of bottle,a bottle of tabasco sauce,bottle,glass; tall; narrow
+1697109,inner_body of bucket,the bin is blue in color,bin,blue
+1694760,seat of stool,the chair is white,chair,white
+1695702,basket of bicycle,the shorts are blue,shorts,blue
+1727216,blade of fan,the window is open,window,open
+1733765,rim of hat,the shirt is blue,shirt,blue
+1687364,top of microwave_oven,the microwave is white,microwave,white
+1756502,body of plate,a blue plate with food on it,plate,blue; with food
+1705850,handle of handbag,a black handbag,handbag,black
+1754448,side of pan_(for_cooking),the pot is black,pot,black
+1692294,leg of stool,the stool is wooden,stool,wooden
+1731082,base of lamp,light on the wall,light,on wall
+1699792,rail of chair,the chair is black,chair,black
+1709669,handle of mug,the handle is black,handle,black
+1711915,back of remote_control,the phone is white,phone,white
+1689780,rail of ladder,the building has a window,window,
+1734846,text of plastic_bag,the word cake on the bag,bag,visible text
+1700916,cuff of sweater,the arm of a woman,arm,woman's
+1739793,trunk of car_(automobile),the car is blue,car,blue
+1771885,bezel of telephone,a black telephone,telephone,black
+1767909,rim of pan_(for_cooking),the first cupcake in the row,cupcake,
+1765971,bottom of box,a pizza on a table,pizza,
+1751789,arm of bench,the bottom of the bench,bench,bottom
+1737547,leg of chair,the floor is wooden,floor,wooden
+1689128,outer_side of tray,the table is wooden,table,wooden
+1720382,handle of spoon,green grape in bowl,grape,green; in bowl
+1723492,base of glass_(drink_container),the glass is clear,glass,clear
+1713478,mouth of vase,the red and yellow part of the container,container,red; yellow
+1720523,neckband of sweater,the chin of a man,chin,
+1745362,base of blender,black cord behind blender,cord,black
+1714627,inner_side of pan_(for_cooking),the top of the pizza,pizza,top
+1696921,inner_body of mug,the cup is white in color,cup,white
+1760923,control_panel of microwave_oven,a white microwave,microwave,white
+1700323,leg of table,the drawer is wooden,drawer,wooden
+1754134,side of microwave_oven,a cabinet door,cabinet door,
+1764479,lid of trash_can,the handle is silver,handle,silver
+1740646,apron of table,the table is reflective,table,reflective
+1713426,shoulder of sweater,a woman with brown hair,woman,brown hair
+1711820,shoulder of bottle,the milk is white in color,milk,white
+1716928,inner_side of basket,a white plastic bag,bag,white; plastic
+1716384,inner_body of cup,the handle of the cup,handle,
+1757761,tail of dog,the white tail of a dog,tail,white
+1767660,roof of car_(automobile),white line on the road,line,white
+1745422,foot of vase,the vase is white,vase,white
+1700405,window of car_(automobile),the car is black,car,black
+1736238,arm of chair,the chair is brown,chair,brown
+1712009,handle of scissors,the scissors are silver,scissors,silver
+1688609,top of television_set,the sky is clear,sky,clear
+1771475,button of cellular_telephone,the mouth of a man,mouth,
+1733109,text of newspaper,a slice of orange,orange slice,
+1709741,body of can,a can of soda,can,soda
+1740104,inner_body of glass_(drink_container),the shadow of the glass,glass,shadow
+1735154,bumper of car_(automobile),the bag is black,bag,black
+1743455,page of book,the pages are white,pages,white
+1701681,foot of dog,the legs are white,legs,white
+1711124,blade of scissors,a tie being cut,tie,cut
+1711937,rim of basket,the bananas are in a basket,basket,none
+1756729,embroidery of pillow,a flower on the pillow,flower,[none]
+1740493,fender of car_(automobile),the shirt is blue,shirt,blue
+1740797,touchpad of laptop_computer,the laptop is black,laptop,black
+1725808,body of jar,a clear glass,glass,clear
+1747268,bowl of spoon,the knife is silver,knife,silver
+1701021,body of bucket,a person in the background,person,
+1697873,finger_hole of scissors,the blurry part of the photo,photo,blurry
+1744462,label of bottle,the chair is wooden,chair,wooden
+1690217,windshield of car_(automobile),the sign is white,sign,white
+1688147,frame of mirror,a white couch,couch,white
+1726198,button of remote_control,the remote with the white face,remote,white
+1699410,bezel of cellular_telephone,the bottom of the phone,phone,bottom
+1755613,inner_side of box,the donuts are visible,donuts,
+1709074,screen of cellular_telephone,the keyboard is black,keyboard,black
+1712447,back_cover of cellular_telephone,the black cell phone,cell phone,black
+1697134,side of crate,the coconut is white,coconut,white
+1701846,body of mouse_(computer_equipment),the mouse is white,mouse,white
+1707370,handle of knife,the handle is black,handle,black
+1713673,leg of bench,the bottom of the bench,bench,bottom
+1735391,body of mug,the table is wooden,table,wooden
+1764821,bottom of television_set,the tv is on,tv,on
+1708522,bottom of tray,the donuts are visible,donuts,
+1741988,neck of vase,the neck of the vase,vase neck,
+1762938,side of television_set,a tv on the wall,tv,
+1695180,shade of lamp,the wall is brown,wall,brown
+1713300,blade of knife,the knife is silver,knife,silver
+1692402,rim of tray,a container of food,container,food
+1768757,neck of dog,the mouth of a dog,dog mouth,
+1703138,seat of chair,the seat is blue,seat,blue
+1765414,lid of box,the word bay on the box,box,visible text
+1738748,inner_side of tray,the right half of the image,half,
+1756041,case of clock,the clock is white,clock,white
+1704535,body of scarf,the arm of a person,arm,
+1700554,body of towel,the towel is green,towel,green
+1702425,ear of dog,the ear of a dog,ear,
+1768204,body of trash_can,a bucket,bucket,
+1689366,yoke of sweater,the shirt is white,shirt,white
+1719479,body of bottle,a bottle of wine,bottle,wine
+1757437,back of laptop_computer,the laptop is black,laptop,black
+1756042,rim of bowl,the part of the photo where the carrots are,carrots,
+1704555,body of sweater,the word bay,word,bay
+1700933,side of basket,a donut with chocolate sprinkles,donut,chocolate sprinkles
+1708749,body of handbag,the purse is black,purse,black
+1766981,leg of dog,the dog is running,dog,
+1723703,sleeve of sweater,the white shirt the woman is wearing,shirt,white
+1741758,body of bowl,a bowl of fruit,bowl,[none]
+1712866,keyboard of laptop_computer,the keyboard is white,keyboard,white
+1724255,rim of plate,the broccoli and the potatoe salad,potato salad,
+1708729,inner_body of bowl,the table the bowl is sitting on,table,
+1715815,seat of bench,the bench is wooden,bench,wooden
+1705923,bottom of plate,the plate is white,plate,white
+1747727,base_panel of laptop_computer,the keyboard is black,keyboard,black
+1715223,cover of book,a book with the title : the future of ideas,book,title text
+1747648,head of dog,a dog,dog,
+1691684,back of bench,a red table,table,red
+1709345,wheel of bicycle,the legs of a man,legs,[none]
+1763728,body of dog,a brown dog,dog,brown
+1758656,side of box,a white sign with black writing,sign,white; black writing
+1708945,screen of laptop_computer,the laptop is white,laptop,white
+1726456,body of plastic_bag,a bag of rice,bag,rice
+1702104,back of chair,a window behind the table,window,
+1716595,top of table,the table the man is standing on,table,
+1751332,inner_wall of plate,a man in a black shirt,man,black shirt
+1728363,body of glass_(drink_container),a glass of water,glass,clear; filled
+1763416,body of vase,the vase is white,vase,white
+1727405,colied_tube of pipe,the wall is tiled,wall,tiled
+1739914,inner_body of trash_can,a roll of toilet paper,toilet paper,
+1743614,handle of vase,the handle of the vase,handle,
+1757063,base of plate,a white plate,plate,white
+1752633,body of soap,the sink is white,sink,white
+1735560,bottom of bowl,the bowl is white,bowl,white
+1725100,inner_body of plastic_bag,the trash can is white,trash can,white
+1768156,neck of bottle,a bottle of wine,bottle,wine
+1763885,inner_body of bucket,the table is white,table,white
+1729236,seat of stool,the chair is wooden,chair,wooden
+1691256,basket of bicycle,the basket is black,basket,black
+1717451,blade of fan,the fan is white,fan,white
+1736921,rim of hat,the boy is wearing a necklace,necklace,
+1749073,top of microwave_oven,the board is wooden,board,wooden
+1744566,body of plate,the shadow of the cup,cup,shadow
+1735568,handle of handbag,a green bag,bag,green
+1721571,side of pan_(for_cooking),a piece of cake,cake,
+1755175,leg of stool,a stool with a red seat,stool,red
+1710335,base of lamp,a picture on the wall,picture,
+1762193,rail of chair,a white pole,pole,white
+1699124,handle of mug,the glass is full,glass,full
+1715185,back of remote_control,the remote is black in color,remote,black
+1760272,rail of ladder,shadow of the person,shadow,none
+1733061,text of plastic_bag,part of a paper,paper,
+1750893,cuff of sweater,a man ' s left hand,hand,left
+1727906,trunk of car_(automobile),the car is blue in color,car,blue
+1727266,bezel of telephone,a black cord,cord,black
+1702448,bottom of box,the pizza,pizza,
+1710641,arm of bench,a woman sitting on a bench,bench,
+1762030,leg of chair,the bottom of the chair is metal,chair,metal
+1744652,outer_side of tray,the counter top,counter top,
+1687420,handle of spoon,the handle of the spoon,spoon handle,
+1764323,base of glass_(drink_container),the shadow of the glass,glass,shadow
+1691634,mouth of vase,the towel is black,towel,black
+1748466,neckband of sweater,a black tie,tie,black
+1720934,inner_side of pan_(for_cooking),the pizza is on the grill,pizza,[none]
+1712082,inner_body of mug,a slice of orange,orange slice,
+1707967,control_panel of microwave_oven,the buttons are white,button,white
+1767105,leg of table,the legs of the table,table legs,
+1753131,side of microwave_oven,the fridge is white,fridge,white
+1717875,lid of trash_can,a black and white tennis shoe,tennis shoe,black and white
+1711935,apron of table,the table is wooden,table,wooden
+1757180,shoulder of sweater,the shirt is black,shirt,black
+1763771,shoulder of bottle,the word hot on the label,label,text
+1757530,inner_side of basket,the apple that is closest to the bananas,apple,closest
+1769258,inner_body of cup,the handle of the cup,handle,
+1767299,tail of dog,the tail of the dog,tail,
+1759182,foot of vase,the plate is white,plate,white
+1712011,window of car_(automobile),a white car,car,white
+1753423,arm of chair,the chair on the left,chair,
+1730060,handle of scissors,the scissors are silver,scissors,silver
+1689908,top of television_set,the tv is black,tv,black
+1712556,button of cellular_telephone,the phone is red,phone,red
+1693453,text of newspaper,a picture of a house,house,
+1758472,body of can,a clear plastic straw,straw,clear plastic
+1761760,inner_body of glass_(drink_container),the table is wooden,table,wooden
+1706392,bumper of car_(automobile),the black car parked in front of the silver car,car,black; silver
+1719152,page of book,the book is white,book,white
+1770985,foot of dog,the leg of a dog,dog leg,
+1731167,blade of scissors,the scissors are silver,scissors,silver
+1750368,rim of basket,the carrots are visible,carrots,
+1760607,embroidery of pillow,a black vase,vase,black
+1742387,fender of car_(automobile),the ground is grey,ground,grey
+1766832,touchpad of laptop_computer,the laptop is grey,laptop,grey
+1718519,body of jar,a bottle of ketchup,bottle,
+1739941,bowl of spoon,the handle of the spoon,spoon handle,
+1701161,body of bucket,the word only on the front of the container,container,front; word only
+1696529,finger_hole of scissors,the scissors are blue,scissors,blue
+1723784,label of bottle,a bottle of orange juice,bottle,orange juice
+1744700,windshield of car_(automobile),a white car,car,white
+1737804,frame of mirror,a mirror on the wall,mirror,
+1726934,button of remote_control,the cat is white,cat,white
+1760275,bezel of cellular_telephone,the phone is black,phone,black
+1691876,inner_side of box,the blurry object under the blue box,object,blurry
+1692216,screen of cellular_telephone,the word galaxy on the phone,phone,visible text
+1742807,back_cover of cellular_telephone,the phone is white,phone,white
+1726062,side of crate,white plastic crate,crate,white; plastic
+1751392,body of mouse_(computer_equipment),the table is white,table,white
+1712549,handle of knife,the blade of the knife,blade,
+1742746,leg of bench,the left side of the bench,bench,left side
+1764634,body of mug,the handle of a knife,knife handle,
+1697056,bottom of television_set,the monitor is on,monitor,on
+1734932,bottom of tray,the table mat is blue,table mat,blue
+1688683,neck of vase,the vase is white in color,vase,white
+1772126,side of television_set,a black tv,tv,black
+1733875,shade of lamp,the ceiling is white,ceiling,white
+1687907,blade of knife,a knife with a black handle,knife,black handle
+1704678,rim of tray,the table top,table top,
+1767327,neck of dog,the head of a dog,dog head,
+1771546,seat of chair,the chair is green,chair,green
+1752628,lid of box,green and white box,box,green; white
+1758462,inner_side of tray,a white plate,plate,white
+1766223,case of clock,the clock face that is closest to the camera,clock face,
+1756270,body of scarf,a white collar,collar,white
+1704434,body of towel,a white towel,towel,white
+1771423,ear of dog,the dog is black,dog,black
+1717597,body of trash_can,a black trash can,trash can,black
+1713798,yoke of sweater,the neck of a woman,neck,
+1687873,body of bottle,a glass of water,glass,clear; filled
+1693734,back of laptop_computer,the laptop is on,laptop,on
+1741319,rim of bowl,a bowl of cereal,bowl,[none]
+1768602,body of sweater,the shirt is green,shirt,green
+1764122,side of basket,a brown wooden cabinet,cabinet,brown; wooden
+1714436,body of handbag,a black bag,bag,black
+1737556,leg of dog,the legs of a dog,dog legs,
+1754751,sleeve of sweater,the shirt is striped,shirt,striped
+1746280,body of bowl,a water hose,hose,
+1705072,keyboard of laptop_computer,the keyboard is black,keyboard,black
+1695442,rim of plate,the white plate,plate,white
+1687110,inner_body of bowl,the carpet is white,carpet,white
+1687089,seat of bench,a tall black pole,pole,tall; black
+1715041,bottom of plate,the hand of a woman,hand,woman's
+1711255,base_panel of laptop_computer,the keyboard is black,keyboard,black
+1719782,cover of book,a person on the book,book,
+1756776,head of dog,the dog is black,dog,black
+1715732,back of bench,a man standing in front of a motorcycle,motorcycle,
+1702303,wheel of bicycle,the front wheel of a bicycle,front wheel,
+1702893,body of dog,a black and white dog,dog,black and white
+1715824,side of box,a box of cereal,cereal box,
+1740668,screen of laptop_computer,a web cam,web cam,
+1734916,body of plastic_bag,a man in black,man,black
+1686257,back of chair,a blue chair,chair,blue
+1700632,top of table,a table with lots of food on it,table,lots of food
+1746377,inner_wall of plate,the bottom plate in the right hand picture,bottom plate,
+1690398,body of glass_(drink_container),a glass of water,glass,clear; filled
+1720416,body of vase,the shelf is wooden,shelf,wooden
+1746285,handle of vase,the plant in the vase,plant,in vase
+1693258,bottom of bowl,the bowl is white,bowl,white
+1725967,basket of bicycle,the handlebars of the bicycle,handlebars,
+1748828,blade of fan,the lights are on,lights,on
+1701221,rim of hat,the man is wearing a tie,tie,
+1704146,body of plate,the plate is blue,plate,blue
+1734656,handle of handbag,a black purse strap,purse strap,black
+1769974,leg of stool,the wall is white in color,wall,white
+1748767,rail of chair,a glass on the table,glass,[none]
+1760070,back of remote_control,a white remote control,remote control,white
+1692738,rail of ladder,a tennis racket,tennis racket,
+1760064,text of plastic_bag,the wall is white in color,wall,white
+1741122,cuff of sweater,the hand of a woman,hand,woman's
+1722404,trunk of car_(automobile),the truck is white in color,truck,white

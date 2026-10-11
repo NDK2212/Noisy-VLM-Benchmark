@@ -109,7 +109,12 @@ Noisy-VLM-Benchmark/
 │
 ├── Benchmark_Evaluation/                      <- Metric calculation & LLM judge pipelines
 │   ├── Benchmark-CLAIR.ipynb                  <- Azure OpenAI GPT-4o batch judging & lexical scores
-│   └── Benchmark-Traditional-Metrics.ipynb    <- BLEU-1..4, METEOR, ROUGE-L, CIDEr, SPICE
+│   ├── Benchmark-Traditional-Metrics.ipynb    <- BLEU-1..4, METEOR, ROUGE-L, CIDEr, SPICE
+│   └── Output_Level_Metrics/                  <- OIP, CSR, APR, HAR under spatial prompt perturbations
+│       ├── extract.py / metrics.py            <- GPT-4o-mini extraction (cached) and metric computation
+│       ├── calibrate.py / plots.py            <- Threshold calibration and figures
+│       ├── data/ cache/ outputs/              <- Inputs, raw GPT responses, results (no API key needed)
+│       └── README.md                          <- Full documentation
 │
 └── Benchmark_Visualisation/                   <- Publication-ready curves & benchmark matrices
     ├── DAM_PACO/                              <- Curves for CLAIR, CIDEr, SPICE, BLEU-4, METEOR, ROUGE-L
@@ -119,6 +124,21 @@ Noisy-VLM-Benchmark/
         ├── Avg/
         └── Recog/
 ```
+
+### Reproducing the output-level metrics
+
+The proposed metrics (OIP, CSR, APR, HAR), their threshold calibration, and the corresponding figures
+can be reproduced on a CPU in a few minutes without an API key, because the GPT-4o-mini extractions are
+cached in the repository:
+
+```bash
+cd Benchmark_Evaluation/Output_Level_Metrics
+pip install -r requirements.txt
+python extract.py && python metrics.py && python calibrate.py && python plots.py
+```
+
+See [`Benchmark_Evaluation/Output_Level_Metrics/README.md`](Benchmark_Evaluation/Output_Level_Metrics/README.md)
+for the metric definitions, the extraction prompt, and the file formats.
 
 ---
 
