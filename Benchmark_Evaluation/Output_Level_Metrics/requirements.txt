@@ -1,0 +1,8 @@
+numpy
+pandas
+scipy
+matplotlib
+tqdm
+python-dotenv
+openai>=1.0
+sentence-transformers

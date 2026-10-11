@@ -1,0 +1,1501 @@
+ann_id,category,pred_detailed,object,attributes
+1748313,label of trash_can,A green trash can with a sticker on it.,trash can,green; sticker
+1711973,eyelet of shoe,The jeans are black in color.,jeans,black
+1737793,lid of kettle,The silver object on the left.,object,silver
+1769918,side of guitar,The guitar is a dark brown color with a white pick guard.,guitar,dark brown; white pick guard
+1731127,step of stool,The step is made of wood.,step,wood
+1707884,string of guitar,A man is sitting behind the guitar.,guitar,
+1752349,inner_body of handbag,The handbag is black in color.,handbag,black
+1723070,zip of handbag,The bag is black in color.,bag,black
+1688719,top of bottle,A glass of water on the table.,glass,clear; filled
+1696629,toe_box of slipper_(footwear),The shoe is brown in color.,shoe,brown
+1736242,bottom of basket,The donut on the right.,donut,
+1709857,inner_side of helmet,A black backpack on the floor.,backpack,black
+1764451,throat of shoe,The blue shoe that the cat is playing with.,shoe,blue
+1708384,rim of handbag,The black purse on the woman's shoulder.,purse,black
+1766445,handle of wrench,The toaster oven is made of metal.,toaster oven,metal
+1745830,bottom of mug,The cup is white and yellow.,cup,white; yellow
+1733066,lug of drum_(musical_instrument),A silver drum with a black head.,drum,silver; black head
+1753459,lower_bristles of broom,The broom is hanging on the wall.,broom,
+1721776,inner_body of jar,The jar is made of glass and has a yellow liquid in it.,jar,glass; yellow liquid
+1699619,text of jar,The red can of peanut butter.,can,red
+1739972,base of cup,The container of tartar sauce.,container,
+1691784,bottom of handbag,The bag is blue and white.,bag,blue; white
+1746577,ring of bottle,The jar in the middle of the other jars.,jar,
+1751774,border of towel,A white bucket with a black handle.,bucket,white; black handle
+1704543,window of watch,The watch has a black face with white numbers and a red hand.,watch,black face; white numbers; red hand
+1743868,roll of tape_(sticky_cloth_or_paper),A computer mouse with a black and white color scheme.,computer mouse,black and white
+1691646,canopy of fan,The red ceiling fan.,ceiling fan,red
+1728597,toe_box of shoe,The bottom of the shoe that is on the left.,shoe bottom,
+1725988,base of bottle,The glass bottle in the right hand picture.,bottle,glass
+1733705,lid of carton,The white object in the background is a blender.,blender,white
+1746554,logo of laptop_computer,The white spot on the laptop is the Apple logo.,apple logo,white
+1762373,inner_body of wallet,A wallet on a table.,wallet,
+1728200,pickguard of guitar,The black guitar strap.,guitar strap,black
+1751591,decoration of clock,The clock on the left.,clock,
+1737727,button of television_set,The television is black and white.,television,black; white
+1704757,rim of jar,The jar is made of glass and has a clear liquid inside.,jar,glass; clear liquid
+1763109,base of bucket,The chair is white and has a blue stripe.,chair,white; blue stripe
+1720631,tip of spoon,The table cloth is white and has a blue and white pattern.,table cloth,white; blue and white pattern
+1749849,clip of pen,The black object on the bottom right of the picture.,object,black
+1763930,grip of hammer,The remote control is black and silver.,remote control,black; silver
+1760447,handle of cup,A black and silver coffee mug with a handle.,coffee mug,black; silver; with handle
+1750168,light of fan,The light fixture is white and has a glass shade.,light fixture,white; glass shade
+1717793,strap of helmet,The black and white shoe on the bike.,shoe,black and white
+1729116,skirt of chair,The plant in the background is green and has a few leaves.,plant,green; few leaves
+1701237,outsole of slipper_(footwear),The pink foot of the teddy bear.,teddy bear foot,pink
+1701393,rim of table,The meat on the plate.,meat,
+1713407,inner_body of blender,The hand of a person holding a jar of food.,jar,food
+1704416,stretcher of table,A black table with a green rug on top.,table,black
+1693330,hole of trash_can,The trash can is white and has a plastic liner.,trash can,white; plastic liner
+1737265,flap of wallet,The wallet is made of leather and is sitting on the desk.,wallet,leather
+1768886,lid of pan_(for_cooking),A pan on a stove.,pan,[none]
+1702759,terry_bar of towel,The yellow toilet tank.,toilet tank,yellow
+1704988,shade_cap of lamp,A television set.,television set,
+1747092,time_display of microwave_oven,The clock on the microwave is lit up with the time of 2:46.,clock,lit up; displaying time
+1710298,stem of bicycle,The handlebar of a bicycle.,handlebar,
+1736528,back of guitar,The pink umbrella is on top of the pink jacket.,umbrella,pink
+1764141,neck of spoon,The carrots are orange and green in color.,carrots,orange; green
+1767538,pediment of clock,A bookshelf with a clock on it.,clock,
+1765513,base of clock,The light fixture is hanging from the ceiling.,light fixture,
+1710828,face_shield of helmet,The roof of the house is grey.,roof,grey
+1721993,rim of trash_can,The trash can is silver and has a black lid.,trash can,silver; black lid
+1728132,stretcher of chair,The wooden part of the chair that the cat is sitting on.,chair,wooden
+1692884,pom_pom of hat,The teddy bear with the plaid scarf on its head.,teddy bear,plaid scarf
+1691124,nozzle of pipe,The object within the red bounding box is a metal pipe.,pipe,metal
+1736884,text of mug,The cup is white and has a picture of a dog on it.,cup,white; picture of a dog
+1709151,jaw of pliers,The scissors on the left.,scissors,
+1751536,finial of clock,The gold decoration on top of the clock.,decoration,gold
+1697904,splashboard of car_(automobile),The back of a tow truck.,tow truck,back
+1731448,screw of scissors,The circular object in the middle of the scissors.,circular object,
+1768043,headstock of guitar,The guitar that the man is playing.,guitar,
+1771725,eye of dog,A dog is laying on a couch.,dog,
+1709924,inner_body of can,The can of coconut powder is a dark brown color.,can,dark brown
+1743572,base of handbag,The window is open.,window,open
+1753213,seat of car_(automobile),The dog is wearing a red and white jacket.,jacket,red and white
+1768946,inner_side of carton,The yellow flowers in the bottom left corner.,flower,yellow
+1727836,lace of shoe,The shoe is gray and white.,shoe,gray; white
+1711634,switch of blender,The circular button on the blender.,button,circular
+1690266,lid of can,The can is silver and has a white lid.,can,silver; white lid
+1715264,headlight of car_(automobile),The license plate of the car.,license plate,
+1749819,headband of earphone,The headphones are black and have a green and white logo on the earpiece.,headphones,black; green and white logo
+1731429,cover of bucket,"The object within the red rectangle is a large, dirty, metal container.",container,large; dirty; metal
+1724777,handle of pan_(for_cooking),The pizza is on a metal pan.,metal pan,metal
+1715600,base of chair,The floor is covered with a patterned carpet.,carpet,patterned
+1761679,drawer of table,A grey kitchen island with a wooden top.,kitchen island,grey; wooden top
+1689592,dial of watch,The watch face is black and white.,watch face,black; white
+1696658,pedestal_column of fan,The fan is black and white.,fan,black; white
+1746797,handle of pliers,A blue object with a silver handle.,object,blue; silver handle
+1754514,turntable of microwave_oven,The oven rack is silver.,oven rack,silver
+1694140,steeringwheel of car_(automobile),The steering wheel of a car.,steering wheel,
+1768799,cup of blender,The blurry person in the background.,person,blurry
+1770453,ear_pads of earphone,The headphones are black and have a black strap.,headphones,black; black strap
+1737091,lid of crate,The white pillow on the bed.,pillow,white
+1769528,base of basket,The wicker basket is woven with a pattern of diamonds.,basket,woven; pattern of diamonds
+1693325,body of pencil,A red ruler with black numbers.,ruler,red; black numbers
+1747153,cable of laptop_computer,A white keyboard on a table.,keyboard,white
+1742014,head_tube of bicycle,The handle bars of the bike.,handle bars,
+1755355,wiper of car_(automobile),The windshield of a car.,windshield,
+1686826,rim of glass_(drink_container),A glass of milk with a green leaf on top.,glass of milk,glass; with green leaf
+1762751,housing of earphone,The headphones on the man's head.,headphones,
+1728157,mirror of car_(automobile),The reflection of the dog in the mirror.,dog,reflection
+1724122,base of bowl,The bowl is white and black.,bowl,white; black
+1705658,drawing of mug,The skull on the mug.,skull,
+1704563,spindle of chair,The chair is white and made of wood.,chair,white; wood
+1728568,nozzle_stem of pipe,The object within the red bounding box is a pipe that is connected to the sink.,pipe,red
+1742043,barrel of pen,The orange pen is on the table.,pen,orange
+1760633,bottom of glass_(drink_container),The glass of orange juice in the back.,glass,orange juice
+1704791,taillight of car_(automobile),The back of a car with a red brake light.,car,red brake light
+1742806,visor of hat,The hat is brown in color.,hat,brown
+1728968,cover of basket,The sandwich in the right hand picture.,sandwich,
+1746510,shelf of table,The wooden table is brown in color.,table,brown; wooden
+1696001,handle of plastic_bag,The person on the left is wearing a white shirt and has a black arm.,person,white shirt; black arm
+1769053,visor of helmet,The fur of the cat's neck.,cat neck,fur
+1756958,fringes of scarf,The scarf is green and has a fringe.,scarf,green; fringe
+1731180,gear of bicycle,The bird is perched on the bike seat.,bike seat,
+1718692,rim of bucket,The bucket on the left.,bucket,
+1733015,bulb of lamp,The lamp is made of glass and has a yellow glow.,lamp,glass; yellow glow
+1754234,stretcher of bench,The bench that the skateboarder is on.,bench,
+1687652,pedal of bicycle,The black tire of a bicycle.,tire,black
+1688693,back_cover of telephone,A silver and black alarm clock.,alarm clock,silver; black
+1695907,strap of belt,The belt on the player's waist.,belt,waist
+1770417,seat_stay of bicycle,The blue bicycle with a white bag on the back.,bicycle,blue; white bag
+1688959,vapour_cover of blender,The microwave is white and black.,microwave,white; black
+1694826,table_top of bench,The table is blue and has a round shape.,table,blue; round
+1735071,vamp of shoe,A white sock with a blue stripe.,sock,white; blue stripe
+1743450,rim of can,The can of spam is sitting on the table.,can,
+1716308,screen of telephone,The screen of a cell phone.,cell phone screen,
+1764656,inner_side of hat,The hat is black in color.,hat,black
+1720484,spout of blender,The white countertop.,countertop,white
+1716334,case of watch,The watch on the person's wrist.,watch,on wrist; [none]
+1747562,outsole of shoe,A black shoe with a white sole.,shoe,black; white sole
+1712666,vamp of slipper_(footwear),The blue slippers on the left.,slippers,blue
+1731057,down_tube of bicycle,The orange seat of the bike.,seat,orange
+1753591,base of tray,The red tray that the plate is sitting on.,tray,red
+1706000,key of calculator,The calculator with the red button.,calculator,red button
+1691620,cap of bottle,The bottle is white and has a pink label.,bottle,white; pink label
+1717842,seal_ring of blender,The black part of the blender that is above the handle.,blender part,black
+1728120,button of telephone,The telephone is a black and grey color.,telephone,black; grey
+1688414,cover of blender,The white part of the blender.,blender,white
+1721924,door_handle of microwave_oven,The right side of the microwave.,microwave,
+1746858,body of calculator,The table is brown in color.,table,brown
+1746822,inner_side of microwave_oven,The yellow light is on.,light,yellow
+1687354,rim of cup,The bowl is white and has a yellow egg in it.,bowl,white
+1697293,seat_tube of bicycle,The metal bar that the bike is leaning on.,metal bar,metal
+1727691,pipe of lamp,The window is open and has a white frame.,window,white frame; open
+1769513,right_button of mouse_(computer_equipment),The keyboard is grey and black.,keyboard,grey; black
+1769340,body of kettle,The object within red rectangle is a silver pot with a handle.,pot,silver; with handle
+1751926,shade_inner_side of lamp,The object within the red bounding box is a blue vase.,vase,blue
+1718949,apron of chair,The chair that the cat is sitting on.,chair,
+1729708,bottom of pan_(for_cooking),"The pizza is a deep dish pizza with a golden crust. The crust is slightly crispy and has a few small holes. The pizza is topped with a generous amount of cheese and sauce. The cheese is melted and the sauce is slightly browned. The pizza is covered with a variety of toppings, including pepperoni, sausage, and mushrooms. The pepperoni is scattered all over the pizza, with some pieces being larger and others being smaller. The sausage is also scattered all over the pizza, with some pieces being larger and others being smaller. The mushrooms are also scattered all over the pizza, with some pieces being larger and others being smaller. The pizza is baked to a golden brown and is ready to be served.",pizza,deep dish; golden crust; crispy; small holes; melted cheese; slightly browned sauce; variety of toppings
+1751411,stile of chair,"The wooden bench is empty, with a few leaves scattered on it.",bench,wooden; empty; scattered leaves
+1737050,fork of bicycle,The tire of a bicycle.,tire,
+1725198,colied_tube of pipe,The blue hose is wrapped around the teddy bear.,teddy bear,wrapped
+1768733,left_button of mouse_(computer_equipment),The mouse is black in color.,mouse,black
+1737292,side of carton,The orange is on the right side of the table.,orange,[none]
+1712535,handle of basket,The banana on the right.,banana,
+1733176,base of pan_(for_cooking),The knife is silver and has a black handle.,knife,silver; black handle
+1760639,sticker of jar,The red chair in the background.,chair,red
+1755585,hem of sweater,The couch behind the woman in the striped shirt.,couch,
+1689896,step of ladder,A wooden ladder with a striped shirt hanging on it.,ladder,wooden
+1771396,rim of car_(automobile),The tire is black in color.,tire,black
+1737330,hand of clock,The minute hand of the clock.,minute hand,
+1724549,grille of car_(automobile),The front of the truck.,truck,
+1720249,inner_body of trash_can,A silver trash can with a white bag in it.,trash can,silver; white bag
+1720420,handle of vase,The wall behind the vase is white.,wall,white
+1706108,base of plate,The fork on the left side of the plate.,fork,left side
+1751213,windowpane of car_(automobile),The truck has a large windshield.,windshield,large
+1764367,top_tube of bicycle,The motorcycle seat is black and has a chrome finish.,motorcycle seat,black; chrome finish
+1696514,body of soap,The red towel hanging on the door.,towel,red
+1760873,nose of dog,The dog's nose is black and has a small black marking on the left side.,dog's nose,black; small marking
+1719718,bottom of bowl,The orange slice on the right.,orange slice,orange
+1688141,text of can,The can of soda is a silver can with a red and black label.,can,silver; red and black label
+1763301,inner_body of plastic_bag,The green beans in the bag.,bag,green
+1702117,base of television_set,A black framed television.,television,black framed
+1707036,saddle of bicycle,The black seat of a bicycle.,bicycle seat,black
+1757862,neck of bottle,The label on the bottle of beer.,label,bottle; beer
+1740842,rim of mug,The vase on the right.,vase,
+1727234,handle of blender,The green blender is a hand mixer that is used to blend foods.,hand mixer,green
+1756289,body of guitar,The guitar case is brown and has a black handle.,guitar case,brown; black handle
+1692861,inner_body of bucket,A white bucket filled with green apples.,bucket,white; filled
+1744195,seat of stool,The toilet seat is white and made of plastic.,toilet seat,white; plastic
+1693517,lid of jar,The can is silver and has a red lid.,can,silver; red lid
+1746502,basket of bicycle,The bag on the bike.,bag,
+1724856,blade of fan,The ceiling fan is white and made of wood.,ceiling fan,white; made of wood
+1710624,inner_side of crate,The green shelf that the vegetables are sitting on.,shelf,green
+1726995,rim of hat,The baseball glove is black in color.,baseball glove,black
+1718129,top of microwave_oven,A microwave on a dock.,microwave,
+1699934,body of plate,The red meat is sliced and appears to be a type of sausage.,sausage,red; sliced
+1703002,handle of handbag,The person's arm is visible in the photo.,arm,
+1769517,side of pan_(for_cooking),The table top area between the two trays.,table top,
+1687706,leg of stool,The chair is brown in color.,chair,brown
+1703297,base of lamp,The white lamp shade.,lamp shade,white
+1689108,handlebar of bicycle,The bike in the right hand picture.,bike,
+1745097,rail of chair,The chair in the background is made of wood.,chair,wood
+1759246,handle of mug,The slice of cake on the plate.,slice of cake,
+1770514,back of remote_control,The remote control is black in color.,remote control,black
+1687572,rail of ladder,"The words ""salt lake city"" are written on the side of the fire truck.",fire truck,visible text
+1695247,text of plastic_bag,The plastic bag is white and clear.,plastic bag,white; clear
+1734735,cuff of sweater,The table top area where the woman is sitting.,table top,
+1742319,trunk of car_(automobile),The back of a white car with a license plate that reads 18-18-18.,car,white; license plate
+1757320,bezel of telephone,A black telephone with a green and white display.,telephone,black; green and white display
+1731962,rim of pan_(for_cooking),The pizza in the right hand picture.,pizza,
+1709657,bottom of box,A pizza in a box.,pizza,in a box
+1716028,arm of bench,The leg of a woman.,leg,woman's
+1726354,leg of chair,The white wall behind the chair.,wall,white
+1688481,outer_side of tray,A plate of spaghetti and meat sauce.,plate,spaghetti; meat sauce
+1764604,handle of spoon,The spoon in the soup.,spoon,
+1756523,base of glass_(drink_container),The glass on the right.,glass,
+1714619,mouth of vase,The bowl is made of glass.,bowl,glass
+1756069,neckband of sweater,The black sweater the man is wearing.,sweater,black
+1734557,base of blender,The blender is white and black.,blender,white; black
+1719258,wheel of car_(automobile),The ground is grey.,ground,grey
+1760095,inner_side of pan_(for_cooking),The hot dog on the left.,hot dog,
+1758921,inner_body of mug,The white foam on top of the coffee.,foam,white
+1760830,control_panel of microwave_oven,The microwave oven is white in color.,microwave oven,white
+1718681,food_cup of blender,A blender with a green liquid in it.,blender,green liquid
+1691609,leg of table,The leg of the table on the right.,table leg,
+1751020,side of microwave_oven,A computer monitor with a keyboard in front of it.,computer monitor,
+1711555,lid of trash_can,The object within the red rectangle is a trash can.,trash can,red rectangle
+1693013,apron of table,The counter top is made of stainless steel.,counter top,stainless steel
+1765367,shoulder of sweater,The jacket the woman is wearing.,jacket,
+1732937,shoulder of bottle,The word cough on the bottle.,bottle,visible text
+1730737,inner_side of basket,The blue basket with the limes in it.,basket,blue
+1693361,inner_body of cup,The spoon in the coffee.,spoon,metal; shiny
+1733911,hood of car_(automobile),The white car on the far left.,car,white
+1756259,tail of dog,The dog's tail is brown and white.,dog tail,brown; white
+1761862,roof of car_(automobile),The car in the front.,car,
+1695916,foot of vase,The base of the vase is black.,vase base,black
+1740434,window of car_(automobile),The bus has a row of windows on the side.,bus,row of windows
+1731250,arm of chair,The man is wearing a blue shirt and a pink tie.,shirt,blue
+1701972,handle of scissors,The scissors are blue and silver.,scissors,blue; silver
+1706987,top of television_set,The cat's paw is on the television.,television,
+1762289,button of cellular_telephone,The phone has a silver keypad.,keypad,silver
+1720116,text of newspaper,The slice of pizza on the left.,slice of pizza,
+1754571,body of can,A can of salsa with a spoon in it.,can,
+1758846,inner_body of glass_(drink_container),The glass of orange juice is full and has a yellow liquid.,glass,full; yellow liquid
+1750822,bumper of car_(automobile),The street is grey.,street,grey
+1734517,page of book,The book is open to a page with a picture of a boy.,book,open; picture of a boy
+1759075,foot of dog,The laptop is white and has a keyboard.,laptop,white; keyboard
+1747215,blade of scissors,The scissors on the left.,scissors,
+1756190,rim of basket,A wicker basket with a cat sitting in it.,basket,wicker
+1737885,embroidery of pillow,The pillow on the bed is pink and white.,pillow,pink; white
+1761094,fender of car_(automobile),A red van with a surfboard on top.,van,red; surfboard
+1691724,touchpad of laptop_computer,The laptop screen is white and has a few black keys.,laptop screen,white; black keys
+1730167,body of jar,The jar of pickles on the left.,jar,glass
+1701260,bowl of spoon,"The spoon in the image is made of metal and has a handle. The spoon is placed on a white napkin, which is on a plate. The plate is filled with a sandwich and a bowl of soup.",spoon,metal; has a handle
+1729713,body of bucket,"The object within the red bounding box is a large, brown, wooden barrel.",barrel,large; brown; wooden
+1714333,finger_hole of scissors,The yellow handle of a pair of scissors.,scissors handle,yellow
+1698421,label of bottle,A bottle of Virginia Gentleman whiskey.,bottle,glass; tall; labelled
+1687627,windshield of car_(automobile),The car is white and has a yellow light on top.,car,white; yellow light
+1740154,frame of mirror,The mirror is round and has a wired frame.,mirror,round; wired frame
+1689930,button of remote_control,The remote is black in color.,remote,black
+1733495,bezel of cellular_telephone,A cell phone with a music app playing.,cell phone,music app
+1735929,inner_side of box,The candle is white and has a glass container.,candle,white; glass container
+1759861,screen of cellular_telephone,The image on the phone screen.,phone screen,
+1696334,back_cover of cellular_telephone,The cellphone in the woman's hand.,cellphone,
+1711727,side of crate,The metal shelf that is holding the bananas.,shelf,metal
+1732563,body of mouse_(computer_equipment),The mouse is black in color.,mouse,black
+1714041,handle of knife,The knife on the plate.,knife,[none]
+1747084,leg of bench,The shadow of the bench on the ground.,bench shadow,
+1764221,body of mug,The white mug with a brown liquid in it.,mug,white; brown liquid
+1692422,bottom of television_set,The floor is tiled.,floor,tiled
+1745564,bottom of tray,The bowl of noodles in the bottom right corner.,bowl,[none]
+1737400,neck of vase,The blue vase in the right hand picture.,vase,blue
+1710787,side of television_set,The television is a flat screen model.,television,flat screen
+1718755,shade of lamp,The lamp shade is white and has a pattern of flowers on it.,lamp shade,white; pattern of flowers
+1689358,blade of knife,The dough in the bowl.,dough,[none]
+1724865,rim of tray,A pizza with cheese and peppers on it.,pizza,cheese; peppers
+1735018,neck of dog,A black dog with a white collar.,dog,black; white collar
+1695103,seat of chair,The blue chair that the baby is standing in front of.,chair,blue
+1755315,lid of box,A pizza box with a beer in it.,pizza box,
+1751815,inner_side of tray,The silver foil on the tray.,foil,silver
+1731453,case of clock,The clock face on the left.,clock face,
+1697653,body of scarf,The carpet is light grey.,carpet,light grey
+1701391,body of towel,The blue and white striped beach towel.,beach towel,blue and white striped
+1730052,ear of dog,The dog's head is white with brown markings. The eyes are brown and the nose is black. The ears are white and brown.,dog's head,white; brown markings; brown eyes; black nose; white ears; brown ears
+1747504,body of trash_can,A skateboarder in a brown shirt and black pants doing a trick on a skateboard.,skateboard,[none]
+1711682,yoke of sweater,The woman is wearing a striped sweater.,sweater,striped
+1738857,body of bottle,A cell phone on a table.,cell phone,[none]
+1734448,back of laptop_computer,The laptop is white and has a silver apple logo on the back.,laptop,white; silver apple logo
+1718115,rim of bowl,A bowl of soup with meat and vegetables.,bowl,soup; meat; vegetables
+1694714,body of sweater,The jacket of the person on the left.,jacket,
+1687368,side of basket,The basket is made of wicker and has a handle.,basket,wicker; handle
+1711262,body of handbag,A brown leather bag.,bag,brown; leather
+1747877,leg of dog,The dog is holding a bat in its mouth.,bat,none
+1749253,sleeve of sweater,A black purse with a white strap.,purse,black; white strap
+1741616,body of bowl,The fork is white and plastic.,fork,white; plastic
+1752558,keyboard of laptop_computer,The keyboard of a laptop.,keyboard,
+1721466,rim of plate,"A plate of food with eggs, ham, sausage, mushrooms, and a biscuit.",plate,food; eggs; ham; sausage; mushrooms; biscuit
+1712540,inner_body of bowl,The bowl of flour.,bowl,flour
+1728628,seat of bench,The orange and black sign.,sign,orange; black
+1699747,bottom of plate,The white cup with blue and green designs on it.,cup,white; blue and green designs
+1755679,base_panel of laptop_computer,The keyboard of the laptop on the right.,keyboard,
+1745496,cover of book,The book with the eye on it.,book,eye
+1729376,head of dog,The building in the background is a large brick building with a red roof.,building,large; brick; red roof
+1704317,back of bench,A wooden bench with a slatted back and a wooden seat.,bench,wooden; slatted back; wooden seat
+1727536,wheel of bicycle,The front wheel of a bicycle.,wheel,front
+1740817,body of dog,The dog on the left.,dog,
+1687108,side of box,The paper is white and has black writing on it.,paper,white; black writing
+1754915,screen of laptop_computer,The laptop screen is open and displaying a webpage.,laptop screen,open; displaying webpage
+1717076,body of plastic_bag,The blue bag on the passenger seat.,bag,blue
+1709337,back of chair,The chair is black in color.,chair,black
+1759835,top of table,A plate of food with a white bowl of butter.,bowl,white
+1744911,inner_wall of plate,A slice of cake on a plate.,slice of cake,[none]
+1757110,body of glass_(drink_container),The glass is clear and has a stem.,glass,clear; has a stem
+1698998,body of vase,The vase in the middle of the other vases.,vase,
+1698273,stretcher of table,The table in the right hand picture.,table,
+1736017,hole of trash_can,A trash can with a black bag in it.,trash can,black bag
+1730515,flap of wallet,The cellphone is black and is sitting on the table.,cellphone,black
+1751811,lid of pan_(for_cooking),A silver pot on a stove.,pot,silver
+1715575,shade_cap of lamp,A picture of a man and a dog.,dog,
+1692410,time_display of microwave_oven,The microwave is black and silver.,microwave,black; silver
+1697145,stem of bicycle,The bike frame is black and has a silver colored handle bar.,bike frame,black; silver colored
+1769791,back of guitar,The chair in the background.,chair,
+1700248,neck of spoon,The spoon is white and has a brown handle.,spoon,white; brown handle
+1740373,pediment of clock,The clock on the right side of the wall.,clock,
+1711933,base of clock,The wall is white in color.,wall,white
+1746465,face_shield of helmet,The helmet on the left.,helmet,
+1693617,rim of trash_can,The green metal trash can.,trash can,green; metal
+1693370,stretcher of chair,The person in the image is wearing a pair of brown shoes.,shoes,brown
+1721913,pom_pom of hat,The person wearing the red hat.,hat,red
+1738743,text of mug,"The coffee mug has a black and white label that says ""Marlboro Country Club.""",coffee mug,black and white label; visible text
+1753687,finial of clock,The top of the clock is decorated with a gold ball and a gold sphere.,clock,gold ball; gold sphere
+1747225,splashboard of car_(automobile),The car on the right.,car,
+1711482,eye of dog,The dog's eyes are brown.,dog's eyes,brown
+1742753,base of handbag,The black and white purse of the woman on the right.,purse,black and white
+1718595,seat of car_(automobile),The seat of the yellow car.,seat,yellow
+1699018,inner_side of carton,A pizza in a box.,pizza,in a box
+1719715,lid of can,The can of tomatoes is a green and white can with a red logo.,can,green and white; red logo
+1747830,headlight of car_(automobile),The headlight of a car.,headlight,
+1690200,headband of earphone,A black mouse with a white scroll wheel.,mouse,black; white scroll wheel
+1742253,cover of bucket,The red object is a small trash can.,trash can,red; small
+1753041,handle of pan_(for_cooking),The pizza in the back is a pepperoni pizza.,pizza,pepperoni
+1770248,base of chair,The chair the man is sitting on.,chair,
+1694935,drawer of table,The countertops are made of marble.,countertops,marble
+1716969,pedestal_column of fan,A black and silver filing cabinet.,filing cabinet,black; silver
+1766818,handle of pliers,The scissors on the bottom right.,scissors,
+1739951,turntable of microwave_oven,The inside of the microwave is black and reflective.,microwave interior,black; reflective
+1753812,cup of blender,The cup on the bike.,cup,
+1703767,ear_pads of earphone,The headphones on the left.,headphones,
+1732317,lid of crate,The green basket with the metal bars.,basket,green; metal bars
+1703882,base of basket,The dishwasher is white and has a wire rack.,dishwasher,white; wire rack
+1713488,body of pencil,The table is brown in color.,table,brown
+1725564,cable of laptop_computer,A red laptop with a black wallet on top of it.,laptop,red
+1759208,head_tube of bicycle,The bike lock is silver and black.,bike lock,silver; black
+1744419,wiper of car_(automobile),The dashboard of the car.,dashboard,
+1769459,rim of glass_(drink_container),The glass is clear and has a silver rim.,glass,clear; silver rim
+1767256,housing of earphone,The headphones are black and white.,headphones,black; white
+1769853,mirror of car_(automobile),The dog is sitting in the car.,dog,
+1702818,base of bowl,A white bowl with a spoon in it.,bowl,white
+1703025,drawing of mug,The coffee mug is white with a brown and yellow design.,coffee mug,white; brown and yellow design
+1723742,spindle of chair,The chair is made of wood.,chair,wood
+1747733,nozzle_stem of pipe,The pipe on the left.,pipe,
+1743034,barrel of pen,The comb is made of metal.,comb,metal
+1708665,bottom of glass_(drink_container),The glass on the right.,glass,
+1686458,taillight of car_(automobile),The car is brown in color.,car,brown
+1759244,visor of hat,The man in the pink hat.,hat,pink
+1689194,cover of basket,A green and brown box with a bow on top.,box,green; brown; with bow
+1706964,shelf of table,The table is red in color.,table,red
+1704630,handle of plastic_bag,The red and white bag in the bottom right corner.,bag,red; white
+1733719,visor of helmet,The blue helmet is sitting on top of the wooden box.,helmet,blue
+1717241,fringes of scarf,A red plaid blanket.,blanket,red; plaid
+1759860,gear of bicycle,The chain on the bike.,chain,
+1700173,rim of bucket,A person wearing a white shirt and black pants.,person,white shirt; black pants
+1765359,bulb of lamp,The lamp is white and has a white shade.,lamp,white; white shade
+1691449,stretcher of bench,The bench is made of metal and wood.,bench,metal; wood
+1764343,back_cover of telephone,The telephone is a white corded phone with a red base.,telephone,white; corded; red base
+1768569,strap of belt,The pants of the person in the right hand picture.,pants,
+1727872,seat_stay of bicycle,The green object in the middle of the picture.,object,green
+1748460,vapour_cover of blender,The lid of the blender.,blender lid,
+1711747,table_top of bench,The table in the front of the room.,table,
+1691171,rim of can,The can of soda is a red and silver can.,can,red; silver
+1742739,screen of telephone,The phone's screen is on.,phone screen,on
+1754410,inner_side of hat,The hat is black in color.,hat,black
+1771559,spout of blender,The stove top oven.,stove top oven,
+1762529,case of watch,The watch on the left wrist.,watch,left wrist
+1695529,outsole of shoe,The shoes are black and grey.,shoes,black; grey
+1765007,vamp of slipper_(footwear),A white and grey cat sitting on the floor.,cat,white; grey
+1752532,down_tube of bicycle,The green frame of the bicycle.,bicycle frame,green
+1734925,base of tray,The red tablecloth under the food.,tablecloth,red
+1703749,cap of bottle,The bottle is white and has a blue logo.,bottle,white; blue logo
+1717997,seal_ring of blender,A knife with a black handle.,knife,black handle
+1736215,button of telephone,The black buttons on the phone.,buttons,black
+1712115,cover of blender,The top of the blender is red and silver.,blender lid,red; silver
+1715631,door_handle of microwave_oven,The countertop is made of marble.,countertop,marble
+1765657,body of calculator,The cellphone in the top right corner.,cellphone,
+1705956,inner_side of microwave_oven,The microwave is white and has a sticker on the door.,microwave,white; sticker
+1718835,rim of cup,The hand holding the cup.,cup,[none]
+1698798,seat_tube of bicycle,The tree trunk is brown and has a few bumps on it.,tree trunk,brown; bumps
+1766216,pipe of lamp,The person in the pink sweater.,sweater,pink
+1770880,right_button of mouse_(computer_equipment),The mouse on the right.,mouse,
+1713745,body of kettle,The object within the red bounding box is a copper colored pitcher.,pitcher,copper colored
+1725912,shade_inner_side of lamp,The curtains are white and have a pattern of vertical stripes.,curtains,white; vertical stripes
+1759699,apron of chair,The chair on the right side of the table.,chair,
+1751247,bottom of pan_(for_cooking),The pizza slice on the right.,pizza slice,
+1695425,stile of chair,A wooden chair with a wooden seat and back.,chair,wooden; wooden seat; wooden back
+1719322,fork of bicycle,The red part of the bike wheel.,bike wheel,red
+1732213,colied_tube of pipe,The sink is white in color.,sink,white
+1698735,left_button of mouse_(computer_equipment),The red mouse is a wireless mouse with a scroll wheel on the side.,mouse,red; wireless; scroll wheel
+1717293,side of carton,The bottle of natural light juice is on the top shelf of the refrigerator.,bottle,natural light; juice
+1758983,handle of basket,The wicker basket is brown and has a woven pattern.,basket,brown; woven pattern
+1696931,base of pan_(for_cooking),The ball is blue and has a white stripe.,ball,blue; white stripe
+1716163,sticker of jar,The bottle of sauce is green and white.,bottle,green; white
+1692849,hem of sweater,The leg of a teddy bear.,teddy bear leg,
+1696774,step of ladder,The ladder on the fire truck.,ladder,
+1745951,rim of car_(automobile),The car is grey and has a black mirror.,car,grey; black mirror
+1728774,hand of clock,The gold and black decoration on the clock face.,clock face,gold; black decoration
+1730556,grille of car_(automobile),The front grill of the truck.,grill,
+1722470,inner_body of trash_can,The trash can is green and has a plastic bag in it.,trash can,green; plastic bag
+1736470,handle of vase,The person in the background is wearing a white shirt.,shirt,white
+1750875,base of plate,A pastry with chocolate on it.,pastry,chocolate
+1721437,windowpane of car_(automobile),The back seat of a car.,back seat,
+1688619,top_tube of bicycle,The yellow frame of the bike.,bike frame,yellow
+1686181,body of soap,The object within the red bounding box is a bottle of mouthwash.,bottle,[none]
+1736511,nose of dog,The dog's nose is black and white.,dog's nose,black; white
+1687564,bottom of bowl,The bowl of rice is filled with white rice.,bowl of rice,white
+1730864,text of can,"The can is green and has the word ""mtn"" on it.",can,green; visible text
+1731472,inner_body of plastic_bag,The trash can is black and has a plastic bag in it.,trash can,black; plastic bag
+1724085,base of television_set,The black box on the bottom of the tv.,box,black
+1691591,saddle of bicycle,The seat of a bicycle.,bicycle seat,
+1765627,neck of bottle,The bottle of mayonnaise is white with a blue lid.,bottle,white; blue lid
+1763701,rim of mug,The mug is brown and has a handle.,mug,brown; has a handle
+1754050,handle of blender,The blender is made of glass.,blender,glass
+1749525,body of guitar,A guitar that is sitting on a table.,guitar,
+1712569,inner_body of bucket,A black bucket with a handle.,bucket,black; with handle
+1746103,seat of stool,The red table top.,table top,red
+1712949,lid of jar,The jar of jam is on the plate.,jar,glass
+1717758,basket of bicycle,A white table with a white tablecloth.,table,white
+1695977,blade of fan,The ceiling fan is brown and black in color.,ceiling fan,brown; black
+1708458,inner_side of crate,The oranges are in a box.,box,
+1751080,rim of hat,The hat is brown and black in color.,hat,brown; black
+1719091,top of microwave_oven,A small toy is sitting on top of a microwave.,toy,small
+1764142,body of plate,A knife on a plate.,knife,[none]
+1750956,handle of handbag,A woman with red hair and a black tank top.,woman,red hair; black tank top
+1692499,side of pan_(for_cooking),The black pan in the background.,pan,black
+1708545,leg of stool,The red object in the bottom right corner.,object,red
+1710947,base of lamp,The object within the red rectangle is a small stuffed animal.,stuffed animal,small
+1753184,handlebar of bicycle,The metal bar is silver in color.,metal bar,silver
+1709871,rail of chair,The chair is made of metal and has a black seat.,chair,metal; black seat
+1766703,handle of mug,A red coffee mug with a white spoon in it.,coffee mug,red; white spoon
+1755251,back of remote_control,A remote control is sitting on top of a book.,remote control,
+1691493,rail of ladder,The fire truck is parked on the street.,fire truck,
+1733949,text of plastic_bag,The red fruit in the bag.,fruit,red
+1730714,cuff of sweater,The woman is holding a foil wrapped food item.,food item,foil wrapped
+1709826,trunk of car_(automobile),The black car is parked on the side of the road.,car,black
+1737249,bezel of telephone,The black remote control.,remote control,black
+1745939,rim of pan_(for_cooking),The cake in the right hand picture.,cake,
+1765587,bottom of box,The pizza in the bottom left corner.,pizza,
+1705280,arm of bench,A green and white striped umbrella.,umbrella,green and white striped
+1713463,leg of chair,The chair on the left.,chair,
+1755934,outer_side of tray,The blue tray under the plate.,tray,blue
+1691678,handle of spoon,The spoon in the bowl.,spoon,
+1697007,base of glass_(drink_container),The glass is empty.,glass,empty
+1695537,mouth of vase,The white cream in the glass.,cream,white; in glass
+1717797,neckband of sweater,The sweater on the bear on the left.,sweater,
+1753093,base of blender,The silver bowl on the left.,bowl,silver
+1692253,wheel of car_(automobile),A black car with luggage in front of it.,car,black
+1720636,inner_side of pan_(for_cooking),The pizza crust on the left side of the plate.,pizza crust,left side
+1725228,inner_body of mug,The cup of coffee is in the shape of a mug.,mug,shape of a mug
+1722341,control_panel of microwave_oven,"The buttons on the microwave are blue, white, and gray.",microwave buttons,blue; white; gray
+1752969,food_cup of blender,The blender is full of strawberries.,blender,full
+1687690,leg of table,The table is made of wood.,table,wood
+1691104,side of microwave_oven,A washing machine with a control panel.,washing machine,control panel
+1769017,lid of trash_can,The toilet is white and has a lid.,toilet lid,white
+1731190,apron of table,The table in the foreground.,table,
+1701822,shoulder of sweater,A bicycle parked on the sidewalk.,bicycle,
+1692174,shoulder of bottle,The glass is clear and has a reflection on it.,glass,clear; reflection
+1727961,inner_side of basket,The basket of oranges.,basket,[none]
+1758709,inner_body of cup,A cup with a handle.,cup,with handle; []
+1721647,hood of car_(automobile),The car in the foreground.,car,
+1696798,tail of dog,The dog is looking at the two children.,dog,
+1715662,roof of car_(automobile),The car's rear view mirror.,rear view mirror,
+1712431,foot of vase,The vase is made of glass.,vase,glass
+1769711,window of car_(automobile),A man eating a pink frosted donut.,donut,pink frosted
+1709224,arm of chair,The chair that the man in the red shirt is sitting on.,chair,[none]
+1760528,handle of scissors,The scissors are orange and yellow.,scissors,orange; yellow
+1728534,top of television_set,The television is grey and has a black screen.,television,grey; black screen
+1764554,button of cellular_telephone,The phone is yellow and black.,phone,yellow; black
+1721338,text of newspaper,A magazine rack with a variety of magazines.,magazine rack,variety of magazines
+1771854,body of can,The tea canister has a picture of the Tower Bridge on it.,tea canister,picture of tower bridge
+1696190,inner_body of glass_(drink_container),The glass of soda is sitting on the table.,glass,transparent
+1753477,bumper of car_(automobile),The car is parked in a parking space.,car,
+1725300,page of book,The book is open to a page with a map of the United States.,book,open; map of the united states
+1737441,foot of dog,The leg of the dog on the right.,dog leg,
+1759092,blade of scissors,The scissors are silver in color.,scissors,silver
+1764695,rim of basket,The basket of oranges in the right hand picture.,basket,[none]
+1728183,embroidery of pillow,The man is wearing blue jeans.,jeans,blue
+1743669,fender of car_(automobile),The van is grey and has a window on the side.,van,grey; window
+1755963,touchpad of laptop_computer,The white area on the keyboard.,keyboard,white
+1693979,body of jar,The jar of yogurt on the right.,jar,[none]
+1723231,bowl of spoon,The spoon is silver and has a rounded end.,spoon,silver; rounded end
+1716864,body of bucket,The silver pot on the counter.,pot,silver
+1714725,finger_hole of scissors,The orange scissors.,scissors,orange
+1757095,label of bottle,The bottle in the right hand picture is a wine bottle.,wine bottle,
+1765514,windshield of car_(automobile),The back of a car with a red brake light.,car,red brake light
+1762852,frame of mirror,A mirror on the wall.,mirror,
+1771014,button of remote_control,The remote control on the bottom.,remote control,
+1725593,bezel of cellular_telephone,The person is holding a cell phone.,cell phone,
+1707686,inner_side of box,A pizza box with pizza in it.,pizza box,[none]
+1711985,screen of cellular_telephone,The screen of a cell phone.,cell phone screen,
+1744506,back_cover of cellular_telephone,The cellphone is white with a pink Hello Kitty sticker on it.,cellphone,white; pink hello kitty sticker
+1716729,side of crate,The box is blue and white with a black logo.,box,blue and white; black logo
+1768060,body of mouse_(computer_equipment),The mouse is white and has a black bottom.,mouse,white; black bottom
+1716614,handle of knife,The knife is black in color.,knife,black
+1700344,leg of bench,The leg of the bench on the right.,bench leg,
+1733183,body of mug,The sandwich on the right.,sandwich,
+1766100,bottom of television_set,The television is a flat screen model.,television,flat screen
+1765723,bottom of tray,The plate with the toast and eggs.,plate,[none]
+1742851,neck of vase,The vase is made of ceramic and has a dark brown color.,vase,ceramic; dark brown
+1770677,side of television_set,The television is on the left side of the room.,television,
+1760002,shade of lamp,The lamp shade is white and has a yellow tint.,lamp shade,white; yellow tint
+1688117,blade of knife,The slice of cake with the strawberry on it.,slice of cake,with strawberry
+1760865,rim of tray,The silver plate holding the pizza.,plate,silver
+1697326,neck of dog,The neck of a dog.,dog neck,
+1762333,seat of chair,The chair is a patterned fabric with a floral design.,chair,patterned fabric; floral design
+1765852,lid of box,A tin of Altoids.,tin,metal; cylindrical
+1694415,inner_side of tray,A red tray with a plate of food on it.,tray,red
+1753054,case of clock,The clock is on the wall.,clock,
+1752891,body of scarf,A coca cola branded scarf.,scarf,branded; coca cola
+1703335,body of towel,The towels are hanging on the rack.,towels,
+1711135,ear of dog,The dog's head is resting on the laptop.,dog's head,
+1739037,body of trash_can,The bench the tennis player is sitting on.,bench,
+1725590,yoke of sweater,The person in the blue shirt.,person,blue shirt
+1728508,body of bottle,The red liquid in the glass.,liquid,red
+1691083,back of laptop_computer,The blue box on the top right.,box,blue
+1721526,rim of bowl,A bowl of blueberry soup with a spoon in it.,bowl,blueberry soup; with spoon
+1722389,body of sweater,The striped shirt the man is wearing.,shirt,striped
+1704052,side of basket,The basket on the left.,basket,
+1694110,body of handbag,The chair that is partially visible on the left side of the table.,chair,
+1711231,leg of dog,The dog's back legs.,dog's back legs,
+1768416,sleeve of sweater,The girl is wearing a blue and white sweater.,sweater,blue and white
+1742426,body of bowl,The bowl is black and has a reflective surface.,bowl,black; reflective surface
+1718109,keyboard of laptop_computer,The keyboard of a laptop.,keyboard,
+1749869,rim of plate,A bowl of food with rice and broccoli.,bowl,food; rice; broccoli
+1728383,inner_body of bowl,A bowl of oranges.,bowl,[none]
+1749385,seat of bench,The bench the cat is sitting on.,bench,
+1712441,bottom of plate,The plate with the food on it.,plate,[none]
+1702986,base_panel of laptop_computer,The keyboard of a laptop.,keyboard,
+1763274,cover of book,A book with a cat on it.,book,cat
+1741537,head of dog,The oven door is open.,oven door,
+1740276,back of bench,The bench in the middle of the other benches.,bench,
+1756353,wheel of bicycle,A blue bicycle with a blue seat and blue pedals.,bicycle,blue; blue seat; blue pedals
+1714910,body of dog,The hand of a person holding a dog.,hand,human; holding
+1759489,side of box,A wooden drawer with four knobs.,drawer,wooden; four knobs
+1759000,screen of laptop_computer,A laptop computer with a black screen.,laptop computer,black screen
+1728916,body of plastic_bag,The bag is white and has red writing on it.,bag,white; red writing
+1708508,back of chair,The chair that the boy in the black shirt is sitting on.,chair,
+1748206,top of table,The cat is sitting on a wooden chair.,chair,wooden
+1751028,inner_wall of plate,A white plate with a breakfast meal on it.,plate,white
+1769574,body of glass_(drink_container),The glass on the left.,glass,left
+1695857,body of vase,The brown paper that is wrapped around the vase.,paper,brown
+1698525,headband of earphone,The man's hair is black and curly.,hair,black; curly
+1755400,base of chair,The floor is made of wood.,floor,wood
+1730460,pedestal_column of fan,A white fan with a black base.,fan,white; black base
+1701100,turntable of microwave_oven,The white plate in the microwave.,plate,white
+1689253,cup of blender,The top of the blender is white and has a black handle.,blender lid,white; black handle
+1740066,lid of crate,A wooden basket filled with bananas.,basket,wooden; filled
+1734987,base of basket,A white table with a red table cloth.,table,white; red table cloth
+1731519,cable of laptop_computer,The keyboard of a laptop.,keyboard,
+1760771,wiper of car_(automobile),The car is white and has a sunroof.,car,white; sunroof
+1769293,rim of glass_(drink_container),The coffee cup is made of glass and has a white liquid in it.,coffee cup,glass; white liquid
+1715343,housing of earphone,The couch in the background.,couch,
+1710654,mirror of car_(automobile),The mirror is reflecting the grass and the bird.,mirror,reflective
+1733818,base of bowl,The white plate under the white bowl.,plate,white
+1737576,nozzle_stem of pipe,A pipe is coming out of the wall.,pipe,
+1705560,barrel of pen,The sandwich on the left.,sandwich,
+1733404,bottom of glass_(drink_container),A bottle of wine with a red cork.,bottle,red cork
+1702121,visor of hat,The dog is wearing a red collar.,collar,red
+1742599,cover of basket,A wicker basket with a green leafy vegetable in it.,basket,wicker; filled
+1700627,shelf of table,The table is wooden.,table,wooden
+1770014,handle of plastic_bag,The bowl in the front of the picture.,bowl,
+1705141,fringes of scarf,The scarf is a black and white striped pattern.,scarf,black and white striped pattern
+1700977,rim of bucket,The bottle of gelato is white and has a yellow label.,bottle,white; yellow label
+1770379,bulb of lamp,The white desk lamp on the left.,desk lamp,white
+1751278,stretcher of bench,The bench is made of wood and has a metal frame.,bench,wood; metal frame
+1709710,back_cover of telephone,The object within the red bounding box is a black and silver phone.,phone,black; silver
+1734646,strap of belt,The person on the far left.,person,
+1694748,vapour_cover of blender,The inside of the blender is white and has a clear plastic lid.,blender,white; clear plastic
+1768826,table_top of bench,The table is made of wood.,table,wood
+1727602,inner_side of hat,The hat on the man's head.,hat,
+1730866,outsole of shoe,The foot of the teddy bear on the left.,teddy bear foot,
+1747791,base of tray,A white plate with a hot dog on it.,plate,white
+1768336,cap of bottle,The blue and white container on the right.,container,blue; white
+1709703,door_handle of microwave_oven,The microwave is a silver and black color.,microwave,silver; black
+1723750,inner_side of microwave_oven,The oven is open and has a white bowl with a variety of foods in it.,bowl,white; variety of foods
+1764037,rim of cup,The lid of the coffee cup.,lid,
+1709043,pipe of lamp,The light fixture on the left side of the mirror.,light fixture,
+1753155,right_button of mouse_(computer_equipment),The cat's paw is on the mouse.,mouse,
+1747535,body of kettle,The black coffee maker on the counter.,coffee maker,black
+1741690,shade_inner_side of lamp,A man in a grey shirt and jeans is sitting on a couch.,couch,grey
+1686151,apron of chair,The chair is covered with a floral pattern.,chair,floral pattern
+1735312,bottom of pan_(for_cooking),The pizza is a deep dish pizza with a thick crust. The crust is golden brown and crispy. The pizza is topped with cheese and black olives. The cheese is melted and gooey. The olives are evenly distributed across the pizza. The pizza is baked to perfection and ready to be served.,pizza,deep dish; thick crust; golden brown; crispy; melted; gooey; evenly distributed
+1771188,stile of chair,The chair is made of wood.,chair,wood
+1757419,fork of bicycle,The front wheel of a bicycle.,wheel,front
+1725573,colied_tube of pipe,A man in a blue shirt standing on a truck.,man,blue shirt
+1742450,left_button of mouse_(computer_equipment),The blue light on the mouse.,mouse,blue light
+1736429,side of carton,The bottle of chocolate syrup is on the top shelf of the refrigerator.,bottle,chocolate syrup
+1719706,handle of basket,The chair in the background is brown and has a wicker seat.,chair,brown; wicker seat
+1728076,base of pan_(for_cooking),A pizza with a lot of toppings.,pizza,a lot of toppings
+1724853,sticker of jar,The broccoli on the left side of the pizza.,broccoli,
+1706943,hem of sweater,The woman is wearing a blue sweater.,sweater,blue
+1687465,step of ladder,The fire truck's ladder is extended.,ladder,extended
+1686463,rim of car_(automobile),The gravel area in front of the car.,gravel area,
+1687093,hand of clock,The clock face is white with black numbers and gold accents.,clock face,white; black numbers; gold accents
+1717551,grille of car_(automobile),The bike that is parked in the grass.,bike,
+1753842,inner_body of trash_can,The object within the red bounding box is a dark colored trash can.,trash can,dark colored
+1730582,handle of vase,The vase on the left.,vase,
+1696507,base of plate,The apple in the right hand picture.,apple,
+1771435,windowpane of car_(automobile),The car is red and has a blue sticker on the window.,car,red; blue sticker
+1718125,top_tube of bicycle,The dog's left ear.,ear,left
+1711360,body of soap,The bottle of lotion is on the left side of the sink.,bottle,lotion
+1711838,nose of dog,The nose of the dog.,nose,
+1709026,bottom of bowl,The bowl is brown in color.,bowl,brown
+1724792,text of can,A can of soda with a straw in it.,can of soda,with straw
+1697314,inner_body of plastic_bag,The bag of yellow peaches.,bag,yellow
+1741677,base of television_set,The television is on.,television,on
+1717038,saddle of bicycle,The man is wearing blue jeans.,jeans,blue
+1709095,neck of bottle,The bottle is green and has a cork.,bottle,green; cork
+1764072,rim of mug,The plant in the vase.,plant,vase
+1713194,body of guitar,The guitar is a brown color.,guitar,brown
+1711675,inner_body of bucket,A bucket of food for the sheep.,bucket,food
+1740205,seat of stool,The chair is white and has a pattern on it.,chair,white; pattern
+1691172,lid of jar,The white bowl on the right.,bowl,white
+1726426,basket of bicycle,A basket on the front of a bicycle.,basket,
+1726103,blade of fan,The ceiling fan is white and brown.,ceiling fan,white; brown
+1724343,inner_side of crate,A dark colored car parked in front of a fruit stand.,car,dark colored
+1720935,rim of hat,The white fur on the dog's leg.,dog leg,white fur
+1714812,top of microwave_oven,A white microwave oven.,microwave oven,white
+1711843,body of plate,The plate is black in color.,plate,black
+1769533,handle of handbag,The hand holding the dog.,hand,none
+1722860,side of pan_(for_cooking),The pizza in the right hand picture.,pizza,
+1687579,leg of stool,The stool is a wooden chair with a blue cushion.,stool,wooden; blue cushion
+1770425,base of lamp,The pink object in the background is a lamp.,lamp,pink
+1726902,handlebar of bicycle,The man is wearing a black jacket.,jacket,black
+1756151,rail of chair,The chair with the striped cushion.,chair,striped cushion
+1699421,handle of mug,A white bowl with a green rim.,bowl,white; green rim
+1753165,back of remote_control,The remote control on the bottom right.,remote control,
+1760602,rail of ladder,A metal ladder with a white robe hanging on it.,ladder,metal
+1710607,text of plastic_bag,The apple in the top left corner of the image.,apple,
+1699498,cuff of sweater,A green sweater with a white shirt underneath.,sweater,green
+1768503,trunk of car_(automobile),"The back of a red car with a license plate that reads ""2003"".",car,red; license plate
+1743606,bezel of telephone,The black telephone on the desk.,telephone,black
+1743579,rim of pan_(for_cooking),A pizza with a lot of toppings on it.,pizza,a lot of toppings
+1717520,bottom of box,The slice of pizza in the middle of the photo.,slice of pizza,
+1724404,arm of bench,The bench is made of wood and has metal supports.,bench,wood; metal supports
+1729331,leg of chair,The chair that is behind the little girl.,chair,
+1709033,outer_side of tray,A blue tray with a pizza on it.,tray,blue
+1756926,handle of spoon,The spoon is silver and has a black handle.,spoon,silver; black handle
+1755978,base of glass_(drink_container),The fork is silver and has a handle.,fork,silver; handle
+1694544,mouth of vase,The bowl is black in color.,bowl,black
+1709664,neckband of sweater,The tie is black and gold.,tie,black; gold
+1718269,base of blender,The shelf is made of glass.,shelf,glass
+1744293,wheel of car_(automobile),"The back of a black suv with the word ""pilot"" on the back.",suv,black; visible text
+1714803,inner_side of pan_(for_cooking),The pizza in the middle of the other pizzas.,pizza,
+1715764,inner_body of mug,The liquid in the cup is brown.,cup,brown
+1744465,control_panel of microwave_oven,The microwave is a stainless steel appliance.,microwave,stainless steel
+1712678,food_cup of blender,The object within the red rectangle is a glass jar with a silver lid.,jar,glass; silver lid
+1705061,leg of table,The table is made of wood.,table,wood
+1731751,side of microwave_oven,The white microwave oven.,microwave oven,white
+1761403,lid of trash_can,The toilet seat is up.,toilet seat,up
+1742640,apron of table,The pizza on the bottom right.,pizza,
+1734048,shoulder of sweater,The green fabric that the teddy bear is laying on.,fabric,green
+1724223,shoulder of bottle,The sandwich is on a wooden table.,sandwich,[none]
+1687393,inner_side of basket,The white basket on the left.,basket,white
+1716671,inner_body of cup,The cup of coffee is light brown in color.,cup,light brown
+1729182,hood of car_(automobile),The car that is in the foreground.,car,
+1698198,tail of dog,The tail of the dog is wagging.,dog tail,wagging
+1689317,roof of car_(automobile),The white van is parked on the street.,van,white
+1688486,foot of vase,The yellow flower in the middle of the other flowers.,flower,yellow
+1707936,window of car_(automobile),The window on the passenger side of the vehicle.,window,passenger side
+1771477,arm of chair,The chair is purple in color.,chair,purple
+1716906,handle of scissors,The scissors are black in color.,scissors,black
+1687440,top of television_set,The television screen is displaying a news story about rats.,television screen,displaying news story
+1768897,button of cellular_telephone,The second phone from the left.,phone,
+1717876,text of newspaper,The newspaper in the background.,newspaper,
+1760435,body of can,A black and white vase with a red and yellow pattern.,vase,black and white; red and yellow pattern
+1760040,inner_body of glass_(drink_container),The glass of orange juice is half full.,glass,half full; transparent
+1722043,bumper of car_(automobile),The black car is parked in a garage.,car,black
+1719095,page of book,The book is open and the pages are yellow.,book,open; yellow pages
+1764681,foot of dog,The dog is laying on a blanket.,blanket,
+1762037,blade of scissors,The scissors on the right.,scissors,
+1766690,rim of basket,The blueberries in the front of the basket.,blueberries,
+1729992,embroidery of pillow,The bedspread is white with a pattern of flowers.,bedspread,white; pattern of flowers
+1714576,fender of car_(automobile),The car is a silver color.,car,silver
+1719157,touchpad of laptop_computer,The bracelet with the 16 key charm.,bracelet,16 key charm
+1705631,body of jar,The jar on the far right.,jar,
+1706863,bowl of spoon,The table is brown in color.,table,brown
+1711840,body of bucket,The table is full of food.,table,full of food
+1713386,finger_hole of scissors,The scissors are purple in color.,scissors,purple
+1751523,label of bottle,A bottle of water with a green label.,bottle,green label
+1696807,windshield of car_(automobile),A white car with a man in the driver's seat.,car,white
+1763918,frame of mirror,The reflection of a subway train in a mirror.,subway train,reflected
+1705575,button of remote_control,The remote on the right.,remote,
+1716976,bezel of cellular_telephone,The screen of the phone is black.,phone screen,black
+1691856,inner_side of box,A pizza with a candle in it.,pizza,with candle
+1769378,screen of cellular_telephone,The cellphone screen is black and white.,cellphone screen,black and white
+1748015,back_cover of cellular_telephone,The reflection of the apple logo on the phone.,apple logo,reflection
+1746417,side of crate,The box on the top of the stack of boxes.,box,
+1747074,body of mouse_(computer_equipment),A red light on a mouse.,mouse,red light
+1730468,handle of knife,The knife on the plate.,knife,[none]
+1705931,leg of bench,The bench the man is sitting on.,bench,
+1718725,body of mug,The cup on the left.,cup,
+1745340,bottom of television_set,The cat is sitting on a wooden shelf.,shelf,wooden
+1692518,bottom of tray,The donut is brown and has a hole in the middle.,donut,brown; hole in the middle
+1768983,neck of vase,The vase is white and has a blue design.,vase,white; blue design
+1691247,side of television_set,The television set is placed on a table.,television set,
+1726149,shade of lamp,The box is white and has a lid.,box,white; has a lid
+1719332,blade of knife,The knife is on the cake.,knife,
+1733845,rim of tray,"The pizza is a deep dish pizza with a thick crust. The crust is brown and crispy. The pizza is topped with pepperoni, green olives, red onions, and cheese. The cheese is melted and bubbly. The pizza is cut into slices and ready to be served.",pizza,deep dish; thick crust; brown; crispy; topped with pepperoni; topped with green olives; topped with red onions; topped with cheese; melted; bubbly; cut into slices
+1704611,neck of dog,The dog with the purple collar.,dog,purple collar
+1725612,seat of chair,The chair is black in color.,chair,black
+1758873,lid of box,A white cardboard box with a plant in it.,cardboard box,white; with plant
+1722280,inner_side of tray,The table is black in color.,table,black
+1690648,case of clock,A black clock with a white face and black hands.,clock,black; white face; black hands
+1715856,body of scarf,The woman in the green sweater is looking down at the table.,woman,green sweater
+1711143,body of towel,The towel hanging on the left side of the picture.,towel,
+1700581,ear of dog,The dog's left ear is sticking out from under the blanket.,dog's ear,sticking out; under blanket
+1702367,body of trash_can,The object within the red bounding box is a black object that is sitting on the floor.,object,black; sitting; on the floor
+1731985,yoke of sweater,The man is wearing a blue vest.,vest,blue
+1715634,body of bottle,The object within the red rectangle is a glass of water.,glass,clear; filled
+1704022,back of laptop_computer,A white box with the word billshrink on it.,box,white; visible text
+1731524,rim of bowl,The bowl is red in color.,bowl,red
+1731605,body of sweater,The man is wearing a light brown sweater.,sweater,light brown
+1698179,side of basket,The basket on the left.,basket,
+1742171,body of handbag,The blue bag that the woman in the orange shirt is holding.,bag,blue
+1698188,leg of dog,The dog is standing on a surfboard.,surfboard,
+1748342,sleeve of sweater,A man in a black sweater is holding a spoon over a flame.,spoon,metal
+1743168,body of bowl,The broccoli in the bowl.,broccoli,
+1749275,keyboard of laptop_computer,The laptop keyboard.,keyboard,
+1726932,rim of plate,The plate is white and has a shadow on it.,plate,white; shadow
+1731740,inner_body of bowl,The spoon in the cup of cream.,spoon,metal
+1757592,seat of bench,A girl reading a book.,book,
+1691625,bottom of plate,A black and white plate with a slice of toast on it.,plate,black and white
+1766043,base_panel of laptop_computer,The keyboard of the laptop.,keyboard,
+1723607,cover of book,"The book on the left is titled ""Windows 95"".",book,titled 'windows 95'
+1718774,head of dog,The dog's ears are black and furry.,dog's ears,black; furry
+1740359,back of bench,A woman laying on a bench with a pink pillow under her head.,bench,pink pillow
+1732697,wheel of bicycle,The back wheel of the bike on the left.,back wheel,
+1754944,body of dog,The cat is white and black.,cat,white; black
+1723265,side of box,The black tray that the food is sitting on.,tray,black
+1763280,screen of laptop_computer,The laptop screen.,laptop screen,
+1699599,body of plastic_bag,The bag is white and plastic.,bag,white; plastic
+1728612,back of chair,A black cat and a brown cat are sitting on a zebra print seat.,cat,black; brown
+1718345,top of table,A wooden cutting board with a variety of foods on it.,cutting board,wooden; variety of foods
+1756420,inner_wall of plate,A pizza with a few slices missing.,pizza,missing slices
+1688470,body of glass_(drink_container),A glass of beer.,glass,clear; filled
+1733561,body of vase,The vase is white and black with a red stripe.,vase,white; black; red stripe
+1742433,wiper of car_(automobile),The hood of a car.,hood,
+1712427,rim of glass_(drink_container),The glass is filled with water.,glass,filled; water
+1744339,mirror of car_(automobile),The rear view mirror of a car.,rear view mirror,
+1711689,base of bowl,The plant in the front right corner.,plant,
+1762130,barrel of pen,A blue pen with a white cap.,pen,blue; white cap
+1745263,visor of hat,The hat is tan and has a camouflage pattern.,hat,tan; camouflage pattern
+1731108,cover of basket,The red chair in the background.,chair,red
+1735170,shelf of table,A white shelf with a black speaker on it.,shelf,white
+1769177,handle of plastic_bag,The plastic bag is white and has a red logo on it.,plastic bag,white; red logo
+1760918,fringes of scarf,The chair in front of the man with the tie.,chair,
+1705440,bulb of lamp,The light fixture is white and has a glass shade.,light fixture,white; glass shade
+1731552,stretcher of bench,The bench is made of wood.,bench,wood
+1718812,strap of belt,The woman is wearing a ring on her left hand.,ring,none
+1756595,table_top of bench,The bench in the middle of the other benches.,bench,
+1746525,inner_side of hat,The hat is brown and has a wide brim.,hat,brown; wide brim
+1756434,base of tray,A white plate with a sandwich on it.,plate,white
+1694024,cap of bottle,The bottle with the black lid.,bottle,black lid
+1756160,door_handle of microwave_oven,The microwave is red and black in color.,microwave,red; black
+1718805,rim of cup,The white lid of the coffee cup.,lid,white
+1748903,pipe of lamp,The monitor on the left.,monitor,
+1736932,right_button of mouse_(computer_equipment),The object within the red bounding box is a computer monitor.,computer monitor,red bounding box
+1701777,body of kettle,The silver pot on the stove.,pot,silver
+1686813,shade_inner_side of lamp,The lamp on the left is a floor lamp with a white shade.,floor lamp,white shade
+1686845,apron of chair,The chair that the woman is standing in front of.,chair,
+1745808,bottom of pan_(for_cooking),The metal pan is silver and has a handle.,pan,silver; metal; has a handle
+1689140,stile of chair,The chair on the right side of the table.,chair,
+1713030,colied_tube of pipe,The shower head is attached to the wall.,shower head,
+1745625,left_button of mouse_(computer_equipment),The black object in the right hand picture.,object,black
+1714387,side of carton,A carton of orange juice.,carton,orange
+1725870,handle of basket,The plate in the background is white and has a yellow substance on it.,plate,white; yellow substance
+1762217,base of pan_(for_cooking),The pizza on the left.,pizza,
+1718746,hem of sweater,The green stripe on the teddy bear's shirt.,teddy bear shirt,green stripe
+1760654,step of ladder,The bed frame is made of metal.,bed frame,metal
+1697616,rim of car_(automobile),A red car parked in front of a stop sign.,car,red
+1722158,hand of clock,The clock hands are black and red.,clock hands,black; red
+1694673,grille of car_(automobile),The grill of the car.,grill,
+1764064,inner_body of trash_can,The white bucket on the left.,bucket,white
+1731235,handle of vase,The table cloth is white and has a pattern of squares.,table cloth,white; pattern of squares
+1704264,base of plate,The plate in the front right corner.,plate,
+1724805,windowpane of car_(automobile),The windshield of a car.,windshield,
+1718998,top_tube of bicycle,The street is black.,street,black
+1732263,body of soap,The bottle of soap is on the sink.,bottle,soap
+1709255,nose of dog,The dog's nose is black and white.,dog's nose,black; white
+1768691,bottom of bowl,The white cup on the table.,cup,white
+1704012,text of can,A pizza with cheese and meat on it.,pizza,cheese; meat
+1756342,inner_body of plastic_bag,A trash can with a plastic bag in it.,trash can,plastic bag
+1716489,base of television_set,The wheel on the left side of the truck.,wheel,left side
+1748165,saddle of bicycle,The seat of the bike is black in color.,bike seat,black
+1757277,neck of bottle,The blue bottle on the right.,bottle,blue
+1767124,rim of mug,A cup of coffee with a spoon in it.,cup,[none]
+1752621,body of guitar,The guitar is a black electric guitar with a white pick guard.,guitar,black; electric; white pick guard
+1764521,inner_body of bucket,The floor is covered with a blue liquid.,floor,blue liquid
+1706577,seat of stool,The chair on the left.,chair,
+1751901,lid of jar,The jar on the bottom shelf of the refrigerator.,jar,bottom shelf
+1721209,basket of bicycle,A bicycle with a basket and a wreath on the handlebars.,bicycle,with basket; with wreath
+1764768,blade of fan,The wooden wall behind the television.,wall,wooden
+1756549,rim of hat,The hat is tan in color.,hat,tan
+1754631,top of microwave_oven,The microwave is black and silver.,microwave,black; silver
+1733729,body of plate,The plate is black and blue.,plate,black; blue
+1750447,handle of handbag,The woman is wearing a black strap across her chest.,strap,black
+1705745,side of pan_(for_cooking),A metal pan with a piece of meat in it.,pan,metal; with meat
+1711627,leg of stool,The blue stool is sitting on the ground.,stool,blue
+1687906,base of lamp,The object within the red bounding box is a chair with a plaid pattern.,chair,plaid pattern
+1715550,handlebar of bicycle,The basket on the bike.,basket,
+1710985,rail of chair,The chair in the right hand picture.,chair,
+1771232,handle of mug,The handle of the cup is white.,cup handle,white
+1714670,back of remote_control,The hand holding the wii controller.,wii controller,none
+1766895,rail of ladder,A fire truck with a ladder on top.,fire truck,with ladder
+1691579,text of plastic_bag,The bag of chips is on the counter.,bag of chips,
+1701268,cuff of sweater,The woman's hands are on the laptop.,laptop,
+1705255,trunk of car_(automobile),The car on the left.,car,
+1713263,bezel of telephone,The keyboard is black and white.,keyboard,black; white
+1743026,rim of pan_(for_cooking),The broccoli is green and has been chopped into small pieces.,broccoli,green; chopped; small pieces
+1763019,bottom of box,The donuts are in a box.,box,
+1757843,arm of bench,The bench is made of wood.,bench,wood
+1765437,leg of chair,The leg of the chair that is closest to the camera.,chair leg,
+1688765,outer_side of tray,A casserole dish filled with food.,casserole dish,filled with food; []
+1690602,handle of spoon,The spoon is silver and has a rounded tip.,spoon,silver; rounded tip
+1747644,base of glass_(drink_container),The hand on the right.,hand,
+1759250,mouth of vase,The bird on the vase.,bird,
+1697026,neckband of sweater,The man in the gray sweater.,man,gray
+1741771,base of blender,A bicycle with a green light on the front wheel.,bicycle,green light
+1702396,wheel of car_(automobile),The truck is a large dump truck.,dump truck,large
+1751409,inner_side of pan_(for_cooking),A pizza in a black pan.,pizza,black pan
+1691053,inner_body of mug,The white cup with coffee in it.,cup,white; filled with coffee
+1715651,control_panel of microwave_oven,The buttons on the microwave are lit up.,microwave buttons,lit up
+1723040,food_cup of blender,The object within the red bounding box is a glass jar with a white lid.,glass jar,white lid
+1715532,leg of table,The bench the man is sitting on.,bench,
+1761867,side of microwave_oven,The white microwave oven.,microwave oven,white
+1703952,lid of trash_can,The trash can on the right.,trash can,
+1747022,apron of table,A wooden bench with a bunch of bananas on it.,bench,wooden
+1705029,shoulder of sweater,The sweater the man is wearing.,sweater,
+1722586,shoulder of bottle,A bottle of vodka with a yellow label.,bottle,yellow label
+1715323,inner_side of basket,The apples in the basket.,basket,[none]
+1770459,inner_body of cup,The cup of coffee is white and has a dark liquid in it.,cup,white; dark liquid
+1687967,hood of car_(automobile),The car in the foreground.,car,
+1760384,tail of dog,The dog's tail is white and fluffy.,tail,white; fluffy
+1766776,roof of car_(automobile),The white car in the right hand picture.,car,white
+1721099,foot of vase,The table is made of granite.,table,granite
+1691201,window of car_(automobile),The car is green and has a driver.,car,green
+1744076,arm of chair,The chair is wooden and has a striped pattern.,chair,wooden; striped pattern
+1769954,handle of scissors,The orange handle of the scissors.,handle,orange
+1701774,top of television_set,A cat sitting in front of a television.,cat,
+1754833,button of cellular_telephone,The black keys on the phone.,keys,black
+1762765,text of newspaper,The box is a rectangular shape with a white background.,box,rectangular; white
+1719757,body of can,The can of soda is yellow and has a label on it.,can,yellow; label
+1721597,inner_body of glass_(drink_container),The glass in the right hand picture.,glass,
+1744349,bumper of car_(automobile),A black car with a license plate that reads 911.,car,black; license plate
+1760236,page of book,A book with a picture of a city on the cover.,book,city picture
+1702441,foot of dog,The dog's paws are covered in mud.,dog's paws,covered in mud
+1764859,blade of scissors,The scissors on the right.,scissors,
+1706988,rim of basket,The basket is made of wood.,basket,wood
+1743618,embroidery of pillow,The chair on the left.,chair,
+1725069,fender of car_(automobile),The black car in the background.,car,black
+1706950,touchpad of laptop_computer,The cat's paw is on the laptop.,laptop,
+1716455,body of jar,A small black tea pot.,tea pot,small; black
+1765862,bowl of spoon,The spoon is made of wood.,spoon,wood
+1766209,body of bucket,The wine bottle on the left.,wine bottle,
+1751616,finger_hole of scissors,A pair of scissors with a black handle.,scissors,black handle
+1754018,label of bottle,The pizza in the foreground.,pizza,
+1690803,windshield of car_(automobile),A car with a red brake light.,brake light,red
+1711789,frame of mirror,The reflection of a bus in a car's side mirror.,bus,reflection
+1699898,button of remote_control,The remote control is black and white.,remote control,black; white
+1762742,bezel of cellular_telephone,The cellphone on the left.,cellphone,
+1767214,inner_side of box,A wooden chair with a white bowl on it.,chair,wooden
+1757748,screen of cellular_telephone,The screen of a cell phone with chinese characters on it.,cell phone screen,chinese characters
+1743601,back_cover of cellular_telephone,The bottom half of the phone.,phone,bottom half
+1736982,side of crate,The green crate with the yellow and white vegetables in it.,crate,green
+1769456,body of mouse_(computer_equipment),The blue mouse on the table.,mouse,blue
+1757258,handle of knife,The knife is black in color.,knife,black
+1728371,leg of bench,A green bench with a woman sitting on it.,bench,green
+1716306,body of mug,The reflection of a person in a clock.,clock,reflection
+1707729,bottom of television_set,The television is black in color.,television,black
+1739648,bottom of tray,The shelf that is above the one with the most donuts on it.,shelf,
+1766866,neck of vase,The vase on the left.,vase,
+1716584,side of television_set,A television set with a game being played on it.,television set,[none]
+1735690,shade of lamp,A television set is placed on a wooden stand.,television set,wooden
+1702452,blade of knife,A knife with a black handle.,knife,black handle
+1686550,rim of tray,The donuts in the trays.,donuts,
+1747382,neck of dog,The dog's ear is white and brown.,dog's ear,white; brown
+1697348,seat of chair,The chair in the right hand picture.,chair,
+1692385,lid of box,The box is red and white with a bow on top.,box,red; white; with bow
+1687053,inner_side of tray,The plate is blue and white.,plate,blue; white
+1705068,case of clock,The clock face is green and has roman numerals.,clock face,green; roman numerals
+1687324,body of scarf,The woman is wearing a brown scarf.,scarf,brown
+1737530,body of towel,The towels are hanging on the wall.,towels,
+1738059,ear of dog,The dog's left ear.,ear,left
+1695954,body of trash_can,The pole is made of metal and is painted black.,pole,metal; black
+1717829,yoke of sweater,The red part of the shirt.,shirt,red
+1754196,body of bottle,A bottle of wine on a table.,bottle,glass
+1765572,back of laptop_computer,The bedspread is white.,bedspread,white
+1700038,rim of bowl,The bowl is green in color.,bowl,green
+1695806,body of sweater,The woman in the white sweater.,woman,white sweater
+1715055,side of basket,The wicker basket is brown and has a pattern of woven squares.,basket,brown; pattern of woven squares
+1725880,body of handbag,The black leather bag on the left.,bag,black; leather
+1721255,leg of dog,The dog is laying on the couch.,couch,
+1690641,sleeve of sweater,A woman holding a cat.,cat,
+1706934,body of bowl,The orange in the front of the bowl.,orange,orange
+1755269,keyboard of laptop_computer,The keyboard of a laptop.,keyboard,
+1769980,rim of plate,A slice of cake on a plate.,slice of cake,[none]
+1733734,inner_body of bowl,The bowl of sauce is yellow and has a brown liquid in it.,bowl of sauce,yellow; brown liquid
+1725333,seat of bench,The bench the women are sitting on.,bench,
+1733995,bottom of plate,The plate in the front left corner.,plate,
+1721983,base_panel of laptop_computer,The keyboard of a laptop.,keyboard,
+1704977,cover of book,A book with a cell phone on top of it.,book,
+1699679,head of dog,The dog is wearing a blue collar.,collar,blue
+1722337,back of bench,A stone bench in the middle of a field.,bench,stone
+1702164,wheel of bicycle,The bike wheel.,bike wheel,
+1743626,body of dog,The dog is brown and white.,dog,brown; white
+1692334,side of box,A blue box with a floral pattern.,box,blue; floral pattern
+1715426,screen of laptop_computer,The laptop screen is displaying a lot of green characters.,laptop screen,green characters
+1694182,body of plastic_bag,The paper on the left.,paper,left
+1751955,back of chair,The chair on the left.,chair,
+1693004,top of table,A man in a suit with a red tie.,man,suit; red tie
+1687998,inner_wall of plate,The spoon in the bowl of yogurt.,spoon,[none]
+1761004,body of glass_(drink_container),A glass of dark liquid with a straw in it.,glass,dark liquid; straw
+1688603,body of vase,The vase is white and has a floral design on it.,vase,white; floral design
+1740193,fringes of scarf,A white table cloth with a floral pattern.,table cloth,white; floral pattern
+1759305,bulb of lamp,A black chair with a wooden seat and back.,chair,black; wooden
+1762855,stretcher of bench,The bench is made of wood.,bench,wood
+1691530,table_top of bench,A wooden bench with a woman sitting on it.,bench,wooden
+1727255,base of tray,The white table cloth underneath the cakes.,table cloth,white
+1729881,door_handle of microwave_oven,The microwave door.,microwave door,
+1753158,rim of cup,The toothbrush that is on the left.,toothbrush,
+1767157,pipe of lamp,The vase is made of glass and is placed on a table.,vase,glass
+1699742,right_button of mouse_(computer_equipment),The black part of the mouse.,mouse,black
+1753856,body of kettle,The silver pot on the stove.,pot,silver
+1728034,shade_inner_side of lamp,The lamp shade is white with a lace trim.,lamp shade,white; lace trim
+1700464,apron of chair,The chair in the bottom right corner.,chair,
+1708713,bottom of pan_(for_cooking),The dough is white and fluffy.,dough,white; fluffy
+1708638,stile of chair,A yellow chair with a white bird on it.,chair,yellow
+1693101,colied_tube of pipe,The wall is white and has a tile pattern.,wall,white; tile pattern
+1768741,left_button of mouse_(computer_equipment),The mouse is white and has a light reflecting off of it.,mouse,white; light reflecting
+1761397,handle of basket,The basket is brown and woven.,basket,brown; woven
+1766075,base of pan_(for_cooking),The black pan on the stove.,pan,black
+1761610,hem of sweater,The orange chair the little girl is sitting on.,chair,orange
+1703668,step of ladder,The chair on the left.,chair,
+1746085,hand of clock,The clock face is white and has black numbers.,clock face,white; black numbers
+1699217,inner_body of trash_can,The car in the right hand picture.,car,
+1753816,handle of vase,The yellow flower in the middle of the other yellow flowers.,flower,yellow
+1768658,base of plate,The white pedestal of the cake stand.,pedestal,white
+1730747,body of soap,The green bottle on the right.,bottle,green
+1710718,nose of dog,The dog's nose is black.,dog's nose,black
+1729071,bottom of bowl,The bowl is white and has a picture of a cat on it.,bowl,white; picture of a cat
+1723951,text of can,A can of soda on a shelf.,can,soda
+1699449,inner_body of plastic_bag,The bag of oranges.,bag,[none]
+1751799,base of television_set,A coffee table with a wooden top.,coffee table,wooden top
+1703416,saddle of bicycle,The bicycle is parked next to the tree.,bicycle,
+1705552,neck of bottle,The green bottle with the label on it.,bottle,green; label
+1756570,rim of mug,The soup in the white bowl.,bowl,white
+1707949,body of guitar,The guitar on the laptop screen.,guitar,
+1759197,inner_body of bucket,A white bucket with a handle.,bucket,white; with handle
+1726741,seat of stool,A black leather chair with a wooden frame.,chair,black leather; wooden frame
+1701131,lid of jar,The jar in the right bottom corner.,jar,
+1744072,basket of bicycle,The wooden post is made of wood.,post,wood
+1747978,blade of fan,The fan is white and black in color.,fan,white; black
+1701249,rim of hat,The hat is white with a pattern of squares.,hat,white; pattern of squares
+1769898,top of microwave_oven,The microwave on the left.,microwave,
+1761920,body of plate,The plate on the left.,plate,
+1770388,handle of handbag,The woman is wearing a plaid shirt.,shirt,plaid
+1733005,side of pan_(for_cooking),The pizza in the right hand picture.,pizza,
+1703729,leg of stool,The chair that the woman in the black shirt is sitting on.,chair,
+1707839,base of lamp,The light fixture on the right side of the clock.,light fixture,
+1705963,rail of chair,The bench on the right.,bench,
+1712502,handle of mug,The white mug on the table.,mug,white
+1700029,back of remote_control,The silver buttons on the remote.,buttons,silver
+1716601,rail of ladder,The cat on the right.,cat,
+1724543,text of plastic_bag,A white bag with green writing on it.,bag,white; green writing
+1726201,cuff of sweater,The woman is wearing a white and black sweater.,sweater,white; black
+1714989,trunk of car_(automobile),The back of a grey truck.,truck,grey
+1712792,bezel of telephone,A black telephone on a desk.,telephone,black
+1756705,rim of pan_(for_cooking),A person's hand holding a tomato.,tomato,
+1757828,bottom of box,The box is blue and white.,box,blue; white
+1703564,arm of bench,The bench the boy is sitting on.,bench,
+1694951,leg of chair,The leg of a woman.,leg,woman's
+1721835,outer_side of tray,A baby with a birthday hat on.,birthday hat,none
+1758381,handle of spoon,The knife on the left.,knife,
+1714628,base of glass_(drink_container),The silver object in the background is a spoon.,spoon,silver
+1710485,mouth of vase,"The object within the red rectangle is a brightly colored, abstract image.",image,brightly colored; abstract
+1716994,neckband of sweater,The man is wearing a white shirt with a collar.,shirt,white; collared
+1700225,base of blender,The blender is green and silver.,blender,green; silver
+1767385,wheel of car_(automobile),A red jeep with a black tire.,jeep,red; black tire
+1752870,inner_side of pan_(for_cooking),The tray in the right hand picture.,tray,
+1693347,inner_body of mug,The chair in the background.,chair,
+1723832,control_panel of microwave_oven,The control panel of a microwave oven.,control panel,
+1737017,food_cup of blender,The blender is a white color.,blender,white
+1763812,leg of table,The wooden legs of the cart.,cart legs,wooden
+1744253,side of microwave_oven,The microwave is white and has a glass door.,microwave,white; glass door
+1759551,lid of trash_can,The toilet paper roll is on the floor.,toilet paper roll,
+1697278,apron of table,The table in the right hand picture.,table,
+1769875,shoulder of sweater,The man is wearing a brown sweater.,sweater,brown
+1761569,shoulder of bottle,A jug of orange juice with a green lid.,jug,orange juice; green lid
+1688573,inner_side of basket,The basket on the left.,basket,
+1748253,inner_body of cup,The cup is made of plastic.,cup,plastic
+1726679,hood of car_(automobile),The left headlight of the white car.,headlight,white
+1689766,tail of dog,The grass is green and short.,grass,green; short
+1729829,roof of car_(automobile),A black car driving down a street.,car,black
+1719342,foot of vase,The black and gold box on the bottom right.,box,black; gold
+1688495,window of car_(automobile),The car on the right.,car,
+1755092,arm of chair,The chair on the right.,chair,
+1708429,handle of scissors,The scissors are black in color.,scissors,black
+1747996,top of television_set,The top of the television screen.,television screen,
+1743738,button of cellular_telephone,The phone is a flip phone.,phone,flip
+1770868,text of newspaper,A newspaper with a picture of a man on the front.,newspaper,front picture
+1762484,body of can,A book with a spoon in it.,book,[none]
+1724366,inner_body of glass_(drink_container),The glass on the right.,glass,
+1699172,bumper of car_(automobile),The street is grey.,street,grey
+1724910,page of book,The book is open and has a green spine.,book,open; green spine
+1769599,foot of dog,The white dog's paw is on the bed.,dog paw,white
+1747685,blade of scissors,The scissors are black in color.,scissors,black
+1761044,rim of basket,A basket of carrots.,basket,[none]
+1721528,embroidery of pillow,The pillow on the left side of the bed.,pillow,
+1693854,fender of car_(automobile),The car is blue in color.,car,blue
+1747309,touchpad of laptop_computer,The laptop's trackpad.,trackpad,
+1717282,body of jar,A jar of carrots.,jar,
+1742486,bowl of spoon,The spoon is silver and has a handle.,spoon,silver; has a handle
+1741744,body of bucket,The green bucket on the right.,bucket,green
+1751828,finger_hole of scissors,The green handle of the scissors.,scissors handle,green
+1724134,label of bottle,A bottle of ginger flavor.,bottle,ginger flavor
+1764194,windshield of car_(automobile),The bus is red and has a yellow sign on the front.,bus,red; yellow sign
+1748518,frame of mirror,The cat is looking at the camera.,cat,
+1711865,button of remote_control,The remote on the right.,remote,
+1705058,bezel of cellular_telephone,The person holding the cell phone.,cell phone,
+1733075,inner_side of box,A large pizza in a box.,pizza,large; in a box
+1752707,screen of cellular_telephone,The person in the background is wearing a backpack.,backpack,
+1695825,back_cover of cellular_telephone,The black ipod.,ipod,black
+1745607,side of crate,The basket on the front of the bike.,basket,
+1724886,body of mouse_(computer_equipment),The mouse on the right.,mouse,
+1751054,handle of knife,The spoon in the right hand picture.,spoon,
+1748264,leg of bench,The bench is made of wood and has a metal frame.,bench,wood; metal frame
+1703161,body of mug,The cup in the right hand picture.,cup,
+1758766,bottom of television_set,The bottom of the television set.,television set,bottom
+1718194,bottom of tray,A hot dog in a bun with a drink.,hot dog,in a bun; with a drink
+1702221,neck of vase,The leftmost vase.,vase,
+1709313,side of television_set,A large flat screen television.,television,large; flat screen
+1727831,shade of lamp,The lamp shade is white and has a fringe.,lamp shade,white; fringe
+1765957,blade of knife,The knife is a butterfly knife.,knife,butterfly
+1728296,rim of tray,A black plastic container with a lid.,container,black; plastic
+1688428,neck of dog,The dog's tongue is hanging out of its mouth.,dog's tongue,hanging out
+1699404,seat of chair,The chair is brown in color.,chair,brown
+1728947,lid of box,The refrigerator door is open and has a shelf with a black container on it.,shelf,open; black container
+1772139,inner_side of tray,The food in the blue container.,container,blue
+1735075,case of clock,The gold and blue clock face.,clock face,gold; blue
+1718296,body of scarf,The person in the black jacket and green shirt.,person,black jacket; green shirt
+1753452,body of towel,The sink is green and has a silver faucet.,sink,green; silver
+1737799,ear of dog,The cat's paw is on the dog's back.,paw,[none]
+1727947,body of trash_can,The trash can is black in color.,trash can,black
+1770368,yoke of sweater,The girl is wearing a black shirt.,shirt,black
+1705042,body of bottle,The bottle of oil is on the counter.,bottle,glass
+1694793,back of laptop_computer,The cat is brown and white.,cat,brown; white
+1724481,rim of bowl,A bowl of food with meat and carrots.,bowl,food; meat; carrots
+1756485,body of sweater,The woman is holding a white controller in her right hand.,controller,white
+1687862,side of basket,A woven basket filled with bananas.,basket,woven; filled
+1755944,body of handbag,The purse is a light grey color.,purse,light grey
+1711813,leg of dog,The dog's front legs.,dog's front legs,
+1760743,sleeve of sweater,The sweater is gray and white.,sweater,gray; white
+1742834,body of bowl,A small white bowl filled with a yellowish liquid and a yellowish substance.,bowl,small; white
+1719770,keyboard of laptop_computer,The laptop keyboard.,keyboard,
+1752276,rim of plate,A white plate with a sandwich on it.,plate,white
+1745400,inner_body of bowl,The bowl is black in color.,bowl,black
+1743064,seat of bench,The bench that the two children are sitting on.,bench,
+1698174,bottom of plate,A green plate with a piece of meat and carrots on it.,plate,green
+1731538,base_panel of laptop_computer,The counter top is made of tile.,counter top,tile
+1732736,cover of book,The painting in the red rectangle is a colorful depiction of a man and a woman.,painting,colorful
+1731264,head of dog,A small black dog with brown ears.,dog,small; black; brown ears
+1724502,back of bench,The bench is white and made of concrete.,bench,white; concrete
+1723417,wheel of bicycle,The bike in the front of the picture.,bike,
+1739924,body of dog,The dog on the left.,dog,
+1732202,side of box,A cardboard box with a girl inside.,cardboard box,empty
+1750317,screen of laptop_computer,The laptop screen is on.,laptop screen,on
+1762927,body of plastic_bag,A plastic bag filled with food.,plastic bag,filled with food
+1749296,back of chair,The seat in the front of the bus.,seat,
+1720615,top of table,The table is brown and has a white tablecloth.,table,brown; white tablecloth
+1735179,inner_wall of plate,The donut is on a white plate.,donut,white
+1718123,body of glass_(drink_container),The glass is clear and has a blue tint to it.,glass,clear; blue tint
+1706891,body of vase,The vase is made of glass and is filled with water.,vase,glass; filled with water
+1748576,pipe of lamp,The lamp is on the nightstand.,lamp,
+1699714,body of kettle,The pot on the stove top.,pot,
+1748990,shade_inner_side of lamp,The person in the bottom left picture.,person,
+1708798,stile of chair,The chair with the blue and green blanket on it.,chair,blue and green blanket
+1726261,colied_tube of pipe,The pipe is white in color.,pipe,white
+1703006,handle of basket,The basket is woven and has a brown and green pattern.,basket,woven; brown and green pattern
+1758911,base of pan_(for_cooking),The pizza on the tray.,pizza,[none]
+1764082,hem of sweater,The couch behind the man.,couch,
+1765616,step of ladder,The red and yellow umbrella.,umbrella,red; yellow
+1694679,hand of clock,The hands of the clock are black and white.,clock hands,black; white
+1768307,inner_body of trash_can,The toilet tank is white and has a lid.,toilet tank,white; has a lid
+1743792,handle of vase,The chair is made of wicker.,chair,wicker
+1745728,base of plate,The pink bowl in the man's hand.,bowl,pink
+1743042,body of soap,The pink bottle with a white cap.,bottle,pink; white cap
+1687676,nose of dog,The dog's nose is black.,dog's nose,black
+1700170,bottom of bowl,The bowl is white and has a reflection on it.,bowl,white; reflection
+1745309,inner_body of plastic_bag,The blue bag in the trash can.,bag,blue
+1744203,base of television_set,The television is turned off.,television,off
+1759746,saddle of bicycle,The green gas tank on the motorcycle.,gas tank,green
+1767188,neck of bottle,A green bottle with a yellow label.,bottle,green; yellow label
+1730709,rim of mug,The white cup with the gold logo.,cup,white; gold logo
+1720333,body of guitar,The guitar that the man is holding.,guitar,
+1761353,inner_body of bucket,The person in the apron is standing in front of a table.,person,apron
+1702640,seat of stool,The stool on the left.,stool,
+1745801,basket of bicycle,The basket in the front.,basket,
+1767931,blade of fan,The ceiling fan is black and white.,ceiling fan,black; white
+1751900,rim of hat,The hat is a straw hat with a green and yellow pattern.,hat,straw; green and yellow pattern
+1760176,top of microwave_oven,The microwave is black and white.,microwave,black; white
+1763370,body of plate,The dish in the upper right corner of the image.,dish,
+1704747,handle of handbag,The silver jar with a lid on it.,jar,silver; with lid
+1732424,side of pan_(for_cooking),A silver pot on a stove.,pot,silver
+1737395,leg of stool,The chair is white and has a metal frame.,chair,white; metal frame
+1740768,base of lamp,The pillow on the bed with the green pillow on it.,pillow,green
+1767335,rail of chair,The chair that the woman in the blue and white dress is sitting on.,chair,
+1741009,handle of mug,The white mug on the table.,mug,white
+1751830,back of remote_control,The remote is black and has a blue button.,remote,black; blue button
+1755103,rail of ladder,The green ladder is leaning against the wall.,ladder,green
+1695995,text of plastic_bag,The bag of noodles.,bag,
+1719490,cuff of sweater,The girl's left hand.,hand,left
+1736910,trunk of car_(automobile),A red bus on a street.,bus,red
+1723065,bezel of telephone,A telephone is sitting on a desk.,telephone,
+1755422,rim of pan_(for_cooking),The table top is made of metal.,table top,metal
+1721987,bottom of box,The box is brown in color.,box,brown
+1727516,arm of bench,The bench on the left.,bench,
+1714632,leg of chair,The chair is made of wood and has a brown color.,chair,wood; brown
+1746590,outer_side of tray,The red tablecloth is decorated with a pattern of stars and a red background.,tablecloth,red; pattern of stars
+1708423,handle of spoon,The spoon on the right.,spoon,
+1731269,base of glass_(drink_container),The glass is clear and has a yellowish tint.,glass,clear; yellowish tint
+1695213,mouth of vase,The vase on the right.,vase,
+1694890,neckband of sweater,The woman in the blue shirt is wearing a blue shirt with white writing on it.,shirt,blue; white writing
+1771153,base of blender,The blender is silver and black in color.,blender,silver; black
+1721111,inner_side of pan_(for_cooking),The pan in the middle.,pan,
+1763861,inner_body of mug,The inside of the mug is shiny and reflective.,mug,shiny; reflective
+1691515,control_panel of microwave_oven,The microwave has a digital display.,microwave,digital display
+1742843,food_cup of blender,The blender is full of food.,blender,full
+1747282,leg of table,The table is made of wood.,table,wood
+1753253,side of microwave_oven,The refrigerator on the left side of the kitchen.,refrigerator,
+1756573,lid of trash_can,The toilet paper holder is white and has a plastic cover.,toilet paper holder,white; plastic cover
+1749338,apron of table,The table is white and has a black keyboard on it.,keyboard,black
+1741653,shoulder of sweater,A brown and white sweater with a plaid pattern.,sweater,brown; white; plaid pattern
+1711336,shoulder of bottle,The red can of Arizona fruit punch.,can,red
+1724511,inner_side of basket,The yellow and blue toy is on the floor.,toy,yellow; blue
+1714338,inner_body of cup,The hand of a baby.,hand,small
+1756099,hood of car_(automobile),The car is silver and black.,car,silver; black
+1741814,tail of dog,The bedspread is white with a floral pattern.,bedspread,white; floral pattern
+1731346,roof of car_(automobile),A car with its brake lights on.,car,brake lights on
+1747179,foot of vase,The rocks in the vase are grey and brown.,rocks,grey; brown
+1758382,window of car_(automobile),The car is a silver sedan.,sedan,silver
+1772106,arm of chair,The brown couch in the right hand picture.,couch,brown
+1762368,handle of scissors,The scissors are brown in color.,scissors,brown
+1702224,top of television_set,The man in the red shirt.,man,red shirt
+1756225,button of cellular_telephone,The pink cellphone has a keypad with a number 2 key.,cellphone,pink; keypad; number 2 key
+1705416,text of newspaper,"A newspaper with the word ""finance"" on the top left corner.",newspaper,visible text
+1726052,body of can,A can of diet coke.,can,diet; coke
+1712804,inner_body of glass_(drink_container),The glass of water on the left.,glass,clear
+1754104,bumper of car_(automobile),The car is white and has a black bumper.,car,white; black bumper
+1694999,page of book,A book on a desk.,book,
+1749247,foot of dog,The dog's face is white and fluffy.,dog's face,white; fluffy
+1707251,blade of scissors,The scissors are blue and silver.,scissors,blue; silver
+1739105,rim of basket,The table cloth is blue and yellow.,table cloth,blue; yellow
+1687390,embroidery of pillow,The pillow on the left side of the bed.,pillow,
+1689800,fender of car_(automobile),A white truck parked in front of a church.,truck,white
+1747592,touchpad of laptop_computer,The keyboard of a laptop.,keyboard,
+1698358,body of jar,The table is made of wood.,table,wood
+1762865,bowl of spoon,The spoon is silver and has a handle.,spoon,silver; has a handle
+1705598,body of bucket,A woman wearing a black jacket.,jacket,black
+1748669,finger_hole of scissors,The eye of a man.,eye,human; detailed
+1709712,label of bottle,The bottle of oranges is a clear bottle with a white label.,bottle,clear; white label
+1750194,windshield of car_(automobile),A man wearing a black jacket and a black helmet.,man,black jacket; black helmet
+1749569,frame of mirror,The reflection of a school bus in a rear view mirror.,rear view mirror,reflective
+1697992,button of remote_control,The remote control is a black and silver device with a lot of buttons.,remote control,black; silver; many buttons
+1740870,bezel of cellular_telephone,The cellphone is a Motorola brand.,cellphone,motorola brand
+1717332,inner_side of box,A slice of pizza in a box.,slice of pizza,[none]
+1763868,screen of cellular_telephone,The screen of a cell phone.,cell phone screen,
+1712044,back_cover of cellular_telephone,The cellphone in the man's hand.,cellphone,
+1721501,side of crate,The blue and white phone.,phone,blue; white
+1730496,body of mouse_(computer_equipment),The mouse is white and has a black cord.,mouse,white; black cord
+1752712,handle of knife,The fork on the left.,fork,
+1754150,leg of bench,The ground is covered with dirt and grass.,ground,dirt; grass
+1756618,body of mug,The cup is white with a floral pattern on it.,cup,white; floral pattern
+1702538,bottom of television_set,The television screen is displaying a video game.,television screen,displaying video game; []
+1707202,bottom of tray,The bottom layer of the cake.,cake,bottom layer
+1772102,neck of vase,The vase is made of clay and has a brown color.,vase,clay; brown
+1696845,side of television_set,A television screen displaying a man and a woman.,television screen,displaying image
+1747908,shade of lamp,The couch on the left.,couch,
+1736881,blade of knife,A knife with a black handle.,knife,black handle
+1694147,rim of tray,The table under the plate.,table,
+1714567,neck of dog,The fur on the dog's neck is black.,dog neck,black
+1749327,seat of chair,The chair is green.,chair,green
+1762705,lid of box,The pizza box is brown in color.,pizza box,brown
+1742578,inner_side of tray,A tray with food and drinks on it.,tray,[none]
+1765355,case of clock,The clock face is made of metal.,clock face,metal
+1709158,body of scarf,The scarf is gray and has a fringe.,scarf,gray; fringe
+1711926,body of towel,A white pillow on a shelf.,pillow,white
+1737588,ear of dog,The dog's face is brown and white.,dog's face,brown; white
+1722288,body of trash_can,The motorcycle is blue and white.,motorcycle,blue; white
+1744314,yoke of sweater,The man in the black shirt is wearing glasses.,man,black shirt; glasses
+1708355,body of bottle,The milk carton is on the bottom shelf of the refrigerator.,milk carton,
+1704361,back of laptop_computer,A laptop computer.,laptop,
+1768553,rim of bowl,The bowl of soup.,bowl,soup
+1725925,body of sweater,A girl wearing a red shirt with a picture of a girl on it.,shirt,red; with picture
+1742060,side of basket,The basket is woven and has a handle.,basket,woven; handle
+1690624,body of handbag,The purse is green and has a leather strap.,purse,green; leather strap
+1707349,leg of dog,The dog on the left is brown and white.,dog,brown; white
+1747375,sleeve of sweater,A woman with dark hair and a tan sweater.,sweater,tan
+1715024,body of bowl,The bowl is white and contains a variety of fruits.,bowl,white
+1735945,keyboard of laptop_computer,The keyboard of the laptop on the left.,keyboard,
+1765257,rim of plate,A plate of food with a fork and knife on it.,plate,[none]
+1754036,inner_body of bowl,A white bowl with a spoon in it.,bowl,white
+1728744,seat of bench,The bench on the left.,bench,
+1759254,bottom of plate,The napkin is blue in color.,napkin,blue
+1689039,base_panel of laptop_computer,A black and white kitten is sleeping on a laptop.,kitten,black and white; sleeping
+1770925,cover of book,"The book titled ""Freethinkers"" is the second book from the bottom.",book,titled; second from bottom
+1715751,head of dog,The chair the dog is sitting on.,chair,
+1694895,back of bench,The bench is made of wood.,bench,wood
+1689714,wheel of bicycle,The sidewalk is made of concrete.,sidewalk,concrete
+1761039,body of dog,A dog in a sink.,dog,
+1764327,side of box,The box is white and has a logo on it.,box,white; logo
+1708258,screen of laptop_computer,The laptop on the left.,laptop,
+1722335,body of plastic_bag,The potatoes are in the left side of the image.,potatoes,
+1688112,back of chair,The person in the background is wearing a black jacket.,jacket,black
+1743883,top of table,A wooden table with a white tablecloth.,table,wooden; white
+1727829,inner_wall of plate,"A white plate with a blueberry, strawberry, and banana dessert on it.",plate,white
+1726397,body of glass_(drink_container),The white cup in the right hand picture.,cup,white
+1759847,body of vase,The vase is clear and has a blue and white design.,vase,clear; blue and white design
+1764540,body of kettle,The white tea kettle on the wall.,tea kettle,white
+1696825,colied_tube of pipe,The pipe is brown and has a lot of curves.,pipe,brown; curved
+1746467,step of ladder,A motorcycle with a man on it.,motorcycle,
+1742580,hand of clock,The clock hands are black and white.,clock hands,black; white
+1770238,inner_body of trash_can,A white trash can with a black lid.,trash can,white; black lid
+1692800,handle of vase,The handle of the vase is green.,vase handle,green
+1705842,base of plate,The white plate with the small piece of food on it.,plate,white; small
+1756009,body of soap,A bottle of Ajax dishwashing liquid.,bottle,liquid
+1699718,bottom of bowl,The bowl in the right hand picture is filled with chopped onions.,bowl,filled; chopped onions
+1698676,inner_body of plastic_bag,A white trash bag with a black top.,trash bag,white; black top
+1743271,base of television_set,A remote control with a black and silver color scheme.,remote control,black; silver
+1747122,neck of bottle,"A bottle of soy sauce with a label that says ""Brasco"" on it.",bottle,label; text: brasco
+1697109,inner_body of bucket,A blue bucket with a yellow handle.,bucket,blue; yellow handle
+1694760,seat of stool,The stool in front of the counter.,stool,
+1695702,basket of bicycle,The bike that the woman in the pink shirt is riding.,bike,pink shirt
+1727216,blade of fan,The cat is sitting on the windowsill.,cat,
+1733765,rim of hat,The hat is brown and has a straw weave.,hat,brown; straw weave
+1687364,top of microwave_oven,The microwave is white and has a black door.,microwave,white; black door
+1756502,body of plate,A blue plate with a variety of foods on it.,plate,blue; [none]
+1705850,handle of handbag,The handbag is black and gold in color.,handbag,black; gold
+1754448,side of pan_(for_cooking),A large pot on the stove.,pot,large
+1692294,leg of stool,A wooden stool with a round top.,stool,wooden; round top
+1731082,base of lamp,The mirror on the wall.,mirror,
+1699792,rail of chair,The red table behind the woman.,table,red
+1709669,handle of mug,The handle of the coffee mug.,handle,
+1711915,back of remote_control,The remote control on the right.,remote control,
+1689780,rail of ladder,The truck is a fire truck.,fire truck,
+1734846,text of plastic_bag,A white paper towel with a green and white logo on it.,paper towel,white; green and white logo
+1700916,cuff of sweater,The woman is wearing a black and white sweater.,sweater,black and white
+1739793,trunk of car_(automobile),The blue car in the right hand picture.,car,blue
+1771885,bezel of telephone,The telephone is a black corded phone with a white base.,telephone,black; corded; white base
+1767909,rim of pan_(for_cooking),The trays are lined up on the counter.,tray,
+1765971,bottom of box,A slice of pizza on a box.,slice of pizza,
+1751789,arm of bench,The metal part of the bench that the dog is sitting on.,bench part,metal
+1737547,leg of chair,The chair the baby is sitting on.,chair,
+1689128,outer_side of tray,The table is made of wood.,table,wood
+1720382,handle of spoon,The red bowl with the meat and pasta.,bowl,red
+1723492,base of glass_(drink_container),The glass is clear and has a stem.,glass,clear; has a stem
+1713478,mouth of vase,The heart shaped container is filled with colorful origami paper.,container,heart shaped; filled
+1720523,neckband of sweater,The red lipstick on the man's face.,lipstick,red
+1745362,base of blender,The blender is white and silver in color.,blender,white; silver
+1714627,inner_side of pan_(for_cooking),"The pizza is topped with mushrooms, spinach, and feta cheese.",pizza,topped; mushrooms; spinach; feta cheese
+1696921,inner_body of mug,The red cup on the left.,cup,red
+1760923,control_panel of microwave_oven,The microwave is white and has a digital display.,microwave,white; digital display
+1700323,leg of table,The wooden chair in the kitchen.,chair,wooden
+1754134,side of microwave_oven,The white cabinet above the stove.,cabinet,white
+1764479,lid of trash_can,The object within the red rectangle is a small metal container with a white lid.,metal container,small; white lid
+1740646,apron of table,The table is made of wood.,table,wood
+1713426,shoulder of sweater,"The woman has a short cut, brown hair.",hair,short cut; brown
+1711820,shoulder of bottle,The milk is in a glass bottle with a blue and white label.,glass bottle,blue and white label
+1716928,inner_side of basket,A white plastic container with a black handle.,container,white; plastic; black handle
+1716384,inner_body of cup,The white cup on the left.,cup,white
+1757761,tail of dog,The tail of the dog.,tail,
+1767660,roof of car_(automobile),The bus in the middle of the other buses.,bus,
+1745422,foot of vase,The table that the vases are sitting on.,table,
+1700405,window of car_(automobile),The car is black in color.,car,black
+1736238,arm of chair,The chair in the right hand picture.,chair,
+1712009,handle of scissors,The orange handle of a pair of scissors.,scissors handle,orange
+1688609,top of television_set,The cat is standing on the tv.,tv,
+1771475,button of cellular_telephone,A black remote control.,remote control,black
+1733109,text of newspaper,The bowl of fruit.,bowl,fruit
+1709741,body of can,The can of soda is a dark brown color with a red and white label.,can,dark brown; red and white label
+1740104,inner_body of glass_(drink_container),The pizza in the right hand picture.,pizza,
+1735154,bumper of car_(automobile),A woman with a red head and a black shirt.,woman,red; black
+1743455,page of book,The book is open to a page with a picture of a dog.,book,open; page with picture
+1701681,foot of dog,The dog's front paws are white and black.,dog's front paws,white; black
+1711124,blade of scissors,The tie is orange and black.,tie,orange; black
+1711937,rim of basket,The bananas are in a wire basket.,basket,wire
+1756729,embroidery of pillow,The pillow on the bed is a floral pattern.,pillow,floral pattern
+1740493,fender of car_(automobile),A black car parked behind a chain link fence.,car,black
+1740797,touchpad of laptop_computer,The black mouse pad.,mouse pad,black
+1725808,body of jar,A glass jar with a lid on it.,jar,glass; with lid
+1747268,bowl of spoon,The fork is silver and has a black handle.,fork,silver; black handle
+1701021,body of bucket,A teddy bear in a plastic container.,teddy bear,plastic container; [none]
+1697873,finger_hole of scissors,The scissors are gold in color.,scissors,gold
+1744462,label of bottle,The sandwich on the plate.,sandwich,[none]
+1690217,windshield of car_(automobile),"The front of the bus has a large windshield with a wiper. The windshield has a logo on it that says ""Seattle"" and ""VIA"". The bus is white with a blue stripe.",windshield,large; with wiper; logo; white; blue stripe
+1688147,frame of mirror,The chair in the mirror.,chair,
+1726198,button of remote_control,The remote control on the right.,remote control,
+1699410,bezel of cellular_telephone,The reflection of a window in the phone.,phone,reflective
+1755613,inner_side of box,The donuts are in a box.,box,
+1709074,screen of cellular_telephone,The keyboard of a laptop.,keyboard,
+1712447,back_cover of cellular_telephone,The cellphone on the right.,cellphone,
+1697134,side of crate,A wooden crate filled with coconuts.,crate,wooden; filled
+1701846,body of mouse_(computer_equipment),A white computer mouse.,computer mouse,white
+1707370,handle of knife,The knife on the left.,knife,
+1713673,leg of bench,The floor is covered with a rug.,rug,covered
+1735391,body of mug,The cup in the background is white and has a lid on it.,cup,white; with lid
+1764821,bottom of television_set,The television screen is black.,television screen,black
+1708522,bottom of tray,The donuts in the middle of the display.,donuts,
+1741988,neck of vase,The vase has a blue and red color scheme.,vase,blue and red color scheme
+1762938,side of television_set,The television screen is displaying a golf game.,television screen,displaying golf game; [none]
+1695180,shade of lamp,The wooden wall on the left side of the room.,wall,wooden
+1713300,blade of knife,The knife on the plate.,knife,[none]
+1692402,rim of tray,A tray of food.,tray,[none]
+1768757,neck of dog,The dog has a pink tongue.,tongue,pink
+1703138,seat of chair,The blue bench on the left.,bench,blue
+1765414,lid of box,A blue box with a white label.,box,blue; white label
+1738748,inner_side of tray,The pizza in the foreground.,pizza,
+1756041,case of clock,The clock is black and white.,clock,black; white
+1704535,body of scarf,The object in the red rectangle is a brown teddy bear.,teddy bear,brown
+1700554,body of towel,A towel hanging on the oven door handle.,towel,hanging
+1702425,ear of dog,The dog's left ear.,ear,left
+1768204,body of trash_can,A trash can with a blue bag in it.,trash can,blue bag
+1689366,yoke of sweater,The white shirt the woman is wearing.,shirt,white
+1719479,body of bottle,The bottle of wine in the middle of the other bottles.,bottle,middle
+1757437,back of laptop_computer,The laptop is black in color.,laptop,black
+1756042,rim of bowl,A bowl of vegetables.,bowl,[none]
+1704555,body of sweater,A black bag with a white tag on it.,bag,black; white tag
+1700933,side of basket,The donut on the right.,donut,
+1708749,body of handbag,The purse in the bottom right corner.,purse,
+1766981,leg of dog,The grass is dry and brown.,grass,dry; brown
+1723703,sleeve of sweater,A woman wearing a grey sweater and holding a glass of wine.,sweater,grey
+1741758,body of bowl,A bunch of bananas in a bowl.,bowl,none
+1712866,keyboard of laptop_computer,The keyboard of a laptop.,keyboard,
+1724255,rim of plate,A plate of food with broccoli and mashed potatoes.,plate,food; broccoli; mashed potatoes
+1708729,inner_body of bowl,A hand holding a bowl of food.,bowl,food
+1715815,seat of bench,A bench made of wood.,bench,wood
+1705923,bottom of plate,The crust of a pizza.,pizza crust,
+1747727,base_panel of laptop_computer,The laptop is grey and white.,laptop,grey; white
+1715223,cover of book,"A book titled ""The Mythology of the Pagan Peoples"" by Roland Barthes.",book,titled; by roland barthes
+1747648,head of dog,The dog is looking out the window of the boat.,dog,
+1691684,back of bench,The table in the right hand picture.,table,
+1709345,wheel of bicycle,A bicycle with a man on it.,bicycle,
+1763728,body of dog,The dog on the left.,dog,
+1758656,side of box,The white box with the black writing on it.,box,white; black writing
+1708945,screen of laptop_computer,The laptop in the middle of the table.,laptop,
+1726456,body of plastic_bag,A red and white plate with a knife on top.,plate,red and white; [none]
+1702104,back of chair,The chair is brown in color.,chair,brown
+1716595,top of table,The countertop is made of granite.,countertop,granite
+1751332,inner_wall of plate,A white plate with a dessert on it.,plate,white
+1728363,body of glass_(drink_container),A glass of soda with ice in it.,glass,clear; filled; with ice
+1763416,body of vase,The vase on the bottom left.,vase,
+1727405,colied_tube of pipe,The sink is white and has a chrome faucet.,sink,white; chrome
+1739914,inner_body of trash_can,The bag is white and plastic.,bag,white; plastic
+1743614,handle of vase,The handle of the vase.,handle,
+1757063,base of plate,The plate in the back is blue and white with a yellow design.,plate,blue and white; yellow design
+1752633,body of soap,The bottle of mouthwash is on the counter.,bottle,glass
+1735560,bottom of bowl,The orange in the bowl.,orange,[none]
+1725100,inner_body of plastic_bag,A silver trash can with a white bag.,trash can,silver; white bag
+1768156,neck of bottle,The bottle on the left.,bottle,
+1763885,inner_body of bucket,A white plate with a red rim.,plate,white; red rim
+1729236,seat of stool,The chair is yellow and made of plastic.,chair,yellow; plastic
+1691256,basket of bicycle,A brown purse with a black strap.,purse,brown; black strap
+1717451,blade of fan,A blue and white fan.,fan,blue; white
+1736921,rim of hat,The boy is wearing a blue hat.,hat,blue
+1749073,top of microwave_oven,The green wall behind the microwave.,wall,green
+1744566,body of plate,The table is made of wood.,table,wood
+1735568,handle of handbag,A green bag with a brown strap.,bag,green; brown strap
+1721571,side of pan_(for_cooking),A cake with white frosting and a red and green striped ribbon.,cake,white frosting; red and green striped ribbon
+1755175,leg of stool,A wooden stool with a red seat.,stool,wooden; red seat
+1710335,base of lamp,A laptop computer sitting on a desk.,laptop computer,
+1762193,rail of chair,A black cat sitting on a railing.,cat,black
+1699124,handle of mug,The glass of beer is full and has a foamy head.,glass of beer,full; foamy head
+1715185,back of remote_control,The remote on the far right.,remote,
+1760272,rail of ladder,The shadow of the ladder on the ground.,ladder,shadow
+1733061,text of plastic_bag,A white bag with green writing on it.,bag,white; green writing
+1750893,cuff of sweater,The person is holding a black controller in their hands.,controller,black
+1727906,trunk of car_(automobile),A yellow car in the right lane of traffic.,car,yellow
+1727266,bezel of telephone,The telephone on the left.,telephone,
+1702448,bottom of box,The pizza in the box.,pizza,[none]
+1710641,arm of bench,A man and a little girl sitting on a bench.,bench,
+1762030,leg of chair,The floor is made of wood.,floor,wood
+1744652,outer_side of tray,The table is grey.,table,grey
+1687420,handle of spoon,The spoon is made of metal and is silver in color.,spoon,metal; silver
+1764323,base of glass_(drink_container),The glass is clear and has a yellow liquid in it.,glass,clear; yellow liquid
+1691634,mouth of vase,The white bowl with a blue rim.,bowl,white; blue rim
+1748466,neckband of sweater,The tie is yellow and blue.,tie,yellow; blue
+1720934,inner_side of pan_(for_cooking),A pizza on a grill.,pizza,
+1712082,inner_body of mug,A cup of tea with a spoon in it.,cup,
+1707967,control_panel of microwave_oven,The control panel of the microwave.,control panel,
+1767105,leg of table,The chair closest to the camera.,chair,
+1753131,side of microwave_oven,A white microwave oven.,microwave oven,white
+1717875,lid of trash_can,A black trash can with graffiti on it.,trash can,black; graffiti
+1711935,apron of table,The table is made of wood.,table,wood
+1757180,shoulder of sweater,The man in the black sweater is looking at his cell phone.,cell phone,
+1763771,shoulder of bottle,A bottle of ketchup on a table.,bottle,
+1757530,inner_side of basket,The apples in the right hand picture are a mix of red and green.,apples,red; green
+1769258,inner_body of cup,The black coffee mug on the table.,coffee mug,black
+1767299,tail of dog,The tail of the dog is white and fluffy.,dog tail,white; fluffy
+1759182,foot of vase,The base of the vase is made of glass.,vase base,glass
+1712011,window of car_(automobile),The car in the background is a white sedan.,car,white; sedan
+1753423,arm of chair,The chair on the left.,chair,
+1730060,handle of scissors,The woman's hair is brown and curly.,hair,brown; curly
+1689908,top of television_set,The television is on.,television,on
+1712556,button of cellular_telephone,A cow figurine.,figurine,cow
+1693453,text of newspaper,The newspaper is folded and has a picture of a city on it.,newspaper,folded; picture of a city
+1758472,body of can,The table cloth is blue and white checkered.,table cloth,blue and white; checkered
+1761760,inner_body of glass_(drink_container),The glass on the left.,glass,left
+1706392,bumper of car_(automobile),A red car parked on the street.,car,red
+1719152,page of book,The book on the bottom right.,book,
+1770985,foot of dog,The dog's right paw.,paw,right
+1731167,blade of scissors,The scissors are made of metal and have a black handle.,scissors,metal; black handle
+1750368,rim of basket,The carrots in the basket.,basket,[none]
+1760607,embroidery of pillow,The bed on the right.,bed,
+1742387,fender of car_(automobile),The white object in the bottom left corner.,object,white
+1766832,touchpad of laptop_computer,The trackpad on the laptop.,trackpad,
+1718519,body of jar,The bottle of mustard is yellow and has a red cap.,bottle of mustard,yellow; red cap
+1739941,bowl of spoon,A spoon on a plate.,spoon,[none]
+1701161,body of bucket,A yellow bucket with the word price on it.,bucket,yellow; visible text
+1696529,finger_hole of scissors,The blue scissors.,scissors,blue
+1723784,label of bottle,The bottle of Tropicana orange juice.,bottle,transparent; tall; cylindrical
+1744700,windshield of car_(automobile),The car on the far left.,car,
+1737804,frame of mirror,The red shelf above the bed.,shelf,red
+1726934,button of remote_control,The remote is black and silver.,remote,black; silver
+1760275,bezel of cellular_telephone,The person is holding a cell phone in their pocket.,cell phone,
+1691876,inner_side of box,The box is blue in color.,box,blue
+1692216,screen of cellular_telephone,The phone in the top right corner.,phone,
+1742807,back_cover of cellular_telephone,The phone is silver and white.,phone,silver; white
+1726062,side of crate,The white crates on the back of the cart.,crate,white
+1751392,body of mouse_(computer_equipment),The mouse is grey and black.,mouse,grey; black
+1712549,handle of knife,The knife is silver and has a black handle.,knife,silver; black handle
+1742746,leg of bench,A wooden bench with a woman sitting on it.,bench,wooden
+1764634,body of mug,The white cup in the background.,cup,white
+1697056,bottom of television_set,The monitor is turned on.,monitor,turned on
+1734932,bottom of tray,The two small packets of butter.,packet,small
+1688683,neck of vase,The white vase is sitting on a shelf.,vase,white
+1772126,side of television_set,A television set is placed on a table.,television set,
+1733875,shade of lamp,The lamp shade is white and has a round shape.,lamp shade,white; round shape
+1687907,blade of knife,The knife in the right hand picture.,knife,
+1704678,rim of tray,A hot dog with a bun and toppings.,hot dog,with bun; with toppings
+1767327,neck of dog,"The dog's face is covered in fur, and it has a red ball in its mouth.",dog,fur; red ball
+1771546,seat of chair,The chair is green and brown.,chair,green; brown
+1752628,lid of box,The table is brown in color.,table,brown
+1758462,inner_side of tray,A pizza with cheese and meat on it.,pizza,cheese; meat
+1766223,case of clock,The clock face on the left.,clock face,
+1756270,body of scarf,A white flower is pinned to the man's shirt.,flower,white
+1704434,body of towel,The towel is white and folded.,towel,white; folded
+1771423,ear of dog,The dog's head is black and has a white nose.,dog head,black; white nose
+1717597,body of trash_can,The trash can is black and has a lid.,trash can,black; has a lid
+1713798,yoke of sweater,The woman is wearing a yellow sweater.,sweater,yellow
+1687873,body of bottle,"The glass on the left is a clear glass with a red label on it. The label is a white circle with a red border and the word ""cola"" written in white.",glass,clear; red label
+1693734,back of laptop_computer,A black laptop with a bottle of ketchup on it.,laptop,black
+1741319,rim of bowl,The bowl is blue in color.,bowl,blue
+1768602,body of sweater,The green shirt the boy is wearing.,shirt,green
+1764122,side of basket,The basket is brown in color.,basket,brown
+1714436,body of handbag,The person on the right is wearing a black jacket.,jacket,black
+1737556,leg of dog,The dog is sitting on the floor.,dog,
+1754751,sleeve of sweater,The sweater is knitted.,sweater,knitted
+1746280,body of bowl,The tie is yellow with red and green dots.,tie,yellow; red and green dots
+1705072,keyboard of laptop_computer,The laptop screen is on.,laptop screen,on
+1695442,rim of plate,The plate is white and has a pattern on it.,plate,white; pattern
+1687110,inner_body of bowl,The broccoli in the black container.,broccoli,black container
+1687089,seat of bench,The green metal pole.,pole,green; metal
+1715041,bottom of plate,A slice of pizza on a plate.,slice of pizza,[none]
+1711255,base_panel of laptop_computer,The keyboard of a laptop.,keyboard,
+1719782,cover of book,A book with a yellow cover and a girl on it.,book,yellow cover
+1756776,head of dog,The dog is laying down on the floor.,dog,
+1715732,back of bench,A man in a blue shirt sitting on a motorcycle.,motorcycle,blue shirt
+1702303,wheel of bicycle,The bike on the far right.,bike,
+1702893,body of dog,The dog on the right.,dog,
+1715824,side of box,The box of KrustyO's cereal.,box,cereal; krustyo's
+1740668,screen of laptop_computer,The laptop screen is blue with a white background.,laptop screen,blue; white background
+1734916,body of plastic_bag,The green suitcase in the right hand picture.,suitcase,green
+1686257,back of chair,The chair is wooden and has a blue cushion.,chair,wooden; blue cushion
+1700632,top of table,"The table is set with a variety of foods, including bread, cheese, olives, and vegetables. There are several plates of food, as well as bowls containing additional items. The table is covered with a red and white checkered tablecloth.",tablecloth,red and white checkered
+1746377,inner_wall of plate,The plate is white and has a pizza on it.,plate,white
+1690398,body of glass_(drink_container),The glass of water is clear and has a reflection on the surface.,glass,clear; reflection
+1720416,body of vase,The reflection of the vase in the mirror.,vase,[none]
+1746285,handle of vase,"The plant in the vase is a long, thin, and brown plant.",plant,long; thin; brown
+1693258,bottom of bowl,The bowl is white and empty.,bowl,white; empty
+1725967,basket of bicycle,A bicycle seat.,bicycle seat,
+1748828,blade of fan,A white refrigerator with a white freezer on top.,refrigerator,white
+1701221,rim of hat,The tie is black and white.,tie,black; white
+1704146,body of plate,The blue plate that the donuts are sitting on.,plate,blue
+1734656,handle of handbag,A black leather handbag with a silver chain.,handbag,black; leather; silver chain
+1769974,leg of stool,A man in a grey sweatshirt playing a video game.,man,grey sweatshirt
+1748767,rail of chair,The glass on the right.,glass,
+1760070,back of remote_control,A remote control on the floor.,remote control,
+1692738,rail of ladder,A tennis racket being held by a man in a white shirt.,tennis racket,white shirt; [none]
+1760064,text of plastic_bag,The box is green and blue.,box,green; blue
+1741122,cuff of sweater,The white wii remote in the woman's hand.,wii remote,white
+1722404,trunk of car_(automobile),A truck with a white back and red stripe.,truck,white; red stripe
